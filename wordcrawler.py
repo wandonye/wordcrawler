@@ -29,8 +29,13 @@ def home():
 	client = APIClient(app_key=APP_KEY, app_secret=APP_SECRET, redirect_uri=CALLBACK_URL)
 	url = client.get_authorize_url()
 	# TODO: redirect to url
-#	print url
 	return render_template('home.html',url=url)
+	code = '4963afb83e6fa5fad0d40e73753babf0'
+	r = client.request_access_token(code)
+	expires_in = r.expires_in
+	print access_token, expires_in
+	client.set_access_token(access_token, expires_in)
+	print client.friendships.friends.bilateral.ids.get(uid = 12345678)
     
 if __name__ == '__main__':
     app.run()
