@@ -22,9 +22,9 @@ app = Flask(__name__)
 @app.route('/')
 def home():
 
-	APP_KEY = '162581389'
-	APP_SECRET = '91f1a7d9f52df405f0273b55c2edaa0f'
-	CALLBACK_URL = 'http://condorism.com'
+	APP_KEY = '610318562'
+	APP_SECRET = 'c721796a9f424d20d232a119a081dac4'
+	CALLBACK_URL = 'http://still-brook-1028.herokuapp.com'
 	#这个是设置回调地址，必须与那个”高级信息“里的一致
 	client = APIClient(app_key=APP_KEY, app_secret=APP_SECRET, redirect_uri=CALLBACK_URL)
 	url = client.get_authorize_url()
