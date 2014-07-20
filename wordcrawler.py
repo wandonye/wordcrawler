@@ -7,11 +7,11 @@ app = Flask(__name__)
 
 
 #webbrowser.open_new(url)
-@app.route('/?code=<code>')
-def show_data(code):
+@app.route(url_for('/', code=<tokencode>))
+def show_data(tokencode):
     # show the user profile for that user
 #	code = '4963afb83e6fa5fad0d40e73753babf0'
-	r = client.request_access_token(code)
+	r = client.request_access_token(tokencode)
 	expires_in = r.expires_in
 #	print access_token, expires_in
 	client.set_access_token(access_token, expires_in)
@@ -31,6 +31,8 @@ def home():
 	client = APIClient(app_key=APP_KEY, app_secret=APP_SECRET, redirect_uri=CALLBACK_URL)
 	url = client.get_authorize_url()
 	# TODO: redirect to url
+	print access_token, expires_in
+	print client.friendships.friends.bilateral.ids.get(uid = 12345678)
 	return render_template('home.html',url=url)
     
 if __name__ == '__main__':
