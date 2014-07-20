@@ -32,6 +32,6 @@ def home():
 #	print url
 	return render_template('home.html',url=url)
     
-if __name__ == '__main__':
-    app.run()
+#if __name__ == '__main__':
+#    app.run()
     #app.run(host='0.0.0.0')
