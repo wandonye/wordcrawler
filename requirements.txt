@@ -1,0 +1,8 @@
+-e git+http://github.com/mitsuhiko/flask.git@577581665ce745898c29ca502e0a3aba1f16677e#egg=Flask-origin/HEAD
+Jinja2==2.7.3
+MarkupSafe==0.18
+Werkzeug==0.9.6
+click==2.4
+gunicorn==19.0.0
+itsdangerous==0.24
+wsgiref==0.1.2
