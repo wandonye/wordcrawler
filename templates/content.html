@@ -1,0 +1,15 @@
+<!doctype html>
+<title>{% block title %}Welcome{% endblock %} | Wangwang</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+<div class=page>
+  <h1>忘忘抓词</h1>
+  <h3>token={{ token }}, exp={{ exp }}<h3>
+  <div class=body>
+  {% block body %}  
+  {{ content }}
+  {% endblock %}
+  </div>
+  <div class=footer>
+    忘忘先背 &mdash; A Flask Application
+  </div>
+</div>
