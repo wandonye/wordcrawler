@@ -33,13 +33,15 @@ def home():
 		expires_in = r.expires_in
 		print access_token, expires_in
 		client.set_access_token(access_token, expires_in)
-		content= client.friendships.friends.bilateral.ids.get(uid = 1407222942)
+		content=client.statuses.friends_timeline.get(page=pagenum)['statuses']
+		#content= client.statuses.home_timeline.get(uid = 1407222942)
+		#uid = 1407222942
 
 		return render_template('content.html',token=access_token,exp=expires_in,content=content)
 
 		
     
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
     
     #app.run(host='0.0.0.0')
