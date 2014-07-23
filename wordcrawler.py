@@ -40,8 +40,12 @@ def home():
 		content=client.statuses.friends_timeline.get(page=pagenum)['statuses']
 		#content= client.statuses.home_timeline.get(uid = 1407222942)
 		#uid = 1407222942
+		length=len(content)
+		wbtext=''
+		for i in range(0,length):
+			wbtext+=content[i]['text']
 
-		return render_template('content.html',token=access_token,exp=expires_in,content=content)
+		return render_template('content.html',token=access_token,exp=expires_in,content=wbtext)
 
 		
     
