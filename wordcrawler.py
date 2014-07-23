@@ -1,5 +1,6 @@
 # _*_ coding: utf-8 _*_
 from weibo import APIClient
+import os.path
 
 from flask import Flask,request,render_template,url_for
 app = Flask(__name__)
@@ -7,9 +8,10 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-	tokencode = request.args.get('code')
-	print "code is ", tokencode
-	if tokencode is None:	
+
+	code = request.args.get('code')
+
+	if code is None:	
 		APP_KEY = '610318562'
 		APP_SECRET = 'c721796a9f424d20d232a119a081dac4'
 		CALLBACK_URL = 'http://still-brook-1028.herokuapp.com'
@@ -28,11 +30,13 @@ def home():
 		#这个是设置回调地址，必须与那个”高级信息“里的一致
 		client = APIClient(app_key=APP_KEY, app_secret=APP_SECRET, redirect_uri=CALLBACK_URL)
 
-		r = client.request_access_token(tokencode)
+		r = client.request_access_token(code)
 		access_token=r.access_token
 		expires_in = r.expires_in
 		print access_token, expires_in
 		client.set_access_token(access_token, expires_in)
+		
+		pagenum=1
 		content=client.statuses.friends_timeline.get(page=pagenum)['statuses']
 		#content= client.statuses.home_timeline.get(uid = 1407222942)
 		#uid = 1407222942
