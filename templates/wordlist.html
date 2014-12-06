@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block body %}
+  <h2>{{ self.title() }}</h2>
+  <ul class=messages>
+  {% for word in wordlist.keys() %}
+    <li><strong><a href="">{{ word }}</a></strong>
+      {{ wordlist[word] }}
+  {% else %}
+    <li><em>There's no word so far.</em>
+  {% endfor %}
+  </ul>
+{% endblock %}

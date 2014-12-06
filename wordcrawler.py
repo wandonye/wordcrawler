@@ -1,6 +1,6 @@
 # _*_ coding: utf-8 _*_
 from weibo import APIClient
-import os.path
+import os.path, time
 
 from flask import Flask,request,render_template,url_for
 app = Flask(__name__)
@@ -29,11 +29,13 @@ def home():
 		CALLBACK_URL = 'http://still-brook-1028.herokuapp.com'
 		#这个是设置回调地址，必须与那个”高级信息“里的一致
 		client = APIClient(app_key=APP_KEY, app_secret=APP_SECRET, redirect_uri=CALLBACK_URL)
-
-		r = client.request_access_token(code)
+		try:
+			r = client.request_access_token(code)
+		except:			#if code is invalid
+			url = client.get_authorize_url()
+			return render_template('home.html',url=url)
 		access_token=r.access_token
 		expires_in = r.expires_in
-		print access_token, expires_in
 		client.set_access_token(access_token, expires_in)
 		
 		pagenum=1
@@ -44,6 +46,7 @@ def home():
 		wbtext=''
 		for i in range(0,length):
 			wbtext+=content[i]['text']
+			wbtext+='\n'
 
 		return render_template('content.html',token=access_token,exp=expires_in,content=wbtext)
 

@@ -1,0 +1,6080 @@
+1	abandon	vt.	抛弃；放弃
+1	 	n.	放纵；沉溺
+2	abandoned	adj.	被抛弃的，废置的
+3	abandonment	n.	抛弃；放弃
+4	abbreviate	vt.	缩短；缩写
+5	abbreviation	n.	缩写；缩写词
+6	abide	vi.	遵守
+6	 	vt.	忍受
+7	abiding	adj.	持久的
+8	ability	n.	能力，才干
+9	inability	n.	无能，无力
+10	capability	n.	能力，性能，容量
+11	viability	n.	生存能力；可行性
+12	variability	n.	可变性
+13	ablaze	adj.	着火的，燃烧的；闪耀的
+14	blazing	adj.	炽烧的，闪耀的
+15	abnormal	adj.	反常的，异常的；变态的
+16	normal	adj.	正常的，正规的，标准的
+17	abolish	vt.	废除，取消
+18	abolition	n.	废除，取消
+19	abolitionist	n.	废奴主义者
+20	abort	n.	中止计划（任务）
+21	abound	vi.	充满；富于
+22	abrasion	n.	磨（擦）破；表面磨损
+23	abrasive	adj.	研磨的
+24	abrupt	adj.	突然的，意外的
+25	absenteeism	n.	旷课；旷工
+26	absentee	n.	缺席者
+27	absent	adj.	缺少的；不在的，缺席的
+28	absence	n.	缺少；不在，缺席
+29	absolute	adj.	完全的；绝对的
+30	absolutely	adv.	完全地；绝对地
+31	absorb	vt.	吸收（液体、知识）
+32	absorption	n.	吸收
+33	abstract	adj.	抽象的
+33	 	n/vt	摘要，提炼
+34	absurd	adj.	荒谬的，可笑的
+35	abundant	adj.	丰富的，充裕的；大量的
+36	abundantly	adv.	丰富地
+37	abundance	n.	丰富，充裕
+38	abuse	vt.	滥用；虐待
+39	abut	vi.	邻接，毗邻
+40	academic	adj.	学术的；学院的；理论的
+41	academician	n.	学会会员；院士；学者
+42	accelerate	v.	加快，加速
+43	accelerated	adj.	加速的，迅速的
+44	accelerating	adj.	加速的
+45	acceleration	n.	加速度
+46	access	n.	接触，接近（的机会）
+46	 	n.	入口，通道
+47	accessible	adj.	可接近的，可接触的；可得到的
+48	accessibility	n.	易接近；可达到
+49	accessory	n.	附件，零件
+50	accidental	adj.	意外的，偶然的
+51	accidentally	adv.	意外地，偶然地
+52	accident	n.	意外事件，事故
+53	acclaim	n.	赞誉，赞许
+53	 	vt.	喝彩，欢呼；称赞
+54	acclaimed	adj.	受人欢迎的
+55	accommodate	vt.	为提供食宿；与相符，与相适应
+56	accommodating	adj.	乐于助人的
+57	accompany	vt.	陪伴，伴随；伴奏
+58	accompanying	adj.	陪伴的，伴随的
+59	accompaniment	n.	伴奏
+60	accomplish	vt.	完成，达到，实现
+61	accomplished	adj.	精通的，熟练的
+62	accomplishment	n.	成就
+63	accordion	n.	手风琴
+64	account	n.	说明，解释
+64	 	n.	户头，账户
+64	 	vi.	解释
+65	on account of	词组	由于，因为
+66	take account of	词组	考虑到；体谅
+67	take into accou	词组	重视，考虑
+68	accounting	n.	会计学
+69	accountant	n.	会计员，会计师
+70	accredit	vt.	授权
+71	accumulate	vi.	堆积，积聚；积累
+72	accumulation	n.	积聚
+73	accurate	adj.	准确的，正确的
+74	accuracy	n.	准确性，正确性
+75	accuse	vt.	指责，归咎
+76	accusation	n.	谴责；控告
+77	accustomed	adj.	习惯了的
+78	achieve	vt.	完成，实现
+79	achievement	n.	成就，功绩
+80	acid	n.	酸
+80	 	adj.	酸的
+80	 	adj.	尖酸的，刻薄的
+81	acidic	adj.	酸的，酸性的
+82	acidity	n.	酸度，酸性
+83	acquaintance	n.	熟人
+84	acquaint	v.	熟悉
+85	acquisition	n.	获得
+86	acquire	vt.	获得，学到
+87	acronym	n.	首字母缩写词
+88	actual	adj.	实际的，现行的
+89	actually	adv.	实际上，事实上
+90	actuate	vt.	开动，促使
+91	activate	vt.	刺激，使活动
+92	actively	adv.	活跃地，积极地
+93	acute	adj.	灵敏的，敏锐的
+93	 	adj.	剧烈的；很严重的
+94	acumen	n.	敏锐，聪明
+95	adapt	v.	（使）适应，调整；改编
+96	adaptable	adj.	能适应的，适应能力强的
+97	adaptation	n.	改编，改写；适应环境
+98	adaptive	adj.	适合的；适应的
+99	addict	vt.	使上瘾，使沉溺
+99	 	n.	上瘾的人
+100	addictive	adj.	（使人）上瘾的
+101	additive	n.	添加剂
+101	 	adj.	加法的
+102	additional	adj.	另外的，附加的，额外的
+103	in addition to	词组	除..之外
+104	adept	adj.	熟练的，擅长的
+105	adequate	adj.	足够的，充实的
+106	adhere	vi.	黏附，粘牢
+106	 	vi.	追随，坚持
+107	adhesive	n.	粘着物
+107	 	adj.	粘着的
+108	adjacent	adj.	毗连的，邻近的
+109	adjoin	vt.	毗连，邻近
+110	adjoining	adj.	毗邻的
+111	adjunct	n.	附件，附属
+112	adjust	vt.	调整；使适于
+113	adjustment	n.	调整
+114	administer	vt.	管理
+115	administration	n.	经营，管理
+115	 	n.	当局，政府
+116	administrative	adj.	管理的；行政的
+117	administrator	n.	管理者；行政官
+118	admire	vt.	钦佩，崇拜；欣赏
+119	admiration	n.	钦佩，赞美
+120	admit	vt.	准许进入
+120	 	vt.	承认
+121	admittedly	adv.	公认地；诚然，无可否认地
+122	adobe	n.	泥砖，土坯
+123	adopt	vt.	采用，采纳
+123	 	vt.	收养
+124	adoption	n.	采用
+125	adorn	vt.	装饰
+126	adornment	n.	装饰；装饰品
+127	unadorned	adj.	未装饰的，朴实的
+128	advance	vt.	提高，发展；提升
+128	 	vt.	提出
+128	 	vi.	前进
+128	 	n.	前进，进步
+128	 	n.	预先，提前（in advance）
+129	advancement	n.	进展；提升
+130	advanced	adj.	高级的；年老的；先进的
+131	advent	n.	出现，到来
+132	adventure	n.	冒险经历
+133	adventurous	adj.	喜欢冒险的，敢做敢为的
+134	adventurer	n.	冒险家
+135	adverse	adj.	负面的，不利的
+135	 	adj.	敌对的，相反的
+136	adversely	adv.	相反地；不利地
+137	adversity	n.	不幸，灾难
+138	advocate	n.	提倡者，主张者，拥护者
+138	 	vt.	拥护，主张
+139	aesthetic	adj.	美学的，审美的
+140	anesthetic	n.	麻醉剂
+141	affect	v.	影响；假装
+142	affected	adj.	装模作样的
+143	affection	n.	友爱，挚爱，情爱
+144	affective	adj.	感情的，表达感情的
+145	affectionate	adj.	亲爱的，挚爱的
+146	affiliate	vt.	使隶属；接纳为成员
+147	affinity	n.	紧密关系
+147	 	n.	吸引；喜爱
+148	affirm	vt.	断言；证实，确认
+149	afflict	vt.	折磨；使苦恼
+150	affliction	n.	痛苦，苦恼
+151	affluent	adj.	富有的，丰富的
+152	afford	vt.	付得起；冒险做
+152	 	vt.	提供
+153	affordable	adj.	负担得起的，便宜的
+154	agenda	n.	日程，议程
+155	aggravate	vt.	使恶化，使加重
+156	aggravating	adj.	恼人的，讨厌的
+157	aggregate	n.	总数
+157	 	n.	聚集体
+158	aggregation	n.	集合，群体
+159	aggressive	adj.	强有力的，坚持己见的
+159	 	adj.	好斗的，有敌意的
+160	aggressiveness	n.	侵略；争斗
+161	agile	adj.	敏捷的，活泼轻快的
+162	agility	n.	敏捷，活泼
+163	fragile	adj.	易碎的，脆的
+164	fragility	n.	脆弱
+165	agitation	n.	焦虑，不安；煽动
+166	agreeable	adj.	使人愉快的，合意的
+166	 	adj.	容易相处的
+167	disagreeable	adj.	不令人喜欢的，令人厌恶的
+168	ailment	n.	疾病（尤指轻病、小病）
+169	aim	n.	目标，计划
+169	 	vi.	针对；打算，意欲
+170	air	n.	空气，空中
+170	 	vt.	晾干，使通风
+171	airborne	adj.	空气传播的；空运的，空降的
+172	ajar	adj.	（门窗等）微开的
+173	akin	adj.	同族的；类似的
+174	alchemy	n.	炼金术
+175	alder	n.	赤杨树
+176	alert	adj.	机敏的
+176	 	vt.	警报；使随时掌握、了解
+176	 	n.	警戒，警报
+177	algae	n.	海藻
+178	alien	adj.	相异的；陌生的
+179	salient	adj.	显著的，突出的
+180	alignment	n.	排列；联合，联盟
+181	alike	adj.	相同的，相似的
+182	all but	词组	+ adj. 几乎…
+182	 	词组	+ n.   除…以外所有的
+183	all inclusive	词组	无所不包的
+184	allegation	n.	宣称，主张，断言
+185	allegory	n.	寓言
+186	alliteration	n.	（诗歌的）头韵
+187	allocate	vt.	分配
+188	alloy	n.	合金
+188	 	vt.	使成合金
+189	allude	vi.	暗指，影射，间接提到
+190	ally	n.	联盟；同盟者
+190	 	v.	结盟
+191	rally	n.	集会
+192	aloft	adv.	在高处；在空中
+193	alone	adj./v.	单独的（地）
+194	aloof	adj.	远离的；冷淡的，漠不关心的
+195	alter	vt.	改变，修改
+196	alteration	n.	变更，改造
+197	alternate	adj.	交替的，轮流的
+197	 	adj.	替代的
+197	 	vi.	交替，轮流
+198	alternately	adv.	交替地，隔一个地
+199	alternation	n.	交替，轮流
+200	alternative	adj.	另一可选的，另外的
+200	 	n.	可选事物，另一种选择
+201	altitude	n.	高度
+202	latitude	n.	纬度
+203	platitude	adj.	陈词滥调
+204	aluminum	n.	铝
+205	amateur	adj.	业余的
+205	 	n.	业余爱好者
+206	amaze	vt.	使吃惊，使惊叹
+207	amazement	n.	惊愕，惊异
+208	amazing	adj.	令人惊异的
+209	ambience	n.	周围环境，气氛
+210	ambition	n.	雄心，抱负
+211	ambitious	adj.	有雄心的，渴望成功的
+212	ambivalent	adj.	有矛盾情绪的，举棋不定的
+213	ambivalence	n.	矛盾心理
+214	amble	vi.	漫步，缓行
+215	scramble	vt.	攀爬；搅乱，使混杂
+216	amenable	adj.	顺从的；应服从的
+217	amendment	n.	改正，修正
+218	Amendment	n.	宪法修正案
+219	amend	vt.	改正，修正
+220	amenity	n.	pl.生活福利设施，文娱康乐场所
+220	 	n.	（不可数）愉快，适意
+221	amid	prep.	在…中
+222	pyramid	n.	金字塔；金字塔现象/形状
+223	amnesia	n.	健忘症
+224	amount	n.	量，总合
+224	 	vi.	总计；等于
+225	ample	adj.	富足的，充足的
+226	trample	vt.	践踏，踩坏
+227	amplify	vt.	放大；扩大；增强
+228	amplification	n.	扩大
+229	an army of	词组	大群的，大量的
+230	analogy	n.	类比，类推
+230	 	n.	类此物
+231	analogous	adj.	类似的
+232	analyze	vt.	分析，分解
+233	analysis	n.	分析；分析报告
+234	psychoanalysis	n.	心理分析
+235	anarchist	n.	无政府主义者
+236	anatomy	n.	解剖；解剖学
+237	ancestor	n.	祖先，祖宗
+238	ancestry	n.	家系，血统
+239	ancestral	adj.	祖先的，祖传的
+240	anecdotal	adj.	轶闻的，多轶闻趣闻的
+241	anecdote	n.	短故事，轶事
+242	anesthesia	n.	麻醉
+243	anesthetic	n.	麻醉剂，麻药
+244	angular	adj.	有角的，尖角的
+245	rectangular	n.	矩形的，成直角的
+246	animated	adj.	活生生的；活泼的，生动的
+247	annex	vt.	兼并，附加
+248	annihilate	vt.	消灭；消减
+249	announce	vt.	宣布，发表，通告
+250	announcement	n.	宣告，发表
+251	announcer	n.	广播员；报幕员
+252	annoy	vt.	使恼怒；打扰
+253	annoying	adj.	恼人的，讨厌的；使人愤怒的
+254	annual	adj.	每年的
+255	annually	adv.	一年一次，每年
+256	anomaly	n.	异常，不规则；异常的人或物
+257	anonymous	adj.	匿名的
+258	anthem	n.	圣歌，赞美诗
+259	anthology	n.	诗集，文选
+260	anthropology	n.	人类学
+261	antibiotic	adj.	抗菌的，抗生的
+261	 	n.	antibiotics 抗生素
+262	anticipate	vt.	预期，预料
+263	anticipation	n.	期望，预料
+264	antiquate	vt.	使古旧，废弃
+265	antiquated	adj.	陈旧的，过时的
+266	antique	n.	古董
+266	 	adj.	古时的，过时的
+267	antiquity	n.	古迹；古物
+267	 	n.	古代
+267	 	n.	古老
+268	antiseptic	n.	防腐剂，杀菌剂
+269	anxious	adj.	渴望的；担忧的
+270	apart from	词组	除…之外
+271	apologize	vi.	道歉
+272	apology	n.	道歉，歉意
+273	appeal	n.	吸引力
+273	 	vi.	吸引
+273	 	vi.	上诉，申请
+274	appealing	adj.	动人的，媚人的
+275	appetite	n.	胃口，食欲
+276	applaud	vi.	喝彩，欢呼
+277	applicant	n.	申请人
+278	apply	v.	应用，适用
+278	 	vi.	申请
+279	application	n.	申请
+279	 	n.	施用，运用；作用，影响
+280	appliance	n.	用具，器具
+281	appoint	vt.	任命，选派
+282	appointment	n.	约会
+282	 	n.	指定
+283	disappointment	n.	失望
+284	apportion	vt.	（按比例或计划）分配
+285	appraisal	n.	评价，估价
+286	appreciable	adj.	(数量或变化)很大的，值得重视的
+287	appreciate	vt.	赏识；鉴赏
+287	 	vt.	感激
+288	appreciation	n.	欣赏；口味，兴趣
+289	apprentice	n.	学徒
+290	approach	n.	方法
+290	 	vt.	接近，靠近
+291	approaching	adj.	接近的，逼近的
+292	appropriate	adj.	适当的，恰当的
+292	 	vt.	拨款
+293	appropriation	n.	拨款
+294	approve	vt.	批准
+294	 	vi.	赞成，同意
+295	approval	n.	赞成，正式批准
+296	disapproval	n.	不赞成
+297	approximate	v.	接近，近似
+297	 	adj.	大约的，估计的
+298	approximately	adv.	近似地，大约
+299	apt	adj.	恰当的，贴切的
+299	 	adj.	易于…的
+300	aptly	adv.	适当地，得体地
+301	aquatic	adj.	水生的，水栖的
+302	aquarium	n.	水族馆
+303	arbitrary	adj.	专横的，专制的，武断的
+304	arboreal	adj.	树栖的；树的
+305	arc	n.	弧形，拱形
+306	archaeology	n.	考古学
+307	archaeological	adj.	考古学的
+308	archipelago	n.	群岛
+309	architect	n.	建筑师
+310	architecture	n.	建筑；建筑学
+311	architectural	adj.	建筑上的；建筑学的
+312	ardent	adj.	热烈投入的，极热心的
+313	arduous	adj.	费力的，艰难的
+314	arena	n.	竞技场，舞台
+315	aria	n.	独唱曲，咏叹调
+316	arid	adj.	干旱的；贫瘠的
+317	semiarid	adj.	雨量非常少的，半干旱的
+318	arithmetic	n.	算数
+319	armor	n.	装甲；装甲车
+320	armored	adj.	披甲的，装甲的
+321	arms	n.	武器，兵种
+322	armory	n.	纹章；兵工厂，军械库
+323	aroma	n.	香气，芬芳，芳香
+324	aromatic	adj.	芬芳的
+325	arouse	vt.	刺激，激起；唤醒
+326	arrange	vt.	计划，准备
+326	 	vt.	整理，摆放
+327	arrangement	n.	排列，安排
+328	array	n.	展示，陈列；一系列
+329	arsenal	n.	兵工厂，军械库
+330	arthritis	n.	关节炎
+331	article	n.	论文，文章
+331	 	n.	物品
+331	 	n.	条款
+332	particle	n.	点，微粒
+333	articulate	vt.	清楚地讲话，清晰地发音
+333	 	adj.	善于言辞的；表达清晰的
+334	particulate	adj.	微小的
+335	artificial	adj.	人造的，人工的
+335	 	adj.	虚假的，矫揉造作的
+336	artisan	n.	手工业工人，手艺人
+337	as far as	词组	就...来说；远及
+338	as such	词组	就象这样做，就本身而论
+339	as a rule	词组	通常，总的来说
+340	as a rule of thumb	词组	大概来说
+341	ascend	vt.	（渐渐）上升，升高；攀登
+342	ascending	adj.	上升的，向上的
+343	ascent	n.	攀登，上升
+344	ascribe	vt.	把…归于
+345	aspect	n.	(问题的)方面；(事物的)一部分
+345	 	n.	观点，角度
+346	aspiring	adj.	有抱负的,有理想的,积极向上的
+347	aspiration	n.	雄心，抱负
+348	assault	n.	（武力）袭击；（口头）攻击
+349	assemble	vt.	集合，装配
+349	 	vi.	聚集
+350	assembly	n.	集会；参加集会的人们
+350	 	n.	装配，安装
+351	assembly line	词组	装配线，流水线
+352	assemblage	n.	集合，组合
+353	assert	vt.	声称，坚持
+354	assess	vt.	估计，分析，评估
+355	assessment	n.	估价，评估
+356	asset	n.	assets 财产，资产
+356	 	n.	优势；重要的品质
+357	cassette	n.	盒式磁带
+358	videocassette	n.	录像带
+359	assignment	n.	任务，作业
+359	 	n.	分配
+360	assimilate	vt.	学习，吸收（知识）
+360	 	vt.	吃，吸收
+361	assistant	n.	助手，助教
+361	 	adj.	辅助的，助理的
+362	assist	vt.	援助，帮助
+363	assistance	n.	协助，援助
+364	assistantship	n.	研究生助教奖学金
+365	associate	v.	关联，联合
+365	 	n.	伙伴
+365	 	adj.	准的/副的（比正职低一级）
+366	association	n.	关联，联合
+366	 	n.	协会
+367	assorted	adj.	各式各样的，多样混合的
+368	assortment	n.	各类物品的聚集，混合物
+369	assume	vt.	假定，设想
+369	 	vt.	承担(责任)；采用(形式或姿势)
+370	assumption	n.	假设；就职
+371	assure	vt.	确保；向…保证，使确信
+372	assuredly	adv.	确实地，确信地
+373	reassure	vt.	使...安心，打消...疑虑
+374	astonish	vt.	使惊讶
+375	astonished	adj.	惊讶的
+376	astonishing	adj.	惊人的，奇迹的
+377	astound	vt.	使惊异
+378	astounding	adj.	令人吃惊的
+379	astronomical	adj.	天文学的
+380	astronomy	n.	天文学
+381	astronomer	n.	天文学家
+382	astute	adj.	机敏的，精明的
+383	asymmetrical	adj.	不均匀的，不对称的
+384	at intervals	词组	不时；相隔一段距离
+385	at one session	词组	一下子，一次性
+386	at the cutting edge of	词组	在…的关键时刻/状态/位置
+387	atheist	n.	无神论者
+388	theist	n.	有神论者
+389	athlete	n.	运动员
+390	atmosphere	n.	大气，大气层；（某地的）空气
+391	atom	n.	原子
+392	atomic	adj.	原子的；微小的
+393	atomization	n.	原子化；雾化
+394	atrophy	n.	萎缩；萎缩症
+395	attachment	n.	依恋，喜欢
+395	 	n.	附件，附加装置，配属
+396	attach	vt.	系，缚
+397	attached	adj.	附加的，附属的
+398	attain	vt.	达到，获得
+399	attainment	n.	成就
+400	attempt	n./vi.	尝试
+401	attend	vt.	参加；入学
+401	 	vt.	照顾
+402	attendant	n.	侍者，护理人员
+402	 	adj.	伴随的
+403	attendance	n.	出席，出席的人数
+404	attention	n.	注意，重视，关心
+405	attire	n.	穿着，服饰（正规服装的总称）
+406	attorney	n.	代理人，辩护律师
+407	attract	vt.	吸引；引起注意
+408	attraction	n.	吸引；吸引人的事物
+409	attractive	adj.	吸引人的，有魅力的
+410	attribute	n.	属性，品质
+410	 	vi.	把…归于，归因于
+411	audible	adj.	听得见的
+412	audit	vt.	旁听；稽核，审查
+413	audience	n.	观众
+414	auditorium	n.	大礼堂
+415	audition	n.	（对艺人的）面试（试演/试唱）
+416	auger	n.	螺丝钻，钻孔机
+417	augment	vt.	增加，增大
+418	aurora	n.	极光=auroral light
+419	authentic	adj.	真的；可靠的，确实的
+420	authenticate	vt.	证明…为真
+421	authority	n.	权力，权限；权威人士
+421	 	n.	authorities 当局
+422	authorize	vt.	授权，批准
+423	autobiography	n.	自传
+424	autobiographical	adj.	自传的，自传体的
+425	biography	n.	传记
+426	automated	adj.	自动的
+427	automatic	adj.	自动(化)的；无意识的，机械的
+428	autonomy	n.	自治，自治权
+429	autonomous	adj.	自治的，独立的
+430	auxiliary	adj.	辅助的；补充的
+431	available	adj.	自由的，有空的
+431	 	adj.	可利用的，可得到的
+432	avalanche	n.	雪崩
+433	avant-garde	n.	先锋派(艺术流派)；先锋，前卫
+434	average	adj.	一般的，通常的；平庸的
+434	 	n.	平均水平；平均数
+434	 	vt.	平均为
+435	aversion	n.	厌恶，憎恨
+436	averse	adj.	反对的，不愿意的
+437	avert	vt.	转移；避免，规避
+438	aviation	n.	航空；航空学
+439	aviator	n.	飞行员，飞行家
+440	avid	adj.	渴望的；热心的
+441	avocation	n.	副业；业余爱好
+442	avocational	adj.	副业的，嗜好的
+443	avoid	vt.	躲避，规避
+444	avoidable	adj.	可避免的
+445	avoidance	n.	避免
+446	awareness	n.	意识
+447	awkward	adj.	笨拙的，不灵活的
+448	awkwardly	adv.	(见到生人)局促不安地，笨拙地
+449	axis	n.	轴；轴心
+450	baby-sitter	n.	临时保姆，代人照顾婴儿者
+451	bachelor	n.	学士（学位）；单身汉
+452	back and forth	词组	来来回回，来回地
+453	backbone	n.	骨干，支柱
+453	 	n.	脊椎，中枢
+454	backdrop	n.	舞台背景；背景
+455	baggage	n.	行李
+456	balance	n.	平衡
+456	 	vt.	使平衡，使均衡
+457	balanced	adj.	均衡的；平稳的
+458	imbalance	n.	不平衡，不均衡
+459	overbalance	vi.	失去平衡
+460	bald	adj.	秃头的；光秃的
+461	bald eagle	词组	秃头鹰（美国国鸟）
+462	ballet	n.	芭蕾舞
+463	balloon	n.	气球
+464	balloonist	n.	气球驾驶者
+465	balmy	adj.	芳香的；（空气）温和的
+466	ban	vt.	禁止，查禁
+467	banner	n.	旗帜，标语，横幅
+468	banker	n.	银行家
+469	bang	v.	发出砰的一声，重击
+470	Cuban	n./adj.	古巴人；古巴（人）的
+471	band	n.	乐队；队
+471	 	n.	（光或颜色的）带；带子
+471	 	vi.	联合，集合
+472	bandleader	n.	乐队指挥
+473	bandmaster	n.	乐队指挥
+474	bandanna	n.	大手帕
+475	bankruptcy	n.	破产
+476	bankrupt	adj.	破产了的
+476	 	v.	（使）破产
+477	bar	n.	酒吧 snack bar 快餐店
+477	 	n.	条，棒；栅
+477	 	n.	律师业
+478	barb	n.	（鱼钩等的）倒钩；倒刺
+479	barbed wire	词组	带倒钩的铁丝（铁丝网）
+480	barbecue	n.	烤肉野餐
+481	barber	n.	理发师
+482	bare	adj.	无遮蔽的，赤裸的，光（秃）的
+482	 	adj.	仅有的，勉强的
+483	barely	adv.	仅仅
+483	 	adv.	几乎不能
+484	barge	n.	驳船
+485	bark	n.	树皮
+485	 	n./vi.	狗叫，咆哮
+486	barn	n.	谷仓；畜棚
+487	baroque	adj.	高度装饰的，过分雕琢的
+488	barrel	n.	桶
+489	barren	adj.	贫瘠的；荒凉的
+490	barrenness	n.	荒凉
+491	barrier	n.	屏障，障碍；栅栏
+492	barter	n./v.	物品交换，易货贸易
+493	basement	n.	地下室
+494	basin	n.	盆；盆地
+495	be taken by	词组	被迷住，被吓住
+496	be up to	词组	由…做；胜任，从事于
+497	bead	n.	珠子；（液体）小滴
+498	beaded	adj.	以珠装饰的，珠状的
+499	beak	n.	鸟喙
+500	beam	n.	大梁
+500	 	n.	（光线的）束，柱
+501	girder	n.	钢结构大梁
+502	bear	vt.	负担，支撑
+502	 	vt.	具有，带有
+502	 	vt.	生产，生育
+502	 	n.	熊（polar bear 北极熊
+503	unbearable	adj.	无法忍受的，承受不住的
+504	forebear	n.	祖先，祖宗
+505	beard	n.	胡须
+506	beat	v.	打击，敲击；打败
+506	 	adj.	疲倦的
+506	 	n.	（音乐）拍子
+507	bedrock	n.	基础；基石
+508	behalf	n.	代表…，作为…的代表
+509	behave	vi.	举止，表现
+510	behavior	n.	举止，行为
+511	belie	vt.	给人错觉；掩饰
+512	believe in	词组	相信
+513	bellows	n.	风箱
+514	below	prep./adv.	在…下面
+515	belong to	词组	属于
+516	beneath	prep./adv.	在…之下
+517	benefit	n.	利益，好处
+517	 	vt.	有益于，有助于
+518	beneficial	adj.	有益的，有利的
+519	benign	adj.	（病）良性的；亲切和蔼的
+520	bequest	n.	遗产；遗赠
+521	besides	adv.	除了…（还有）
+522	besiege	vt.	围攻；困扰
+523	bestow	vt.	给与，赐赠
+524	betray	vt.	背叛
+524	 	vt.	（非故意地）暴露，显露
+525	beverage	n.	（除水之外的）饮料
+526	bias	n.	偏见，偏好
+527	unbiased	adj.	没有偏见的
+528	bicameral	adj.	两院制的，有两个议院的
+529	bilateral	adj.	两边的；双边的
+530	bill	n.	帐单，发票
+530	 	n.	（细长或扁平的）鸟嘴
+530	 	n.	议案，法案
+530	 	n.	钞票，纸币
+531	hillbilly	n.	山地内部的贫农，山里人
+532	billion	n./adj.	十亿（的）
+533	biography	n.	传记
+534	autobiography	n.	自传
+535	biographer	n.	传记作家
+536	biologist	n.	生物学家
+537	biological divers	词组	生物多样性
+538	bison	n.	美洲或欧洲的野牛
+539	bitter	adj.	苦（味）的
+539	 	adj.	（令人）痛苦的；尖酸刻薄的
+540	bitterness	n.	苦味；辛酸，苦难
+541	bizarre	adj.	奇异的，古怪的
+542	blame	vt.	谴责，责备
+542	 	n.	过失，责备
+543	bland	adj.	淡味的；无味的
+544	blanket	n.	毯子；厚的遮盖物
+545	blast	vi.	爆破
+545	 	n.	一阵（风、气流或噪音）
+546	blast furnace	词组	鼓风炉
+547	blazing	adj.	炽烧的；闪耀的
+548	blaze	vi.	燃烧，照耀
+548	 	n.	火焰，光辉
+549	ablaze	adj.	着火的，闪耀的
+550	bleach	vt.	去色，漂白
+551	bleak	adj.	荒凉的；凄凉的
+552	blend	vt.	混合，掺混
+552	 	n.	混合（物）
+553	blessing	n.	祝福，恩赐
+554	blink	v.	眨眼
+555	blizzard	n.	暴风雪
+556	block	n.	一块（木头或石头等）
+556	 	n.	街区
+556	 	vt.	阻碍，阻止
+557	bloom	n./vi.	花/开花
+558	blossom	n./vi.	花/开花
+559	blues	n.	抑郁，沮丧；布鲁斯音乐
+560	bluff	n.	悬崖，绝壁；v.诈骗，吓唬
+561	blunt	adj.	直言不讳的
+561	 	adj.	钝的，不锋利的，不尖的
+562	blush	vi.	脸红，羞愧
+563	board	n.	（薄而平的）木板
+563	 	n.	委员会
+563	 	n.	膳食费用
+563	 	vt.	上（船、飞机等）
+564	aboard	prep./adv.	在（船、飞机、车）上/上（船、飞机、车）
+565	boarder	n.	寄宿者；寄生者
+566	boardinghouse	n.	寄宿公寓
+567	keyboard	n.	键盘
+568	cupboard	n.	食橱，碗碟柜
+569	boast	n./v.	自夸，以有…而自豪
+570	boastful	adj.	吹嘘的，自负的
+571	boiling point	词组	沸点
+572	bold	adj.	勇敢的，大胆的；放肆/无礼的
+573	bolster	n.	垫子，枕垫
+573	 	vt.	支持
+574	bonanza	n.	富矿带；幸运，带来好运的事
+575	bond	n.	联结，联系；粘连；化学键
+575	 	n.	公债
+576	boom	n.	繁荣
+576	 	vi.	急速发展
+577	baby boom	词组	生育高峰
+578	boon	n.	恩惠，恩赐
+579	baboon	n.	狒狒
+580	boost	vt.	增加，提高，促进
+581	boring	adj.	令人厌烦的
+582	boredom	n.	烦恼，无聊
+583	bore	vt.	钻孔；令人厌烦
+584	boulder	n.	巨石
+585	bounce	vi.	跳起，弹回
+586	bound	adj.	被束缚的；有义务的
+586	 	n.	范围，限制
+587	boundary	n.	分界线，边界
+588	boundless	adj.	无限的，无边无际的
+589	bouquet	n.	花束
+590	bow	n.	弓；弓形
+591	bowlegged	adj.	弯脚的
+592	bowl	n.	碗，碗状物
+593	elbow	n.	肘
+594	rainbow	n.	彩虹
+595	braid	vt.	编织
+596	brain	n.	脑，大脑；头脑，智力
+597	brawl	n.	争吵
+598	brawling	n.	争吵，喧嚷
+599	breach	vt.	打破，突破
+599	 	n.	违背，破坏
+600	break apart	词组	分开，分裂
+601	break all ties with	词组	与…断绝一切关系
+602	break out	词组	爆发；发生
+603	breakdown=break down	n.	失败；故障
+603	 	n.	分解；细目分类
+604	breakup	n.	分裂，分离
+605	break up	词组	分裂，分离
+606	breathless	adj.	无声息的，喘不过气来的
+607	breathing	n.	呼吸
+608	breath	n.	呼吸，气息
+609	breathe	v.	呼吸，呼出
+610	breathtaking	adj.	令人激动的；惊人的
+611	breed	vt.	养育，繁殖
+612	crossbreeding	n.	异种交配，杂交
+613	breeze	n.	微风
+614	brighten	v.	点亮
+614	 	vt.	使愉快；使乐观
+615	brilliance	n.	聪明；辉煌
+616	brilliantly	adv.	辉煌地，灿烂地
+617	brim	n.	边；边缘
+618	broad-brimmed	adj.	宽边的
+619	briny	adj.	盐水的，咸的
+620	brisk	adj.	活泼的，轻快的
+621	briskness	n.	敏捷，活泼
+622	brittle	adj.	易碎的
+623	broaden	v.	放宽，变宽，扩大
+624	brochure	n.	小册子
+625	bronze	n.	青铜；铜像
+626	sun-bronzed	adj.	被太阳晒成古铜色的
+627	brook	n.	小河
+628	brown	n./adj.	褐色（的），棕色（的）
+628	 	vt.	（使）成褐色，晒黑
+629	brownish	adj.	成褐色的
+630	bubble	n.	气泡，水泡
+631	buckle	n.	皮带扣环
+631	 	v.	扣紧；（使）变弯曲
+632	bud	n.	芽，蓓蕾
+632	 	vi.	发芽
+633	buddy	n.	密友，伙伴
+634	budget	n.	预算
+635	buggy	n.	小马车，童车
+636	building block	词组	积木
+637	bulb	n.	球茎，球状物
+638	bulk	n.	大批；大部分
+638	 	n.	大小，体积
+639	bulky	adj.	庞大的，笨重的
+640	bump	n.	肿块；突起
+640	 	v.	碰（伤），撞（破）
+641	bunch	n.	串，束；群
+641	 	vi.	捆成一束；聚集
+642	bundle	n.	捆，束，包
+642	 	vt.	捆
+643	burdensome	adj.	繁重的，劳累的
+644	burgeon	vi.	迅速成长，发展
+645	burning	n./adj.	燃烧（的）
+645	 	adj.	强烈的
+646	burrow	n.	洞穴
+646	 	vi.	挖地洞
+647	bush	n.	矮树丛
+648	bust	n.	半身像，半身雕像
+649	combustion	n.	燃烧
+650	combustible	adj.	易燃的
+651	robust	adj.	精力充沛的
+652	statue	n.	全身雕像
+653	bustle	n.	喧闹，匆匆忙忙
+654	butter	n.	奶油
+655	buzz	n./v.	嗡嗡声；发出嗡嗡声
+656	buzzer	n.	蜂鸣器
+657	by a factor of	词组	翻…倍
+658	by chance	词组	偶然
+659	by far	词组	迄今为止
+660	by-product	n.	副产品
+661	cab	n.	出租马车、汽车
+662	taxicab	n.	出租车
+663	the Cabinet	n.	内阁    cabinet  n. 橱柜
+664	cabinetmaker	n.	家具师，细木工匠
+665	cabin	n.	小屋；船舱
+666	log cabin	词组	小木屋
+667	cacti	n.	（pl）仙人掌-单数cactus
+668	cadence	n.	（语调的）抑扬顿挫
+669	calculate	vt.	计算；估计
+670	calculation	n.	计算，考虑
+671	calculator	n.	计算器
+672	calibration	n.	校准；标度，刻度
+673	calm	adj.	（天气、海洋等）静的，平静的
+673	 	adj.	镇静的，沉着的
+673	 	vt.	使平静，使镇定，平息
+674	campaign	n.	(政治或商业性)活动，竞选活动
+675	champion	n.	冠军  vt.拥护，支持
+676	championship	n.	锦标赛
+677	cancel	vt.	取消
+678	cancellation	n.	取消
+679	candid	adj.	率直的，坦白的
+680	candidate	n.	候选人
+681	cannibalism	n.	同类相食
+682	canopy	n.	天篷，遮篷
+683	canvas	n.	帆布；画布
+684	canyon	n.	峡谷
+685	capability	n.	能力
+686	capable	adj.	有能力的
+687	capacity	n.	容量；能力
+688	captivity	n.	囚禁，拘留
+689	carapace	n.	（蟹或龟的）甲壳
+690	carat	n.	（宝石重量单位）克拉
+691	carbohydrate	n.	碳水化合物
+692	cardiac	adj.	心脏的
+693	cardinal	adj.	首要的，主要的
+693	 	n.	一种美洲鸟，雄性有深红色羽毛
+694	career	n.	生涯，职业
+695	careerism	n.	野心，追求名利
+696	careless	adj.	粗心的，疏忽的
+697	carelessly	adv.	不注意地，粗心地
+698	careful	adj.	小心的，仔细地
+699	cargo	n.	货物
+700	caricature	n.	讽刺画
+701	carnival	n.	狂欢节
+702	carnivorous	adj.	食肉的
+703	carve	vt.	切开；雕刻
+704	carver	n.	雕刻匠，雕工
+705	carving	n.	雕刻品，雕花
+706	cast	vt.	浇铸
+706	 	vt.	投，抛
+707	casting	n.	铸件，铸造
+708	cast-iron	adj.	铸铁的
+709	cast off	词组	丢弃，摆脱
+710	cast away	词组	使失事，使漂流
+711	forecast	n./vt.	预测，预报
+712	broadcast	n./vt.	广播；传播
+713	rebroadcast	vt.	重播
+714	newscast	n.	新闻广播
+715	overcast	adj.	阴天的，阴暗的
+716	casual	adj.	非正式的，随便的；漫不经心的
+717	catalyst	n.	催化剂；促使事情发展的因素
+718	catalyze	vt.	促使；激励
+719	catastrophe	n.	异常的灾祸
+720	catching	adj.	传染的；有魅力的，迷人的
+721	eye-catching	adj.	引人注目的，耀眼的
+722	catch on	词组	理解，领会
+723	categorize	vt.	分类
+724	category	n.	种类，类目；范畴
+725	cater	vi.	满足需要，迎合
+726	caterpillar	n.	毛虫
+727	cathedral	n.	总教堂，大教堂
+728	cause	vt.	导致，引起
+728	 	n.	原因；事业
+729	cautious	adj.	小心的，谨慎的
+730	cautiously	adv.	小心地，谨慎地
+731	caution	n.	小心，谨慎
+731	 	vt.	警告
+732	cavern	n.	大山洞，大洞穴
+733	cavity	n.	洞；腔
+734	cease	v.	停止，终止
+735	ceaseless	adj.	不停的
+736	celebrated	adj.	有名的，大名鼎鼎的
+737	celebrate	vt.	庆祝，祝贺；表扬，赞美
+738	celebrity	n.	名人
+739	celestial	adj.	天体的；天上的
+740	cell	n.	细胞，单人牢房，电池
+741	cellist	n.	大提琴家
+742	cello	n.	大提琴
+743	census	n.	人口调查，人口普查
+744	centennial	n.	百年纪念
+745	centigrade	adj.	摄氏（温度）的
+746	ceremonial	n.	仪式
+746	 	adj.	正式的；仪式的
+747	ceremony	n.	典礼，仪式；礼节
+748	chafe	vt.	（将皮肤等）擦热，擦破
+748	 	vt.	使恼火
+749	chagrin	n.	懊恼，失望
+750	chalk	n.	粉笔
+751	chamber	n.	室；房间
+752	champion	n.	冠军；拥护者
+752	 	vt.	支持；主张
+753	championship	n.	锦标赛
+754	chaos	n.	混乱
+755	chaotic	adj.	混乱的
+756	chapel	n.	小礼拜堂
+757	character	n.	角色；性格
+758	characteristic	adj.	典型的，表现特征的，特有的
+758	 	n.	特征，特性
+759	characterize	vt.	表现…的特色，刻画…的性格
+760	be characterize	词组	以…为特征，典型代表
+761	charcoal	n.	炭；木炭
+762	charitable	adj.	慈善事业的，慈善的；仁慈的
+763	charter	v.	包租；特许
+763	 	n.	宪章，章程
+764	chart	n.	海图，图表
+764	 	vt.	制图
+765	chaste	adj.	贞洁的；（思想、言论）朴素的
+766	chat	vi.	闲谈
+767	chateau	n.	城堡，高级旅馆
+768	check	vt.	检查，核对；阻止，控制
+768	 	n.	支票
+769	checkup	n.	审查；身体检查
+770	checkout	n.	检验，校验
+771	check out	词组	检验，校验
+772	paycheck	n.	付薪水的支票
+773	chef	n.	厨师
+774	cherish	v.	怀抱（希望等）；珍爱
+775	chill	vt.	使冷，变冷；冷却
+775	 	n.	寒意，寒战
+776	chilly	adj.	寒冷的
+777	chilli	n.	红辣椒
+778	chimpanzee	n.	黑猩猩
+779	gorilla	n.	大猩猩
+780	chisel	n.	凿子
+780	 	v.	砍凿，凿刻
+781	chivalry	n.	骑士气概，侠义；献殷勤
+782	choke	vt.	使窒息
+783	chop	vt.	砍
+784	choppy	adj.	波浪起伏的,(风)不断改变方向的
+785	chord	n.	琴弦，心弦
+786	chore	n.	家务杂事
+787	choreography	n.	舞蹈编排
+788	choreograph	vt.	设计舞蹈动作
+789	choreographer	n.	舞蹈指导
+790	choreographic	adj.	舞蹈术的，舞台舞蹈的
+791	chorus	n.	合唱团
+792	chronic	adj.	长期的；慢性的
+793	chronological	adj.	按年代顺序排列的
+794	chronology	n.	年代学，年表
+795	chubby	adj.	丰满的，圆胖的
+796	chunk	n.	大块；矮胖的人或物
+797	cider	n.	苹果酒，苹果汁
+798	cipher	n.	密码
+799	circuit	n.	电路
+800	circular	adj.	循环的；圆的
+801	circle	n.	圆周，圆形物
+801	 	n.	（具有共同兴趣、利益的人组成的）圈子，集团
+801	 	vt.	包围，环绕
+802	circulate	v.	（使）循环；（使）传播
+803	circulation	n.	循环；流通
+804	circumference	n.	圆周；周长
+805	circumscribe	vt.	划界限；限制
+806	circumstance	n.	环境，情况
+807	citadel	n.	堡垒，要塞
+808	cite	vt.	引用，举例
+809	citizenship	n.	公民（的身份）
+810	civil	adj.	公民的；市民的
+810	 	adj.	国内的
+811	civil rights	词组	公民权
+812	civil war	词组	内战
+813	civility	n.	彬彬有礼，斯文
+814	civilization	n.	文明，文化
+815	civilian	adj.	平民的；民用的
+815	 	n.	平民
+816	claim	n.	要求，要求权
+816	 	v.	声称，主张
+817	clam	n.	蛤，蛤肉
+818	clamor	n.	叫嚣，喧哗
+819	reclamation	n.	开垦；改造；（废料等的）回收
+820	clan	n.	家族，宗族
+821	clap	n.	拍手声；霹雳声
+821	 	v.	鼓掌；轻拍
+822	clarify	vt.	澄清，阐明
+823	clarification	n.	澄清，净化
+824	classify	vt.	把…分类，分等级
+825	classification	n.	分类，分级
+826	clause	n.	分句；条款
+827	clay	n.	粘土；泥土
+828	clergy	n.	牧师
+829	clergyman	n.	牧师，教士
+830	cliff	n.	悬崖峭壁
+831	climate	n.	气候；社会风气或趋势
+832	climatic	adj.	气候上的
+833	cling	vi.	粘紧，附着
+833	 	vi.	坚持（意见），墨守（习惯）
+834	clinic	n.	门诊所
+835	clinical	adj.	临床的
+836	clip	vt.	修剪
+837	clockwise	adj./adv.	顺时针方向的（地）
+838	counterclockwise	adj./adv.	逆时针方向的（地）
+839	clog	vt.	障碍，阻塞
+840	clumsy	adj.	笨拙的；愚笨的
+841	cluster	n.	簇，串，群
+841	 	vi.	丛生；聚集
+842	clutch	v.	抓住，攫取
+842	 	n.	一次产的或孵的蛋（或卵）
+843	coalesce	vi.	联合，合并
+844	coalescence	n.	合并，联合
+845	coalition	n.	联合，同盟
+846	coarse	adj.	粗糙的
+847	coax	vt.	哄诱，巧言诱哄
+848	code of laws	词组	法典
+849	codify	vt.	编成法典，编辑成书
+850	coexist	vi.	同时存在，共存
+851	cognitive	adj.	认知的；感知的
+852	coherent	adj.	粘在一起的
+852	 	adj.	连贯的；有条理的
+853	coherence	n.	一致
+854	cohesion	n.	附着（力），凝聚力
+855	cohesive	adj.	粘着的
+856	coil	n.	（一）卷；线圈
+856	 	vt.	盘绕，卷
+857	recoil	vi.	弹回，反冲
+858	coin	n.	铸币
+858	 	vt.	创造（一个新的词语或短语）
+859	coinage	n.	造币，货币制度
+860	coincide	vi.	同时发生；相符合，相巧合
+861	coincident	adj.	一致的，巧合的
+862	coincidence	n.	一致；同时发生或同时存在的事
+863	collaborate	vi.	协作，合作
+864	collaboration	n.	合作
+865	collapse	n.	倒塌；崩溃，失败
+866	colleague	n.	同事，同僚
+867	collective	adj.	集体的，共同的
+868	collide	vi.	碰撞；冲突
+869	collision	n.	碰撞；冲突，抵触
+870	colloquial	adj.	口语的，通俗语的
+871	colloquialism	n.	俗话，白话，口语
+872	colonize	vt.	建立殖民地，拓殖
+872	 	vt.	定居，居于
+873	colony	n.	殖民地；群体
+874	colonial	adj.	殖民的，殖民地的
+875	colonel	n.	陆军上校
+876	colossal	adj.	巨大的
+877	combination	n.	化和，组合
+878	combine	v.	联合，结合
+879	combustible	adj.	易燃的
+880	combustion	n.	燃烧
+881	comet	n.	彗星
+882	cometary	adj.	彗星的，彗星似的
+883	comic	adj.	滑稽的，好笑的；喜剧的
+884	comical	adj.	滑稽的，好笑的
+885	commander	n.	司令官，指挥员
+886	commemorate	vt.	纪念
+887	comment	n.	注释，评论
+887	 	vi.	谈及；注释，评论
+888	commentator	n.	评论员，讲解员
+889	commentary	n.	注释，解说词
+890	commerce	n.	商业
+891	commercial	adj.	商业的，贸易的
+892	commercialize	vt.	使商业化，使商品化
+893	commission	vt.	委任，任命；委托，委托制作
+893	 	n.	佣金
+894	commissioner	n.	委员，专员
+895	committed	adj.	效忠的；忠于…的
+896	commit	vt.	犯（错误），干（坏事）
+897	committee	n.	委员会
+898	commitment	n.	信奉，支持；许诺，承担义务
+899	commodity	n.	商品，日用品
+900	commonsense	adj.	具有常识的
+901	commonplace	adj.	平凡的
+902	communal	adj.	公共的；公社的
+903	communicate	vt.	传达，沟通；通信
+904	communication	n.	沟通；通讯
+905	community	n.	社区；社会
+906	commute	v.	通勤
+907	commuter	n.	经常往返者
+908	telecommuter	n.	（通过在线方式）远距离工作者
+909	compact	adj.	紧凑的，紧密的；简洁的
+909	 	vt.	压缩；使密集
+910	compaction	n.	压紧
+911	companion	n.	同伴，同事
+912	comparable	adj.	可比的，比得上的；类似的
+913	comparative	adj.	比较的
+914	comparatively	adv.	相当地；比较地
+915	compatible	adj.	可以并存的，相容的，协调的
+916	incompatible	adj.	矛盾的，不调和的
+917	compel	vt.	强迫，使不得不
+918	compensate	vt.	补偿，赔偿
+919	compensation	n.	补偿，赔偿
+920	compensatory	adj.	补偿性的
+921	compete	vi.	竞争，比得上
+922	competent	adj.	有能力的，能胜任的
+923	competence	n.	能力，胜任
+924	competition	n.	竞争，竞赛
+925	competitiveness	n.	竞争能力
+926	competing	adj.	有竞争性的，不相上下的
+927	compile	vt.	汇集，编辑
+928	complacence	n.	自满，自以为是
+929	complaint	n.	抱怨，怨言
+930	complain	v.	抱怨；悲叹
+931	complement	vt.	补充，使完善
+931	 	n.	补足物，补充物
+932	complementar	adj.	补充的，补足的
+933	complex	adj.	复杂的，费解的；结构复杂的
+933	 	n.	综合体
+934	complexity	n.	复杂（性）
+935	complicated	adj.	费解的，棘手的；结构复杂的
+936	complication	n.	并发症；复杂，复杂性
+937	complicity	n.	共谋；同谋，共犯
+938	complimentary	adj.	赞美的
+939	compliment	n.	恭维，称赞
+940	comply with	词组	遵从，符合
+941	component	n.	成分，组成部分
+942	compose	vt.	作曲，写作；组成
+943	be composed 	词组	由…组成
+944	recompose	vt.	重写；重新安排
+945	composition	n.	构成，组成
+945	 	n.	写作，作文；作曲
+946	decomposition	n.	分解；腐烂
+947	compound	n.	化合物
+948	compound eyes	词组	复眼
+949	comprehend	vt.	领悟，理解
+950	comprehensible	adj.	可理解的，易于了解的
+951	comprehension	n.	理解，包含
+952	comprehensive	adj.	全面的，综合的
+953	compress	vt.	压缩，浓缩
+954	compression	n.	浓缩，压缩
+955	compressed	adj.	被压缩的，紧凑的
+956	comprise	vt.	包含；由…组成
+957	compromise	n.	妥协，折衷
+958	compulsory	adj.	必须做的，被强制的
+959	compute	vt.	计算
+960	computation	n.	计算，估计
+961	concave	adj.	凹的
+962	conceal	vt.	隐藏，隐瞒
+963	concede	v.	承认
+964	conceive	vt.	构思；设想
+965	concentric	adj.	同心的
+966	concept	n.	概念，观念
+967	conception	n.	观念，认识
+968	misconception	n.	误解
+969	conceptual	adj.	概念上的
+970	concert	n.	音乐会
+970	 	n.	一致；共同
+971	concerted	adj.	商议好的，协定的
+972	concerto	n.	协奏曲
+973	concise	adj.	简洁的，简明的
+974	conciseness	n.	简洁，简短
+975	conclude	v.	推断；作出结论
+975	 	vi.	结束
+976	conclusive	adj.	最后的，决定性的
+977	inconclusive	adj.	非决定的
+978	concomitant	adj.	伴随的         n. 伴随物
+979	concrete	n.	水泥
+979	 	adj.	具体的，实体的
+980	concurrent	adj.	同时发生的
+981	condemn	vt.	谴责
+982	condemnation	n.	谴责
+983	condensation	n.	压缩，浓缩
+984	condense	vt.	使浓缩；精简
+985	condenser	n.	冷凝器
+986	condiment	n.	调味品
+987	condition	n.	条件；状况；健康状况
+988	air conditioner	词组	空调
+989	conditioning	n.	（心理）条件作用，训练
+990	condor	n.	秃鹰
+991	conduct	vt.	做（试验、研究等）；引导，带领
+991	 	vt.	传导
+991	 	n.	举止，行为
+992	conductivity	n.	导电率；传导率
+993	conductor	n.	导体
+994	cone	n.	圆锥，松果
+995	confederate	n.	同盟者，盟友
+996	confederacy	n.	联盟
+997	confer	v.	颁给，赋予
+997	 	v.	协商
+998	conference	n.	会议；协商会，讨论会
+999	confess	vt.	坦白承认
+1000	confession	n.	承认，招供
+1001	confide	vt.	吐露（心事），倾诉
+1002	confident	adj.	有信心的，自信的
+1003	confidence	n.	信心
+1004	overconfident	adj.	过于自信的，自负的
+1005	configuration	n.	轮廓，构型
+1006	confine	vt.	限制
+1007	confined to bed	词组	卧病不起的
+1008	confining	adj.	狭窄的
+1009	confinement	n.	限制，禁闭
+1010	confirm	vt.	证实，使…更坚定
+1011	confirmation	n.	确认，证实
+1012	conflict	n.	争论，冲突，斗争
+1013	conflicting	adj.	相冲突的，相矛盾的
+1014	confluence	n.	汇合；聚集
+1015	conform	vi.	遵守，顺从；符合
+1016	conformity	n.	一致，符合
+1017	nonconformity	n.	不墨守陈规，不一致
+1018	nonconformist	n.	非国教徒，不尊奉英国国教的基督教新教教徒
+1019	confront	vt.	面对，正视
+1020	confuse	vt.	搞乱，使糊涂
+1021	confuse…with…	词组	把…认为
+1022	confusion	n.	混乱，混淆
+1023	congenial	adj.	合得来的；适意的
+1024	congenital	adj.	先天的，天生的
+1025	congestion	n.	拥挤，拥塞
+1026	congested	adj.	堵塞的；拥挤的
+1027	congratulation	n.	祝贺，道喜
+1028	congregate	v.	聚集
+1029	conglomerate	n.	混合
+1030	congress	n.	国会，议会
+1031	congressional	adj.	会议的，大会的；国会的
+1032	congressman	n.	国会议员
+1033	conifer	n.	松类，针叶树
+1034	conjectural	adj.	推测的
+1035	conjecture	n./v.	推测，猜测
+1036	connect	v.	连接；联系；联合
+1037	connection	n.	连接
+1038	disconnect	vt.	分离，断开
+1039	connoisseur	n.	鉴赏家，行家
+1040	conscience	n.	良心，良知
+1041	conscientious	adj.	尽责的，一丝不苟的
+1042	conscious	adj.	有意识的，神志清醒的
+1042	 	adj.	意识到的
+1043	consciously	adv.	有意识地，自觉地
+1044	consciousness	n.	意识，知觉
+1045	unconscious	adj.	不省人事的,未发觉的,无意识的
+1046	consecutive	adj.	连续的
+1047	consequence	n.	结果，后果
+1048	consequent	adj.	作为结果的，随之发生的
+1049	consequently	adv.	从而，因此
+1050	conservative	adj.	保守的，谨慎的；守旧的
+1051	conservatism	n.	保守主义，守旧性
+1052	conserve	vt.	保存,保藏   n.可长期保存的食物
+1053	conservation	n.	保存，保持
+1054	conservationist	n.	（天然资源的）保护管理论者
+1055	considerable	adj.	相当大（多）的；值得考虑的；相当可观的
+1056	considerably	adv.	相当地
+1057	considerate	adj.	考虑周到的，体贴的
+1058	consideration	n.	体谅，考虑
+1059	consistent	adj.	一致的；稳定的，变化少的
+1060	consistency	n.	浓度，密度
+1061	consistently	adv.	一贯地
+1062	consonant	adj.	协调一致的
+1063	consort	vi.	陪伴，结交
+1064	consortium	n.	协会，联盟，财团
+1065	conspicuous	adj.	显著的；显眼的，引人注目的
+1066	conspiracy	n.	阴谋，共谋
+1067	constant	adj.	不变的，持续的；一再重复的
+1068	constantly	adv.	不断地
+1069	constellation	n.	星座
+1069	 	n.	灿烂的一群
+1070	consternation	n.	惊愕，惊慌失措
+1071	constituent	n.	成分，要素
+1071	 	n.	选民
+1072	constitution	n.	组织；宪法
+1073	constitute	vt.	建立（政府），组成，构成
+1074	constitutional	adj.	宪法的；章程的
+1075	constrain	vt.	限制，约束
+1076	constraint	n.	限制，约束
+1077	constrict	vt.	约束；收缩
+1078	constricted	adj.	抑制的，约束的
+1079	construct	vt.	建造；创立
+1080	construction	n.	建筑，建造
+1081	consult	vt.	咨询，请教
+1082	consultant	n.	顾问，咨询者
+1083	consume	vt.	消费，消耗；大吃大喝
+1084	consumer	n.	消费者
+1085	consumption	n.	消耗，消费
+1086	contact	vt.	使接触，与…联系
+1087	contagious	adj.	传染性的；有感染力的
+1088	contain	vt.	包含，容纳
+1089	container	n.	容器；集装箱
+1090	contaminate	vt.	弄脏，污染；感染
+1091	contamination	n.	玷污，污染
+1092	contemplate	v.	沉思，对…作周密思考
+1093	contemporary	adj.	当代的，现代的
+1093	 	n.	当代人，同龄人
+1094	contender	n.	竞争者
+1095	contention	n.	争论，争辩
+1096	content	n.	内容；容量
+1096	 	adj.	满足的
+1097	contented	adj.	满足的，心安的
+1098	context	n.	上下文，语境
+1099	contiguous	adj.	接近的，接壤的
+1100	contagious	adj.	传染性的；有感染力的
+1101	continent	n.	大陆
+1102	continental	adj.	大陆的，大陆性的
+1103	supercontinent	n.	（地理）超大陆
+1104	transcontinental	adj.	横贯大陆的，大陆那边的
+1105	continuation	n.	继续，延长
+1106	continuity	n.	(时间或空间的)连续性，连贯性
+1107	continuum	n.	连续统一体
+1108	contour	n.	contours 轮廓
+1108	 	n.	周线，等高线
+1109	contract	v.	收缩
+1109	 	v.	定契约，立合同
+1109	 	n.	契约，合同
+1110	contraction	n.	缩短，收缩
+1111	contractor	n.	定约人，承包人
+1112	contradict	vt.	同…矛盾，同…抵触
+1113	contradictory	adj.	反对的，矛盾的
+1114	contrary	adj.	相反的；对抗的
+1115	contrast	n.	（对比，对照的）差异
+1115	 	vt.	对比，对照
+1116	contribute to	词组	有助于，对…起作用
+1117	controversy	n.	争论，辩论
+1118	controversial	adj.	引起或可能引起争论的
+1119	convenient	adj.	方便的；近便的，容易到达的
+1120	inconvenient	adj.	不便的，有困难的
+1121	convenience	n.	便利，方便
+1122	convention	n.	会议；传统
+1123	conventional	adj.	传统的，习俗的
+1124	conventionally	adv.	按照惯例地，照常套地
+1125	unconventional	adj.	非传统的
+1126	converge	vi.	聚合，集中于一点，会聚
+1127	conversation	n.	会话，非正式会谈
+1128	conversational	adj.	对话的，会话的
+1129	converse	vi.	谈话，交谈
+1130	conversant	adj.	亲切的，熟悉的
+1131	conversion	n.	转变；改变信仰
+1132	convert	vt.	转换；转变信仰
+1133	converter	n.	炼钢转炉
+1134	convex	adj.	凸出的
+1135	convict	vt.	证明…有罪，宣告…有罪
+1136	conviction	n.	确信，深信，坚信
+1137	convincing	adj.	令人信服的
+1138	unconvincing	adj.	不足以令人相信的
+1139	convinced	adj.	确信的，深信的
+1140	convivial	adj.	欢乐的，快乐的
+1141	cooperate	vi.	合作
+1142	cooperation	n.	合作，协作
+1143	cooperative	adj.	合作的，协力的
+1144	coordinate	vt.	使…协调，相配合
+1145	coordinated	adj.	协调的，配合的
+1146	coordination	n.	调和
+1147	copper	n.	铜
+1148	coral reef	词组	珊瑚礁=corals
+1149	reef	n.	礁，暗礁
+1150	core	n.	中心，核心；地核
+1151	crust	n.	地壳；外壳
+1152	mantle	n.	地幔
+1153	corps	n.	军团，兵团
+1154	correlate	vt.	使相互关联；使相互影响
+1155	correlated	adj.	有相互关系的
+1156	correspondence	n.	通信；信件
+1156	 	n.	符合，一致
+1157	corrosion	n.	腐蚀，侵蚀
+1158	corrosive	adj.	腐蚀的，腐蚀性的
+1159	rodent	n.	啮齿类动物
+1160	corruption	n.	腐败，贪污，堕落
+1161	cosmic	adj.	宇宙的
+1162	cosmopolitan	adj.	世界性的，全球的
+1163	costume	n.	服装
+1163	 	vt.	穿上服装；穿衣
+1164	counsel	n./vt.	劝告
+1165	counseling	n.	咨询服务
+1166	counselor	n.	顾问，法律顾问
+1167	counteract	vt.	消除，抵消
+1168	counterbalance	v.	使平衡
+1169	counterclockwis	adj./adv.	逆时针的（地）
+1170	counterfeit	vt.	伪造，仿造
+1170	 	adj.	伪造的，假冒的
+1171	counterpart	n.	相似的人或物，配对物
+1172	countless	adj.	无数的
+1173	couple	n.	（一）对，（一）双；夫妇
+1173	 	vi.	连合，结合
+1174	coupled with	词组	加之，除…以外
+1175	courier	n.	送急件的人，信使
+1176	court	n.	法庭；球场
+1176	 	vt.	向…献殷勤，追求；设法获得（他人的支持等）
+1177	courthouse	n.	法院；郡政府所在地
+1178	courtship	n.	求爱；求爱时期
+1179	courtly	adj.	尊严而有礼貌的
+1180	courteously	adv.	有礼貌地，亲切地
+1181	cover	vt.	覆盖；包括；报道
+1182	coverage	n.	新闻报道；报道
+1183	cowhand	n.	牛仔，牧牛工
+1184	cowboy	n.	牛仔
+1185	cozy	adj.	舒适的，惬意的
+1186	crab	n.	蟹
+1187	crack	n.	裂缝，裂纹；缺点
+1187	 	v.	（使）爆裂；裂开
+1188	craft	n.	手艺；容器
+1188	 	v.	巧手制作
+1189	craftspeople	n.	手工艺人
+1190	hovercraft	n.	气垫船
+1191	aircraft	n.	飞行器；飞机，飞艇
+1192	spacecraft	n.	太空船
+1193	cram	v.	填塞；匆忙准备
+1194	cramped	adj.	狭窄的
+1195	scramble	vt.	搅乱，使混杂；攀爬
+1196	crash	n./vt.	碰撞，坠毁，撞碎
+1196	 	n.	破产，垮台
+1197	crater	n.	火山口；弹坑
+1198	crawl	vi.	爬，爬行
+1199	crayon	n.	彩色蜡笔、粉笔或其绘画
+1200	canyon	n.	峡谷
+1201	crazy	adj.	疯狂的，狂热的
+1202	credence	n.	信任，相信
+1203	credentials	n.	凭据，文凭
+1204	credit	n.	学分
+1204	 	n.	信誉，信用；荣誉，声望
+1204	 	n.	贷方，银行存款
+1204	 	vt.	认定… ；把…归给，归于
+1205	creditor	n.	债权人
+1206	creek	n.	小溪，小河
+1207	creep	vi.	慢慢行进；爬行
+1208	crevice	n.	缺口，裂缝
+1209	crew	n.	全体工作人员；同事们
+1210	screw	n.	螺丝钉  vt.拧紧
+1211	screwdriver	n.	螺丝起子
+1212	crimson	n./adj.	深红色（的）
+1213	cripple	vt.	削弱；使残废
+1214	crippling	adj.	令人震惊的
+1215	crisscross	vi.	交叉往来
+1216	the Red Cross	词组	红十字会
+1217	crossbones	n.	十字骨头
+1218	crosscut	adj.	横切的
+1219	crossing	n.	横越，交叉口
+1220	crossbreeding	n.	（生物）杂种
+1221	critical	adj.	评论的，批评的
+1221	 	adj.	危急的；非常重要的
+1222	critical point	词组	临界点
+1223	critique	n.	（文艺）批评，评论
+1224	crooked	adj.	不诚实的；欺诈的
+1224	 	adj.	弯曲的；蜿蜒的
+1225	crow	n.	乌鸦
+1226	crude	adj.	粗糙的，粗鲁的；原始的
+1227	crumple	vt.	把…弄皱；起皱
+1228	crumble	v.	粉碎；崩溃
+1229	crush	vt.	压垮；粉碎；使变形
+1230	crust	n.	硬外皮；地壳
+1231	crustacean	n.	甲壳动物
+1232	crystal	n.	水晶，晶体
+1232	 	adj.	清澈的；结晶状的
+1233	crystalline	adj.	水晶的，透明的
+1234	crystallize	v.	明确；使结晶化
+1235	crystallized	adj.	变成晶体的
+1236	crystallization	n.	结晶化
+1237	cubism	n.	立体主义
+1238	cube	n.	立方体，立方
+1239	cubic	adj.	立方体的
+1240	cue	n.	提示，暗示
+1241	barbecue	n.	烤肉野餐
+1242	culinary	adj.	厨房的，烹调的
+1243	culminate	v.	达到高潮/顶点
+1244	cultivate	vt.	耕种；培养
+1245	cultivation	n.	耕种；培养
+1246	culture	n.	文明，文化
+1246	 	vt.	培养（微生物细胞组织等）
+1247	horticulture	n.	园艺
+1248	agriculture	n.	农业，农艺，农学
+1249	cumbersome	adj.	笨重的，难处理的
+1250	curator	n.	（博物馆等）馆长
+1251	curious	adj.	（令人）好奇的
+1252	curiosity	n.	好奇心
+1253	currency	n.	通货，货币
+1254	current	n.	（液体、气体）流，趋势
+1254	 	adj.	现今的
+1255	currently	adv.	现在，当前
+1256	concurrent	adj.	并发的；协作的，一致的
+1257	curriculum	n.	学校的全部课程
+1258	cushion	n.	垫子，软垫
+1258	 	v.	缓和…的冲力，保护
+1259	a cushion of	词组	一层
+1260	air-cushion vehicle	词组	气垫船
+1261	custodian	n.	看守人，管理人
+1262	custom	n.	习惯，传统，惯例
+1263	customs	n.	关税
+1264	customer	n.	消费者
+1265	customarily	adv.	通常
+1266	accustomed	adj.	通常的，习惯的
+1267	cuticle	n.	表皮
+1268	cylinder	n.	圆筒，圆柱体
+1269	dagger	n.	短剑，匕首
+1270	daisy	n.	雏菊
+1271	damp	adj.	潮湿的，有湿气的
+1272	dampen	vt.	使潮湿
+1273	dangerous	adj.	危险的
+1274	daring	adj.	大胆的，勇敢的
+1275	dart	v.	飞奔；投掷
+1275	 	n.	标枪，镖，箭
+1276	dash off	词组	水猛冲；感情爆发
+1277	date	vt.	注明…的日期
+1278	date back	词组	追溯到…
+1279	dated	adj.	陈旧的，过时的
+1280	outdated	adj.	过时的，不流行的
+1281	validate	vt.	（法律）使有效，使生效
+1282	inundate	vt.	淹没
+1283	daunting	adj.	使人畏缩的
+1284	dawn	n.	黎明；开端，开始
+1285	dawning	n.	拂晓，黎明
+1286	dazzling	adj.	眼花缭乱的；耀眼的
+1287	deadly	adj.	致命的；极度的
+1288	deal	n.	交易；份量
+1289	a great deal	词组	丰富，大量
+1290	a good deal	词组	许多
+1291	big deal	词组	重大的事，重要的人
+1292	deal with	词组	处理，应付
+1293	debatable	adj.	未决定的，有争执的
+1294	debate	n.	争论，辩论
+1295	debris	n.	废墟，残骸；碎片
+1296	debt	n.	债务
+1297	debtor	n.	债务人
+1298	decadent	adj.	颓废的
+1299	decay	vi./n.	腐烂
+1299	 	vi./n.	衰落
+1300	deceive	vt.	欺骗，行骗
+1301	decent	adj.	适当的，可接受的
+1301	 	adj.	得体的，体面地
+1302	deceptive	adj.	欺骗的，导致误解的
+1303	deception	n.	欺骗，诡计
+1304	deciduous	adj.	每年落叶的
+1305	decimal	adj.	十进制的，小数的
+1305	 	n.	小数
+1306	deck	n.	一副（纸牌）
+1307	declaration	n.	宣布，宣言
+1308	declare	vt.	宣布，声明
+1309	decline	vi./n.	衰退；下降，减退
+1309	 	vt.	婉言谢绝
+1310	decomposition	n.	腐烂，分解
+1311	decompose	v.	分解，（使）腐烂
+1312	decorate	vt.	装饰，装潢，修饰
+1313	decoration	n.	装饰，装饰品
+1314	decorative	adj.	装饰的，可作装饰的
+1315	decrease	v.	减少
+1316	defecate	vi.	排粪；通大便
+1317	defect	n.	缺点，瑕疵
+1318	defective	adj.	有缺陷的
+1319	defend	vt.	防护；辩护
+1320	defense	n.	防卫；防卫物
+1321	defensive	adj.	自卫的
+1322	defer	vi.	遵从，听从
+1322	 	vt.	延期
+1323	deferential	adj.	恭敬的, 恭顺的
+1324	deference	n.	尊重，顺从；敬意
+1325	deficiency	n.	缺乏；不足
+1326	deficient	adj.	缺乏的，不足的
+1327	deficit	n.	赤字，不足额
+1328	definite	adj.	清楚的；明确的；确切的
+1329	definitely	adv.	明确地，肯定地
+1330	definitive	adj.	决定性的，最后的
+1331	definition	n.	定义
+1332	deform	vt.	使变形
+1333	deformation	n.	损坏，变形
+1334	deft	adj.	灵巧的，熟练的
+1335	adept	adj.	熟练的，拿手的
+1336	degrade	v.	使降级，贬低
+1337	degradation	n.	退化；降级，降格
+1338	dehydrate	vt.	使脱水
+1339	dehydrated	adj.	干燥的，脱水的
+1340	dehydration	n.	脱水，干燥
+1341	deign	vi.	屈尊
+1342	deity	n.	神，被奉若神明的人或物
+1343	delay	vt./n.	推迟，耽搁
+1344	delectable	adj.	美味的
+1345	delegate	n.	代表
+1345	 	vt.	委派，授权
+1346	deliberate	adj.	故意的，早有准备的
+1346	 	adj.	审慎的，深思熟虑的
+1347	deliberately	adv.	故意地
+1348	delicate	adj.	脆的，易损的；娇弱的
+1348	 	adj.	精致的，细腻的
+1349	delicious	adj.	美味的，可口的
+1350	delirium	n.	精神错乱，发狂
+1351	delta	n.	三角洲
+1352	demobilize	vt.	遣散，使复员
+1353	immobilize	vt.	使固定不动
+1354	democracy	n.	民主政治，民主主义
+1355	demolish	vt.	破坏，摧毁
+1356	demolition	n.	破坏，拆除
+1357	demonstrate	vt.	演示；论证
+1358	demonstration	n.	实证；示范
+1359	denomination	n.	宗派，教派
+1359	 	n.	（货币）面额
+1360	denote	vt.	指示，表示
+1361	denounce	vt.	（公开）谴责，斥责
+1362	dense	adj.	密集的，浓厚的
+1363	condense	vt.	使浓缩；精简
+1364	condenser	n.	冷凝器；电容器
+1365	density	n.	密度
+1366	dent	n.	缺口，凹痕
+1366	 	v.	使凹下，凹进
+1367	indent	vt.	使凹进
+1368	indenture	vt.	以契约束缚（学徒等）
+1369	rodent	n.	啮齿类动物
+1370	edentate	n.	贫齿类动物
+1371	dentistry	n.	牙科
+1372	dental	adj.	牙齿的
+1373	dentist	n.	牙科医生
+1374	deny	vt.	否认，否定
+1374	 	vt.	剥夺，拒绝…的要求
+1375	depart	vi.	离开，出发
+1376	departure	n.	离开，出发
+1377	dependent	adj.	依赖的；从属的，由…而定的
+1377	 	n.	依赖他人者
+1378	depend on	词组	依靠，依赖
+1379	dependence	n.	依赖，信赖
+1380	dependable	adj.	可靠的，可信赖的
+1381	independent	adj.	独立自主的，不受约束的
+1381	 	n.	中立派，无党派者
+1382	interdependent	adj.	相互依赖的，互助的
+1383	depict	vt.	描绘；描写，描述
+1384	deplete	vt.	耗尽，使衰竭
+1385	deposit	vt.	堆积，沉淀
+1385	 	vt.	放置，寄存
+1385	 	vt.	产卵
+1385	 	n.	堆积物，沉淀；存款，押金
+1386	depositor	n.	存款人
+1387	depot	n.	货站，仓库
+1388	depreciation	n.	贬值
+1389	depredation	n.	劫掠，蹂躏
+1390	depress	vt.	压下，压低
+1391	depressed	adj.	沮丧的
+1392	under the depressor	词组	被强制
+1393	depression	n.	不景气，萧条期
+1393	 	n.	凹陷处，坑
+1393	 	n.	沮丧，消沉
+1394	deprive	vt.	剥夺，使失去
+1395	deprivation	n.	缺乏；剥夺
+1396	derive	vt.	得到，获取；源于
+1397	derive from	词组	来源于
+1398	derivative	n.	派生的事物；派生词
+1399	desalination	n.	脱盐，去盐作用
+1400	descend	v.	传下，遗传
+1400	 	v.	下降
+1401	descendant	n.	子孙，后裔
+1402	descent	n.	血统，世袭
+1402	 	n.	下降
+1403	desert	n.	沙漠
+1403	 	vt.	遗弃
+1404	deserted	adj.	荒芜的，荒废的
+1405	deserve	vt.	应得
+1406	undeserved	adj.	不应得的，不该受的
+1407	designate	vt.	指定，任命
+1408	desire	n.	欲望，要求
+1408	 	vt.	想要
+1409	desirable	adj.	令人向往的；令人满意的
+1410	desolate	adj.	荒凉的，无人烟的
+1411	desperate	adj.	绝望的，不顾一切的，拼死的
+1412	desperately	adv.	迫切地；危急地
+1413	despoil	v.	夺取，掠夺
+1414	despoiler	n.	掠夺者
+1415	dessert	n.	餐后甜点
+1416	destination	n.	目的地
+1417	destine	vt.	命运注定，预定
+1418	destruction	n.	破坏；毁灭
+1419	destructive	adj.	破坏的；毁灭性的
+1420	detect	vt.	察觉，发觉；探测，侦查
+1421	detective	n.	侦探
+1421	 	adj.	侦探的
+1422	detectable	adj.	可发觉的；可查明的
+1423	smoke detector	词组	烟雾探测器
+1424	deter	vt.	阻碍，制止，使踌躇
+1425	deterrent	n.	制止物，威慑力量
+1426	detergent	n.	清洁剂
+1427	deteriorate	v.	使恶化；质量下降
+1428	determinant	n.	决定因素
+1429	detest	vt.	深恶，憎恶
+1430	detrimental	adj.	有害的
+1431	detriment	n.	伤害，危害
+1432	devastate	vt.	毁坏
+1433	devastation	n.	毁坏
+1434	devastating	adj.	破坏性的
+1435	device	n.	器械，装置
+1436	devise	vt.	设计；发明
+1437	devoid	adj.	全无的，缺乏的
+1438	devote	vt.	投入于，献身；用于，作…之用
+1439	devotion	n.	热爱，忠诚
+1440	devour	vt.	贪婪地吃，吞食
+1441	diagnose	vt.	诊断
+1442	diagonal	n./adj.	对角线（的）
+1443	diagonally	adv.	成对角线地，斜对地
+1444	diagram	n.	图表
+1445	dialect	n.	方言，土话
+1446	dialogue	n.	对话
+1447	diameter	n.	直径
+1448	dictate	vt.	规定；决定，确定
+1449	diction	n.	措辞，用语
+1450	prediction	n.	预言，预报
+1451	jurisdiction	n.	权限
+1452	diet	n.	饮食，食物
+1452	 	vi.	节食，忌食
+1453	dietary	adj.	饮食的
+1454	dieter	n.	节食者，减肥者
+1455	dietitian	n.	营养学家
+1456	dietetics	n.	营养学
+1457	differentiate	v.	区分，区别
+1458	undifferentiated	adj.	无差别的，无显著特征的
+1459	diffuse	v.	扩散；散播
+1459	 	adj.	散开的，弥漫的
+1460	digestion	n.	消化
+1461	digest	vt.	消化
+1462	digestive	adj.	消化的，助消化的
+1463	indigestion	n.	消化不良
+1464	dignity	n.	尊严，高贵
+1465	digression	n.	离题，扯到枝节上
+1466	dilate	vt.	使膨胀，使扩大
+1467	dilemma	n.	困境，进退两难
+1468	diligent	adj.	勤勉的，勤奋的
+1469	diligently	adv.	勤勉地，尽职地，小心翼翼地
+1470	dilute	vt.	稀释，淡化
+1471	dilution	n.	稀释，淡化
+1472	dim	adj.	暗淡的，模糊的
+1473	dimly	adv.	朦胧地，模糊地
+1474	dime	n.	（美）一角硬币
+1475	dimension	n.	尺寸；尺度
+1476	dimensional	adj.	空间的
+1477	two/three dimensional	词组	两/三维的
+1478	diminish	v.	（使）减少，（使）变小
+1479	dinosaur	n.	恐龙
+1480	dioxide	n.	二氧化物
+1481	carbon dioxide	n.	二氧化碳
+1482	diplomacy	n.	外交，交际手腕
+1483	diplomatic	adj.	外交的；老练的
+1484	disadvantage	n.	缺点，坏处，不利
+1485	disapproval	n.	不赞成
+1486	disaster	n.	灾难，不幸；彻底的失败
+1487	disastrous	adj.	损失惨重的；悲伤的
+1488	discard	vt.	丢弃
+1489	discern	vt.	看出；察觉到
+1490	discernible	adj.	可识别的=discernable
+1491	discerning	adj.	有识别能力的；眼光敏锐的
+1492	discharge	vt.	释放；排出
+1492	 	n.	流出
+1492	 	n.	放电
+1493	disciple	n.	门徒，弟子
+1494	discipline	n.	纪律，训练
+1494	 	n.	学科
+1494	 	vt.	训练；惩罚
+1495	subdiscipline	n.	（学科的）分支，分科
+1496	disciplined	adj.	遵守纪律的
+1497	discomfort	n.	不适
+1498	discontented	adj.	不满意，不满足
+1499	discontent	n.	不满
+1500	discount	n.	折扣
+1500	 	vt.	不全信，对…持怀疑态度
+1501	discourage	v.	使气馁；阻碍
+1502	discouraging	adj.	令人气馁的
+1503	discourse	n.	讲道，演讲
+1504	discrete	adj.	独立的；不连续的，离散的
+1505	discreet	adj.	小心的，谨慎的
+1506	disgust	n.	厌恶，嫌恶
+1507	disgusted	adj.	厌烦的；厌恶的
+1508	disillusion	v.	使醒悟
+1509	disintegrate	v.	（使）瓦解，（使）碎裂
+1510	disinterested	adj.	无个人利害关系的;无私的,公平的
+1511	dismal	adj.	暗的，凄凉的；忧郁的，沮丧的
+1512	dismay	vt.	使惊慌；使沮丧
+1512	 	n.	沮丧，惊慌
+1513	dismember	vt.	肢解，分割
+1514	dismembered	adj.	肢解的
+1515	dismiss	vt.	解散；摒除（思想、感情等）
+1516	disorganize	vt.	扰乱，使混乱
+1517	dispatch	vt.	（紧急）派遣；分配
+1517	 	n.	派遣；急件，重要消息
+1518	dispense	vt.	分配，分发
+1519	dispense with	词组	免除，省却
+1520	disperse	vt.	分散，散开
+1521	dispersal	n.	疏散，散开
+1522	displace	vt.	移置，转移；取代，替代
+1523	displacement	n.	移置，转移
+1524	display	vt.	陈列；显示
+1524	 	n.	陈列，展览；显示
+1525	disposal	n.	垃圾倾倒；处置
+1526	dispose of	词组	除去，扔掉；解决，处理
+1527	disposed	adj.	有…倾向的
+1528	disposition	n.	性情；倾向
+1529	disproportionate	adj.	不成比例的
+1530	dispute	n.	争论，纠纷
+1530	 	v.	争论，争执
+1531	disregard	n./v.	不理会；漠视
+1532	disrepute	n.	坏名声，不光彩
+1533	disrupt	vt.	使混乱，使中断
+1534	disseminate	vt.	传播，宣传
+1535	dissenter	n.	不同意者，反对者
+1536	dissenting	adj.	不同意的
+1537	dissertation	n.	论文
+1538	dissimilar	adj.	不同的, 相异的
+1539	dissipate	vi.	消失；消散
+1540	dissipated	adj.	沉迷于酒色的, 浪荡的
+1541	dissolve	vt.	使溶解
+1542	distant	adj.	远离的，遥远的
+1543	distance	n.	距离；远处
+1544	distend	vt./vi.	（使）扩大，（使）扩张
+1545	distent	adj.	膨胀的，扩张的
+1546	distasteful	adj.	（令人）不愉快的，讨厌的
+1547	distill	vt.	蒸馏，提取
+1548	distinction	n.	差别，特性
+1548	 	n.	显赫，声望
+1549	distinct	adj.	明确的，确实的；不同的
+1550	distinctly	adv.	清楚地，显然
+1551	distinctive	adj.	有特色的，出众的
+1552	distinctively	adv.	特殊地，区别地
+1553	distinguish	vt.	区别，辨认
+1554	distinguished	adj.	卓著的
+1555	distort	vt.	弄歪（形状等）；歪曲
+1556	undistorted	adj.	未失真的
+1557	distortion	n.	扭曲；歪曲
+1558	distract	vt.	使…分心，分散注意力
+1559	distress	n.	悲痛，不幸，穷困
+1560	distribute	vt.	分配；分发，散布
+1561	distribution	n.	分发，分配
+1562	district	n.	区域，地区
+1563	disturb	vt.	打扰，扰乱
+1564	undisturbed	adj.	没受干扰的，安静的
+1565	disturbance	n.	骚动，动乱
+1566	dive	vi.	潜水；跳水
+1567	diver	n.	潜水者，跳水运动员
+1568	divergent	adj.	有分歧的，有差异的
+1569	divergence	n.	分歧，岔开
+1570	diverse	adj.	不同的；变化多的
+1571	diversity	n.	差异，多样
+1572	diversify	vt.	使多样化
+1573	diversified	adj.	多样化的
+1574	diversification	n.	多样化
+1575	diversion	n.	消遣，娱乐
+1575	 	n.	转移，转换
+1576	divert	vt.	转移，（使）转向
+1577	divide	vt.	划分，分开；分裂
+1578	dividing line	词组	分界线
+1579	divorce	vt.	离婚
+1579	 	vt.	使分离，使脱离
+1580	dizzy	adj.	眩晕的
+1581	dizzying	adj.	令人昏乱的；灿烂的
+1582	dizziness	n.	头昏眼花，眩晕
+1583	doctrine	n.	教义，教旨
+1584	documentation	n.	文件
+1585	document	vt.	证明；文件记录
+1586	documentary	adj.	文件的  n. 纪录片
+1587	dogged	adj.	顽强的，顽固的
+1588	dogma	n.	教条，教义
+1589	doll	n.	洋娃娃，玩偶
+1590	dolphin	n.	海豚
+1591	domain	n.	领域，范围
+1592	domestic	adj.	家里的；家养的
+1592	 	adj.	本国的，国内的
+1593	domesticate	vt.	驯养，驯化
+1594	domesticated	adj.	驯养的，家养的
+1595	dominant	adj.	支配的，占优势的
+1596	predominantly	adv.	占主导地位地
+1597	dominate	vt.	统治，支配，控制
+1597	 	vi.	盛行
+1598	predominate	vi.	占主导地位，占优势
+1599	donate	vt.	捐赠
+1600	donation	n.	捐赠，捐款
+1601	donor	n.	捐助者
+1602	dormant	adj.	静止的，休眠的
+1603	dormitory	n.	宿舍
+1604	dorsal	adj.	背部的，背脊的
+1605	dot	vt.	星罗棋布于
+1605	 	n.	点，圆点
+1606	endotoxin	n.	内毒素
+1607	endotherm	n.	温血动物，恒温动物
+1608	doubt	n./vt.	怀疑
+1609	doubtful	adj.	可疑的；疑心的
+1610	downtown	adv./adj.	在市区（的），往市区（的）
+1611	draft	n.	草图，草稿
+1611	 	vt.	起草
+1612	draft animal	词组	役用动物
+1613	drag	vt.	拖动
+1614	dragonfly	n.	蜻蜓
+1615	drain	v.	（使）流走，（使）排光
+1615	 	n.	排水；消耗
+1616	down the drain	词组	浪费；无结果
+1617	drainage	n.	排水，排出物
+1618	drama	n.	戏剧
+1619	dramatize	vt.	改编成戏剧，编写剧本
+1620	melodrama	n.	情节剧
+1621	dramatically	adv.	戏剧性地；引人注目地
+1622	dramatic	adj.	戏剧性的；引人注目的
+1623	drastic	adj.	猛烈的
+1624	draw	vt.	吸引
+1625	drawing	n.	图画，制图
+1626	draw up	词组	起草
+1627	draw out	词组	拔出；引起
+1628	draw from	词组	源于…
+1629	drawback	n.	弊端，缺点
+1630	drawer	n.	抽屉
+1631	dread	n.	畏惧，恐怖
+1632	dreadful	adj.	可怕的
+1633	dreadfully	adv.	可怕地
+1634	dreary	adj.	沉闷的，阴郁的
+1635	drift	vi.	漂流；漂泊
+1636	driftwood	n.	浮木
+1637	snowdrift	n.	雪堆
+1638	drill	vt.	钻孔，打眼
+1638	 	n./vi.	训练，操练；反复练习
+1639	drop in	词组	顺便拜访
+1640	drought	n.	干旱
+1641	drowsy	adj.	昏昏欲睡的
+1642	drudgery	n.	苦工，苦差事
+1643	ductile	adj.	易延展的；柔软的
+1644	due	adj.	预定的；到期的
+1645	due to	词组	因为，由于
+1646	overdue	adj.	迟到的，过期的
+1647	dues	n.	应付款
+1648	subdue	vt.	征服
+1649	residue	n.	残滓，剩余
+1650	dull	adj.	钝的；感觉或理解迟钝的
+1651	dumb	adj.	哑的
+1652	dumbbell-like	adj.	哑铃状的
+1653	dump	vt.	倾泻，倾倒
+1654	duplicate	vt.	复写，复制
+1654	 	adj.	两重的，两倍的；完全相同的
+1655	durable	adj.	持久的；耐用的
+1656	duration	n.	持续时间
+1657	dwarf	n.	侏儒 
+1657	 	vt.	把…显得矮小
+1658	dwell	vi.	居住，生活于
+1659	dweller	n.	居住者，居民
+1660	dwelling	n.	住处，寓所
+1661	dye	n.	颜料，燃料
+1661	 	vt.	染色
+1662	dynamic	adj.	动力的；动态的
+1663	dynamics	n.	动力学
+1664	aerodynamics	n.	空气动力学
+1665	thermodynamics	n.	热力学
+1666	eager	adj.	渴望的；热心的
+1667	earthquake	n.	地震
+1668	eccentric	adj./n.	古怪的（人），异常的（人）
+1669	eccentricity	n.	反常，怪癖
+1670	eclecticism	n.	折衷主义
+1671	eclipse	n.	日蚀，月蚀
+1671	 	vt.	盖过，使失色；遮蔽
+1672	ecological	adj.	生态的；生态学的
+1673	ecologist	n.	生态学者
+1674	economical	adj.	经济的，节俭的
+1675	economics	n.	经济学
+1676	economize	vi.	节约，节省
+1677	ecosystem	n.	生态系统
+1678	edge	n.	边缘
+1679	edentate	n.	贫齿类动物
+1680	edible	adj.	可食用的
+1681	edifice	n.	宏伟的建筑物
+1682	educable	adj.	可教育的，可培养的
+1683	educated	adj.	受过教育的，有教养的
+1684	education	n.	教育，培养
+1685	effective	adj.	有效的；生效的
+1686	effectiveness	n.	效力
+1687	efficient	adj.	生效的；能干的，有效率的
+1688	efficiency	n.	效率，功效
+1689	effluent	n.	流出物
+1690	eject	vt.	喷出，喷射
+1690	 	vt.	逐出，驱逐
+1691	elaborate	adj.	精细的，精心的；详尽的
+1691	 	vt.	详细阐述
+1692	elaborately	adv.	精细地，详尽地
+1693	elasticity	n.	弹力，弹性
+1694	inelastic	adj.	无弹性的
+1695	election	n.	选举；当选
+1696	selection	n.	选择；精选品
+1697	electron	n.	电子
+1698	elegant	adj.	雅致的
+1699	elegance	n.	高雅, 典雅, 优雅, 雅致
+1700	element	n.	成分；要素
+1701	elementary	adj.	基本的，初级的
+1702	elevate	vt.	举起；抬高；使上升
+1703	elevation	n.	高度，海拔
+1704	elevator	n.	电梯，起重机；活动谷仓
+1705	elicit	vt.	得出；引出
+1706	eligible	adj.	合格的，有资格的
+1707	eliminate	vt.	排除，剔除
+1708	elimination	n.	排除，除去
+1709	elite	n.	精英
+1710	elixir	n.	长生不老药，万能药
+1711	elliptical	adj.	椭圆的
+1711	 	adj.	省略的
+1712	elongate	vt.	延长，伸长
+1713	eloquent	adj.	善于表达的，有口才的；雄辩的
+1714	elusive	adj.	难懂的，难捉摸的
+1715	emancipate	vt.	解放，释放
+1716	emancipation	n.	释放，解放
+1717	embarrass	vt.	使尴尬，使困窘
+1718	embed	vt.	插入；镶嵌
+1719	embellish	vt.	装饰，修饰
+1720	embellishment	n.	装饰，修饰
+1721	emblem	n.	象征，标志；徽章
+1722	embody	vt.	使具体化；包含，收录
+1723	emboss	v.	加浮雕花纹于，使凸出
+1724	embrace	vt.	包含
+1724	 	vt.	拥抱；欣然接受
+1725	embroider	vt.	刺绣, 镶边；装饰
+1726	embroidery	n.	刺绣
+1727	embryo	n.	胚胎；事物的萌芽期
+1728	embryological	adj.	胚胎学的
+1729	embryonic	adj.	胚胎的，萌芽期的
+1730	emerge	vi.	出现，浮现
+1731	emerging	adj.	正在不断出现的
+1732	emergence	n.	出现，形成
+1733	emigrant	n.	移民（出国）
+1734	eminent	adj.	著名的，显著的
+1735	eminence	n.	显赫的声望
+1736	preeminent	adj.	卓越的
+1737	emission	n.	散发；发射
+1738	emit	vt.	发出，放射
+1739	emotional	adj.	情绪的，情感的
+1740	emotion	n.	情绪，强烈的情感
+1741	emphasize	vt.	强调, 着重
+1742	emphasis	n.	强调, 重点
+1743	employ	vt.	用，使用
+1743	 	vt.	雇佣
+1744	employee	n.	雇员
+1745	employer	n.	雇主，老板
+1746	empty	adj.	空的；空洞的，空虚的
+1746	 	vt.	使成为空，倒空
+1747	enactment	n.	设定，制定
+1748	encase	vt.	装入，包住，围
+1749	enclose	vt.	装入，放入封套；围绕
+1750	enclosure	n.	围绕；围墙
+1751	encompass	vt.	包括，包含
+1751	 	vt.	环绕，围住
+1752	encounter	vt.	遭遇，遇到
+1753	encourage	vt.	鼓励，支持
+1754	encroach	vi.	侵占，蚕食
+1755	encyclopedia	n.	百科全书
+1756	endanger	vt.	危及；危害
+1757	endangered	adj.	有灭绝危险的，将要绝种的
+1758	endeavor	vi.	尝试，努力
+1758	 	n.	努力，尽力
+1759	endless	adj.	无止境的
+1760	endlessly	adv.	不断地，无穷尽地
+1761	endow	vt.	捐赠
+1761	 	vt.	赋予
+1762	endowment	n.	禀赋；捐款
+1763	endure	vt.	承受，忍受
+1763	 	vt.	耐久
+1764	enduring	adj.	持久的，不朽的
+1765	endurance	n.	忍耐（力），持久（力）
+1766	energetic	adj.	精力充沛的；积极的
+1767	engaging	adj.	动人的，迷人的
+1768	engage in	词组	从事于，参加
+1769	engrave	vt.	雕刻，铭刻
+1770	engraving	n.	雕刻术, 雕版, 雕版图
+1771	enhance	vt.	提高，增加
+1772	enlightenment	n.	启迪，教化
+1773	enormous	adj.	极大的，庞大的
+1774	enrage	vt.	激怒
+1775	enrich	vt.	加料于(食物)；使富足，使肥沃
+1776	ensemble	n.	全体，整体
+1776	 	n.	合唱曲；剧团或文工团
+1777	entanglement	n.	纠缠，缠绕物
+1777	 	n.	累赘；牵连
+1778	enterprise	n.	事业，企业
+1779	enterprising	adj.	有进取心的,有事业心的,有魄力的
+1780	entertain	vt.	娱乐；款待
+1781	entertainment	n.	娱乐；款待
+1782	entertainer	n.	演艺人员
+1783	enthusiasm	n.	热心，热情
+1784	enthusiastically	adv.	热心地；满腔热情地
+1785	entitle	v.	取名叫，叫做
+1785	 	v.	赋予权力
+1786	entitled	adj.	有资格的
+1787	entity	n.	存在物，实体
+1788	entrenched	adj.	确立的，不容易改的(风俗习惯)
+1789	entrepreneur	n.	企业家，创业人
+1790	entry	n.	进口；入口
+1790	 	n.	条目
+1791	envelop	v.	把…包住，裹住
+1792	envision	vt.	想象，预想
+1793	enzyme	n.	酶
+1794	ephemeral	adj.	短暂的，转瞬即逝的
+1795	epic	n.	史诗，叙事诗
+1796	epidemic	n.	传染病，流行病
+1797	epidermis	n.	表皮
+1798	episode	n.	一段情节；（音乐）插曲
+1799	epoch	n.	新纪元，时代
+1800	equal	adj.	相等的，同样的
+1800	 	vt.	等于，比得上
+1801	equality	n.	同等，平等
+1802	equilibrium	n.	平衡，均衡
+1803	equipment	n.	设备
+1804	equitable	adj.	公平的，公正的
+1805	equivalent	n.	等同品
+1805	 	adj.	相等的，等同的；等值的
+1806	eradicate	vt.	根除，杜绝
+1807	erect	vt.	使树立；建立，创立
+1808	erode	v.	腐蚀，侵蚀
+1809	erosion	n.	腐蚀，侵蚀
+1810	erratic	adj.	古怪的，反复无常的
+1811	erratically	adv.	不规则地
+1812	error	vt.	做错，出差错
+1813	eruption	n.	爆发，喷发
+1814	erupt	vi.	喷出，爆发
+1815	escalate	vi.	逐步升高, 逐步增强
+1815	 	vt.	使逐步上升
+1816	escalator	n.	电动扶梯
+1817	escape	v.	逃脱，逃走；避开，避免
+1818	escapist	adj./n.	逃避现实的（人）
+1819	essential	adj.	绝对必要的；本质的，根本的
+1820	estate	n.	财产；不动产
+1821	real estate	词组	房地产
+1822	estimate	vt.	估计
+1823	underestimate	vt.	低估，看轻
+1824	overestimate	vt.	评价过高
+1825	eternal	adj.	永恒的；永远的
+1826	ethics	n.	伦理学；道德规范
+1827	ethically	adv.	在伦理上，道德上
+1828	ethnic	adj.	种族的
+1829	etiquette	n.	礼仪，礼节
+1830	evaluate	vt.	评价，估价
+1831	evaporate	v.	（使）蒸发；消失
+1832	evaporation	n.	蒸发；消失
+1833	eventful	adj.	多事的,充满大事的;意义重大的
+1834	eventual	adj.	最终的
+1835	eventually	adv.	终于
+1836	evergreen	adj.	常绿的
+1836	 	n.	常绿树；常绿植物
+1837	evidence	n.	证据
+1837	 	vt.	证明；表明，显示
+1838	evident	adj.	明显的
+1839	eviscerate	vt.	取出内脏；除去主要部分
+1840	evoke	vt.	引起，激起，唤起
+1841	evolution	n.	发展，演变
+1842	evolve	v.	进化，发展
+1843	evolutionary	adj.	发展的，进化的
+1844	exact	adj.	精确的，准确地
+1845	exacting	adj.	苛求的，要求严格的
+1846	exaggerate	v.	夸大，夸张
+1847	exaggeration	n.	夸张
+1848	exalted	adj.	崇高的，高贵的
+1849	excavate	vt.	挖掘，挖出
+1850	excavation	n.	挖掘
+1851	exceed	vt.	超越，胜过
+1852	excel	vi.	胜过，杰出
+1853	excellent	adj.	优良的，杰出的
+1854	exception	n.	例外
+1855	exceptional	adj.	异常的，杰出的
+1856	exceptionally	adv.	特殊地；异常地
+1857	excess	adj.	过度的，额外的
+1857	 	n.	过量，超过
+1858	excessive	adj.	过度的，过分的，过多的
+1859	exchange	n./vt.	兑换，交换
+1860	excitement	n.	激动，兴奋；刺激
+1861	excite	vt.	刺激，使兴奋
+1862	exciting	adj.	令人兴奋的，刺激的
+1863	exclaim	vt.	呼喊；惊叫
+1864	exclude	vt.	把…排除在外，排斥
+1865	exclusion	n.	排除，逐出
+1866	exclusive	adj.	单独的，唯一的；排外的
+1867	exclusively	adv.	排外地, 专有地
+1868	excursion	n.	远足，游览
+1869	excuse	vt.	原谅
+1869	 	n.	藉口，理由
+1870	execute	vt.	完成，实施，执行
+1871	execution	n.	实施，执行；完成
+1872	executive	adj.	行政的
+1872	 	n.	执行者，经理主管人员
+1873	exemplary	adj.	模范的，典范的，可仿效的
+1874	exemplify	vt.	例证；作为…的例子
+1875	exempt	vt.	使免除，豁免
+1876	exemption	n.	解除，免除
+1877	exert	vt.	运用，行使，施加
+1878	exertion	n.	尽力，努力
+1879	exhale	vt.	呼出，呼气
+1880	exhaust	n.	排气，排气装置
+1880	 	vt.	用尽，耗尽，使筋疲力尽
+1881	exhausted	adj.	精疲力尽的
+1882	exhausting	adj.	使用尽的, 令人疲乏不堪的
+1883	exhibit	vt.	展现；展览
+1884	exhibition	n.	展览会；展览品
+1885	exhilarating	adj.	爽快的，使人愉快的
+1886	exhilarate	vt.	使人兴奋
+1887	exit	n.	出口
+1888	exorbitant	adj.	（价格、索价）过高的，过分的
+1889	exotic	adj.	异国的，外来的；奇异的
+1890	expand	v.	扩大，膨胀；扩张
+1891	expanding	adj.	扩大的，增加的
+1892	expansion	n.	扩张，发展
+1893	expanse	n.	广阔的区域
+1894	expedition	n.	远征；探险队
+1895	expel	v.	驱逐，开除；排出
+1896	expenditure	n.	支出, 花费
+1897	expertise	n.	专门技术，技能
+1898	expire	vi.	期满，到期
+1898	 	vi.	呼气
+1899	explicit	adj.	明确的，清楚的
+1900	implicit	adj.	暗示的，含蓄的
+1901	explode	vi.	爆炸；爆发
+1902	exploit	vt.	开拓；开采，开发
+1903	exploitation	n.	开发，开采
+1904	explore	vt.	探险，勘探
+1904	 	vt.	仔细检查，探究
+1905	explorer	n.	探险家，探测者
+1906	exploration	n.	勘察；探究
+1907	explosive	adj.	爆炸的；易爆发的
+1907	 	n.	炸药
+1908	exponential	adj.	指数的，幂数的
+1909	exposition	n.	博览会，展览会
+1910	exposure	n.	暴露；曝光
+1911	express busine	词组	特快专递业务
+1912	express train	词组	特快列车
+1913	expressive	adj.	有表现力的,富有表情的,生动的
+1914	expressly	adv.	特意地，专门
+1915	extension	n.	延长，扩充
+1916	extend	v.	延长；扩大
+1917	extended	adj.	延长的，扩大的
+1918	extensive	adj.	广的；多方面的，广泛的
+1919	exterior	n.	外部，外表
+1920	exterminate	vt.	根除，灭绝
+1921	external	adj.	外部的；表面的
+1922	extinct	adj.	灭绝的；不再活跃的，熄灭的
+1923	extinction	n.	消失，灭绝
+1924	extol	vt.	赞美
+1925	extract	vt.	拔出；榨取
+1925	 	n.	精，汁；榨出物
+1926	extraordinary	adj.	特别的，非凡的
+1927	extremity	n.	末端；极端，极度
+1928	exuberant	adj.	充满活力的
+1928	 	adj.	（植物）繁茂的
+1929	eyewitness	n.	目击者
+1930	fable	n.	寓言，神话
+1931	fabric	n.	织物，布
+1931	 	n.	结构，构造
+1932	facade	n.	正面；表面
+1933	facet	n.	面；（问题等的）方面
+1934	multifaceted	adj.	多层面的
+1935	face	vt.	面对
+1936	facilitate	vt.	使容易；有助于，促进
+1937	facilitation	n.	促进，帮助
+1938	facility	n.	设施，设备
+1939	facsimile	n.	复制品，传真
+1940	faction	n.	派别，宗派，小集团
+1941	petrifaction	n.	石化, 化石
+1942	satisfaction	n.	满意，满足
+1943	factor	n.	因素；变量
+1944	factual	adj.	事实的，实际的
+1945	faculty	n.	教职工的总称
+1945	 	n.	才能，能力
+1946	fade	vi.	逐渐消失
+1946	 	vi.	褪色，枯萎
+1947	faint	adj.	微弱的；模糊的；无力的
+1948	fairly	adv.	公平地；相当地
+1949	faithful	n.	信徒
+1949	 	adj.	忠实的
+1950	faithfulness	n.	忠诚，诚实
+1951	fake	n.	赝品，假货
+1951	 	adj.	假的，伪造的
+1952	falcon	n.	猎鹰
+1953	falconer	n.	养猎鹰者，放鹰狩猎人
+1954	famine	n.	饥荒，饥饿
+1955	fanatical	adj.	狂热的；入迷的
+1956	fanatic	adj.	狂热的；盲信的
+1957	fanaticism	n.	狂热，盲信
+1958	fancy	adj.	新奇的，精美的
+1959	fanciful	adj.	爱空想的
+1960	infancy	n.	幼年
+1961	fantastic	adj.	（非正式）极…的；奇异的
+1962	fantasy	n.	幻想；白日梦
+1963	far-reaching	adj.	影响深远的
+1964	farce	n.	闹剧，滑稽剧
+1965	fascinate	vt.	使着迷，使神魂颠倒
+1966	fascinating	adj.	迷人的，醉人的
+1967	fascination	n.	入迷，迷恋；魅力
+1968	fashionable	adj.	流行的，时髦的，上流社会的
+1969	fashion	n.	流行，风尚，流行式样
+1969	 	vt.	塑造，造
+1970	fasten	vt.	使固定，系
+1971	fatal	adj.	致命的
+1972	fateful	adj.	重大的，决定性的
+1973	fatigue	n.	疲乏，劳累
+1974	faucet	n.	水龙头
+1975	fault	n.	（地质学）断层
+1975	 	n.	过错，缺点
+1976	fauna	n.	动物群，动物区系
+1977	flora	n.	植物群
+1978	floral	adj.	花的，植物的
+1979	favorable	adj.	有利的；有助的；赢得赞扬的
+1980	favored	adj.	首选的；受到优待的；受优惠的
+1981	unfavorable	adj.	不宜的；相反的
+1982	feasible	adj.	切实可行的
+1983	feat	n.	功绩，壮举
+1984	feeble	adj.	微弱的；衰弱的
+1985	feed	v.	喂养，饲养；吃草，靠…为生
+1985	 	n.	饲养，饲料
+1986	feeder	n.	进料器
+1987	feed on	词组	吃，以…为食
+1988	feminism	n.	女权运动
+1989	feminist	n.	女权主义者
+1990	fencing	n.	围墙，栅栏；击剑，剑术
+1991	fend for oneself	词组	自己谋生
+1992	fender	n.	防卫物；挡泥板
+1993	ferment	vt.	使发酵
+1993	 	n./vt.	（使）激动，（使）动乱
+1994	fermentation	n.	发酵
+1995	ferry	n.	渡口；渡船
+1996	fertile	adj.	肥沃的，富饶的；能繁殖的
+1996	 	adj.	主意多的，有创造力的
+1997	infertile	adj.	不肥沃的，贫瘠的，不结果实的
+1998	fertilize	vt.	施肥，使丰饶；使受精
+1999	fertilized egg	词组	受精卵
+2000	fertilizer	n.	肥料
+2001	fervor	n.	热情，热烈
+2002	festive	adj.	欢宴的，节日的
+2003	festival	n.	节日
+2004	feud	n.	世仇
+2005	feudal	adj.	封建制度的
+2006	feverish	adj.	发烧的
+2006	 	adj.	狂热的，兴奋的
+2007	fiber	n.	纤维，光纤
+2008	fiction	n.	小说，（虚构）故事
+2009	nonfiction	n.	非小说的散文文学
+2010	fictional	adj.	虚构的
+2011	fidelity	n.	忠实，忠诚
+2012	field research	词组	野外实地考察
+2013	fierce	adj.	凶猛的
+2014	figurehead	n.	装饰船头的雕像, 破浪神, 有名无实的领袖
+2015	file	n.	档案
+2015	 	n.	队列，纵队
+2015	 	v.	归档
+2016	profile	n.	外形，轮廓
+2017	filter	vt.	过滤
+2017	 	n.	过滤器
+2018	finance	n.	财政，拨款
+2018	 	vt.	资助
+2019	financial	adj.	财政的
+2020	financing	n.	筹措资金
+2021	finch	n.	雀类
+2022	finesse	n.	精密技巧，灵巧
+2022	 	n.	手腕
+2023	fir	n.	杉木
+2024	firm	adj.	结实的；坚定的
+2025	fishy	adj.	鱼的，鱼味的；腥臭的
+2026	fitness	n.	健康
+2027	fittingly	adv.	适当地
+2028	fixed	adj.	固定的；不变的
+2029	fixture	n.	固定设备
+2030	flabby	adj.	（肌肉等）不结实的，松弛的
+2031	flag	n.	旗，标记
+2031	 	vi.	衰退，低落 
+2032	flagella	n.	鞭节，鞭毛
+2033	camouflage	n./v.	伪装
+2034	flair	n.	才能，本领
+2035	flake	v.	使成薄片；雪片般落下
+2035	 	n.	薄片
+2036	snowflake	n.	雪花
+2037	flamboyant	adj.	艳丽的，炫耀的
+2038	flare	n.	闪光；闪耀
+2038	 	vi.	闪光，闪耀；突然爆发或燃烧
+2039	flash	n.	闪光；闪现
+2039	 	vi.	闪光；反射
+2040	flashlight	n.	手电筒；闪光灯
+2041	flavor	n.	味，风味
+2041	 	vt.	加香味于
+2042	flavoring	n.	调味品，调料
+2043	flea	n.	跳蚤
+2044	fleeting	adj.	短暂的，飞逝的
+2045	flexible	adj.	易弯曲的，柔软的；变通的
+2046	flexibility	n.	灵活性
+2047	flickering	adj.	闪烁的，摇曳的，一闪一闪的
+2048	flint	n.	打火石
+2049	float	v.	漂浮，使漂浮
+2050	flock	n.	（畜、禽）群，大量
+2050	 	v.	蜂拥，群集
+2051	flock to	词组	成群结队地去
+2052	flora	n.	某一地区或时期的植物总称
+2053	flounder	n.	比目鱼
+2053	 	v.	挣扎，艰难地移动
+2054	flourish	vi.	繁荣，茂盛；健康成长
+2054	 	n.	挥舞
+2055	fluctuate	vi.	波动，起伏
+2056	fluctuation	n.	波动，起伏
+2057	fluent	adj.	流利的；流畅的
+2058	fluffy	adj.	绒毛的，松软的
+2059	fluorescent	adj.	荧光的
+2060	flux	n.	变迁；涨潮
+2061	influx	n.	流入
+2062	foe	n.	敌人，敌军
+2063	fog	n.	雾
+2064	foghorn	n.	.雾号(浓雾信号)
+2065	fogged	adj.	[摄]有灰雾的,不清晰的
+2066	foggy	adj.	雾深的, 模糊的
+2067	fold	v.	折叠
+2067	 	n.	折痕，折
+2068	folding	adj.	可折叠的
+2069	scaffolding	n.	脚手架
+2070	thousandfold	adj.	千倍的
+2071	unfold	v.	打开，显露
+2072	foliage	n.	树叶，植物
+2073	folklore	n.	民间传说
+2074	follow suit	词组	跟着做
+2075	folly	n.	愚笨，愚蠢，荒唐事
+2076	foment	v.	煽动，助长
+2077	foolish	adj.	愚蠢的
+2078	footnote	n.	脚注
+2079	forage	v.	搜寻（食物）
+2079	 	n.	饲料
+2080	foray	n.	突袭，偷袭
+2081	forbid	v.	禁止
+2082	forbidding	adj.	可怕的，令人难以亲近的，令人生畏的
+2083	ford	n.	浅滩，水浅可涉处
+2084	Ford	n.	福特汽车公司
+2085	forebear	n.	祖先
+2086	forecast	n.	预测，预报
+2086	 	v.	预测
+2087	forefather	n.	祖先，祖宗
+2088	forefront	n.	最前沿
+2089	foremost	adj.	最重要的；最先的
+2090	forerunner	n.	先驱，前身；预兆
+2091	foresee	vt.	预见，预知
+2092	foresight	n.	远见，深谋远虑
+2093	foreshadow	vt.	成为先兆，预示
+2094	forestall	vt.	预防，预先阻止
+2095	foretell	v.	预示，预测
+2096	forge	v.	铸造，伪造
+2097	formal	adj.	正式的；形式的；合乎礼仪的
+2098	formalized	adj.	形式化的，使程序化的
+2099	informal	adj.	非正式的；不拘礼的
+2100	format	n.	模式，格式
+2101	formation	n.	形成，构成
+2102	deformation	n.	变形
+2103	transformation	n.	变化，转化；改革
+2104	formative	adj.	形成中的，发展中的
+2105	informative	adj.	提供消息的，见闻广博的
+2106	former	adj.	从前的，以前的
+2107	formerly	adv.	从前，以前
+2108	formidable	adj.	令人敬畏的，可怕的
+2109	formula	n.	公式；规则
+2110	formulate	vt.	系统地阐述（或提出）
+2111	fort	n.	要塞，堡垒
+2112	fortress	n.	要塞；城堡
+2113	fortify	vt.	加强，巩固
+2114	fortuitous	adj.	偶然的，意外的
+2115	fortuitously	adv.	偶然地，意外地
+2116	fortunate	adj.	幸运的
+2117	fortune	n.	财富；运气
+2118	misfortune	n.	不幸，灾祸
+2119	fossil	n.	化石；僵化的事物
+2120	fossilize	vt.	使成化石
+2121	fossilized	adj.	变成化石的
+2122	foster	vt.	鼓励，促进
+2122	 	vt.	养育，抚养
+2123	foul	adj.	污秽的，肮脏的
+2124	founder	n.	创建者，创始人
+2125	fraction	n.	小部分，少量
+2125	 	n.	分数
+2126	refraction	n.	折光，折射
+2127	fracture	n.	骨折；破裂
+2127	 	vt.	使破裂，断裂
+2128	fragile	adj.	易碎的，脆的；脆弱的
+2129	fragility	n.	脆弱
+2130	fragment	n.	碎片，破片
+2131	fragrant	adj.	香的，芬芳的
+2132	fragrance	n.	芬芳，香味
+2133	framework	n.	构架；骨架
+2134	frame	n.	框架
+2134	 	vt.	加外框
+2134	 	vt.	提出，制定
+2135	frank	adj.	坦白的，直率的
+2136	fray	vi.	磨损，磨破
+2136	 	n.	吵架，冲突
+2137	freight	n.	货物，货运
+2137	 	vt.	装货，运送
+2138	freighter	n.	货车
+2139	frenetic	adj.	狂乱的，发狂的
+2140	fanatical	adj.	狂热的，盲信的
+2141	frenzy	n.	狂暴；狂怒
+2142	fresco	n.	壁画
+2142	 	vt.	作壁画于
+2143	freshly	adv.	新近，最近
+2144	freshness	n.	新鲜；活力
+2145	friction	n.	摩擦
+2145	 	n.	冲突，不和
+2146	frightening	adj.	令人恐惧的，引起突然惊恐的
+2147	frigid	adj.	寒冷的
+2147	 	adj.	冷淡的
+2148	fringe	n.	边缘；边界
+2148	 	adj.	边缘的
+2149	frivolity	n.	轻浮
+2150	from a far	词组	从遥远的地方
+2151	frost	n.	霜；霜冻
+2151	 	vi.	结霜
+2152	defrost	vt.	解冻，将…除霜
+2153	frown	vi.	皱眉；不赞成，反对
+2154	frugal	adj.	节约的，节俭的
+2155	frugality	n.	节约，俭省
+2156	fruitful	adj.	硕果累累的；成功的
+2157	fruitfulness	n.	硕果累累；多产
+2158	fruitless	adj.	不结果实的，无收获的
+2159	fruitlessly	adv.	徒劳地
+2160	frustrate	v.	挫败，破坏
+2160	 	v.	使沮丧
+2161	frustration	n.	挫败，挫折
+2162	frustrating	adj.	令人沮丧胆
+2163	fume	n.	烟，气体
+2164	perfume	n.	香味；香水
+2165	fumigate	vt.	烟熏；用香薰
+2166	functional	adj.	功能的；有用的
+2167	malfunctional	adj.	多功能的
+2168	functioning	n.	运转，操作
+2169	fund	n.	资金；基金
+2169	 	vt.	提供资金
+2170	funding	n.	拨款
+2171	fundamental	adj.	基础的，基本的
+2172	fungi	n.	（fungus的复数）真菌
+2173	furious	adj.	狂怒的；狂暴的
+2174	furnish	vt.	装备；提供
+2175	furnishing	n.	（家庭中包含家具及其他）设备的总称
+2176	furniture	n.	家具
+2177	furry	adj.	毛皮的；盖着皮毛的
+2178	further	vt.	促进，增进
+2178	 	adj.	更多的，另外的
+2179	fuse	v.	熔合
+2180	fused	adj.	熔合在一起的
+2181	fusion	n.	核聚变
+2181	 	n.	熔化；联合
+2182	diffusion	n.	扩散，传播
+2183	infusion	n.	灌输
+2184	confusion	n.	混乱，混淆
+2185	galaxy	n.	星系；银河
+2186	gallant	adj.	(对女子)殷勤的;勇敢的,英勇的
+2187	gallantry	n.	勇敢
+2188	gallery	n.	画廊，美术馆
+2189	galvanize	vt.	通电流于；刺激，激起
+2190	galvanization	n.	镀锌；电镀
+2191	gap	n.	裂口；缺口
+2191	 	n.	差距
+2192	garb	n.	服装，装束
+2193	garbage	n.	垃圾，废物
+2194	gaseous	adj.	气体的，气态的
+2195	gasoline	n.	汽油
+2196	gauge	v.	测量，计量；评价，估计
+2196	 	n.	量规，量表
+2197	gazette	n.	政府公报
+2198	gear	n.	齿轮，传动装置
+2198	 	v.	使适合，使一致
+2199	gem	n.	宝石，珠宝
+2200	gemstone	n.	经雕琢的宝石
+2201	generalize	vt.	归纳，概括
+2202	generalization	n.	概括
+2203	generate	vt.	造成，产生
+2203	 	vt.	产卵
+2204	generous	adj.	慷慨的
+2204	 	adj.	大量的
+2205	genesis	n.	起源，产生
+2206	genetic	adj.	遗传的，起源的
+2207	genetics	n.	遗传学
+2208	genetically	adv.	遗传上
+2209	genial	adj.	和蔼可亲的
+2210	congenial	adj.	趣味相投的，适意的
+2211	genre	n.	文学上的流派和体裁
+2212	gentility	n.	有教养，文雅
+2213	genuine	adj.	真正的，真实的；真诚的
+2214	germ	n.	细菌
+2215	get rid of	词组	摆脱；除去
+2216	get in the way	词组	阻挡
+2217	giant	n.	巨人，巨大的怪物
+2217	 	adj.	庞大的，巨大的
+2218	gibe	vi.	嘲弄，讥笑
+2219	gigantic	adj.	巨大的
+2220	gilding	n.	贴金箔，镀金
+2221	girder	n.	钢结构大梁
+2222	beam	n.	木结构大梁
+2223	give way to	词组	让步，让路
+2224	glacial	adj.	冰的，冰河的；冰冷的
+2225	glacier	n.	冰川
+2226	glamorous	adj.	迷人的，富有魅力的
+2227	gland	n.	腺体
+2228	glandular	adj.	腺体的
+2229	glare	n.	眩目的光
+2229	 	v.	闪耀
+2230	glassware	n.	玻璃制品
+2231	ware	n.	制品，器具
+2232	earthenware	n.	土器，陶器
+2233	tableware	n.	餐具
+2234	hardware	n.	五金器具
+2235	warehouse	n.	仓库，货栈
+2236	glazed	adj.	上过釉的，表面光滑的
+2237	glaze	vt.	装玻璃，上釉，使表面光滑
+2237	 	n.	釉料
+2238	glean	v.	点滴搜集；拾
+2239	glide	vi.	滑动，滑行
+2240	glider	n.	滑行者；滑翔机
+2241	glimpse	n.	一瞥，一看
+2241	 	v.	瞥见
+2242	global	adj.	全球性的
+2243	glorify	v.	美化，赞扬
+2244	glossy	adj.	平滑的，有光泽的
+2245	glowing	adj.	白热的，通红的
+2246	gnaw	v.	咬，啃
+2247	go broke	词组	破产
+2248	goal	n.	目标
+2249	gold rush	词组	淘金热
+2250	gorgeous	adj.	华丽的；灿烂的
+2251	gospel	n.	福音
+2252	gossip	n.	社会新闻，小道传闻
+2253	gourmet	n.	美食家
+2254	gourmand	n.	嗜食者
+2255	govern	vt.	统治，管理；控制
+2256	governor	n.	州长；总督
+2257	grab	vt.	攫取，抓住
+2258	grace	n.	风度
+2259	graceful	adj.	优雅的
+2260	disgrace	vt.	玷污
+2261	graft	v.	嫁接；移植
+2262	grand	adj.	壮观的；显赫的
+2263	grandeur	n.	庄严，伟大
+2264	granite	n.	花岗岩
+2265	graphic	adj.	绘画似的；图解的，生动的
+2266	graph	n.	图表
+2267	graphics	n.	（作单数用）制图法，制图学
+2268	kymograph	n.	波动曲线记录仪
+2269	telegraph	n.	电报机，电报
+2270	stereophotograph	n.	立体摄影，立体相片
+2271	photograph	n.	照片
+2272	seismograph	n.	地震仪, 测震仪
+2273	lithograph	n.	平板印刷，平板画
+2274	graphite	n.	石墨
+2275	grasp	vt.	抓住，抓紧
+2275	 	n.	掌握，领会
+2276	grasshopper	n.	蚱蜢，蚂蚱
+2277	grateful	adj.	感激的，感谢的
+2278	gravitational	adj.	地心引力的，重力的
+2279	gravitation	n.	引力，重力
+2280	gravitational field	词组	重力场
+2281	gravitational pull	词组	地心引力
+2282	gravitational force	词组	地心引力
+2283	gravity	n.	地心引力
+2283	 	n.	严肃，一本正经
+2284	graze	vi.	（牲畜）吃草；放牧
+2285	grazing land	词组	牧场，草场
+2286	grease	n.	油脂
+2287	greedy	adj.	贪婪的
+2288	grind	vt.	磨碎，碾碎
+2289	grip	v.	紧握，紧抓
+2290	grope	vi.	摸索，探索
+2291	grumble	n./v.	抱怨
+2292	guarantee	vt.	保证，担保
+2293	gulf	n.	海湾
+2294	gull	n.	鸥，海鸥
+2295	gulp	n./vt.	吞；吞咽
+2296	gush	vi.	喷涌，涌流
+2297	gust	n.	一阵强风
+2298	gymnastic	adj.	体操的，体育的
+2299	gymnastics	n.	体操，体育
+2300	gyration	n.	旋转
+2301	habitat	n.	产地，栖息地
+2302	hail	n.	冰雹
+2302	 	vt.	致敬，向…欢呼
+2303	hallmark	n.	标志，特征
+2304	halt	n./vt.	（使）停止
+2305	hamburger	n.	汉堡包
+2306	hamper	vt.	妨碍，使困难
+2307	handicap	n.	残疾
+2307	 	vt.	严重妨碍，削弱
+2308	handicraft	n.	手工艺品
+2309	hands-on		亲手抓的
+2310	handy	adj.	便利的，容易取得的
+2311	handful	n.	一把, 少数
+2312	haphazard	adj.	偶然的；随便的
+2313	harbor	n.	海港
+2313	 	n.	避难所
+2314	harden	v.	使变硬
+2315	hardware	n.	五金制品
+2316	hardy	adj.	能吃苦耐劳的，强壮的
+2317	harmful	adj.	有害的；伤害的
+2318	harmless	adj.	无害的
+2319	harmonize	v.	（使）协调，（使）和谐
+2320	harmony	n.	协调，融洽
+2321	harmonious	adj.	和谐的
+2322	harmonic	adj.	和声的
+2323	harmonica	n.	口琴
+2324	philharmonic	n.	交响乐团
+2325	harness	vt.	利用（河流、瀑布等）产生动力
+2325	 	n.	（全套）马具
+2326	harsh	adj.	粗糙的；刺耳的，刻薄的
+2326	 	adj.	严厉的；严酷的，恶劣的
+2327	harshness	n.	严酷，恶劣
+2328	harvest	v.	收获，收割
+2329	haste	n.	匆忙，急忙；草率
+2330	hasten	vt.	加速
+2331	chaste	adj.	贞洁的，朴素的
+2332	hatch	vt.	孵化
+2333	hatchling	n.	人工孵化的鱼苗或小鸟
+2334	hatchery	n.	孵卵所
+2335	hatchet	n.	短柄斧
+2336	thatch	vt.	用茅草覆盖屋顶
+2337	haul	v.	拖
+2338	haunt	vt.	（思想、回忆等）萦绕心头
+2338	 	n.	常去的地方
+2339	haunted	adj.	闹鬼的,鬼魂出没的,受到折磨的
+2340	haven	n.	避难所，安全地
+2341	heaven	n.	天，天堂
+2342	heavenly	adj.	天空的，天上的
+2343	hay	n.	干草
+2344	hazard	n.	危险；危害物
+2345	hazardous	adj.	危险的，冒险的
+2346	hazel	adj.	榛树的
+2347	haze	n.	薄雾
+2348	heal	v.	康复，治愈
+2349	healing	adj.	有治疗作用的
+2350	healthful	adj.	有益健康的
+2351	heed	n./v.	注意，留意
+2352	heel	n.	脚后跟
+2353	heighten	vt.	提高，升高；加深
+2354	heir	n.	继承人，后嗣
+2355	helium	n.	氦
+2356	helpful	adj.	有帮助的，有益的
+2357	helper	n.	助手
+2358	helpless	adj.	无助的，无依靠的
+2359	hem	n.	（衣服或裙子）褶边，边缘
+2360	ham	n.	火腿；大腿
+2361	hemisphere	n.	半球；半脑
+2362	herald	vt.	宣布…的消息；预示…的来临
+2363	herculean	adj.	力大无比的, 巨大的
+2364	herd	n.	兽群；人群
+2364	 	vt.	把…赶在一起放牧；成群，群集
+2365	shepherd	n.	牧羊人
+2366	herder	n.	牧者，牧人
+2367	heredity	n.	遗传
+2368	heritage	n.	遗产，继承物；传统
+2369	heroism	n.	英雄品质，英勇
+2370	hesitate	vi.	犹豫，踌躇
+2371	hestiant	adj.	迟疑的，犹豫不定的
+2372	heterogeneous	adj.	异类的，不同的
+2373	homogeneous	adj.	同类的，均一的
+2374	heyday	n.	全盛期
+2375	hibernate	vi.	冬眠
+2376	hibernation	n.	冬眠
+2377	hide	n.	兽皮
+2377	 	vi.	隐藏，掩藏
+2378	rawhide	n.	生牛皮
+2379	hierarchy	n.	阶层，等级制度
+2380	highlight	vt.	使显著，突出
+2380	 	n.	最显著或重要的部分
+2381	hike	v.	远足，徒步旅行
+2381	 	n.	徒步旅行
+2382	hilly	adj.	多小山的，多坡的
+2383	chilly	adj.	寒冷的
+2384	hinder	vt.	阻碍，妨碍
+2385	hinge	n.	（门等）铰链，枢纽
+2386	hint	n.	提示，线索
+2387	hinterland	n.	穷乡僻壤；腹地
+2388	hold a large stake	词组	拥有巨额股份，带有极大冒险性
+2389	hoe	vt.	用锄耕地，锄
+2390	hollow	adj.	空心的，凹陷的
+2390	 	adj.	空洞的
+2390	 	vt.	形成空洞；挖空
+2390	 	n.	洞；山谷
+2391	homemade	adj.	自制的，家里做的
+2392	homespun	adj.	朴素的；家里纺织的
+2393	homogenize	vt.	使均匀
+2394	homogeneous	adj.	同类的；均匀的，同质的
+2395	horde	n.	一大群
+2396	horizon	n.	地平线；眼界，视野
+2397	horizontal	adj.	水平的
+2398	horn	n.	（牛羊等的）角
+2399	horned	adj.	有角的，角状的
+2400	hornbill	n.	犀鸟，犀鸟科
+2401	hornet	n.	大黄蜂类
+2402	pronghorn	n.	(墨西哥和美国西部产的)叉角羚
+2403	foghorn	n.	雾号（浓雾信号）
+2404	thorn	n.	（植物的）刺，棘
+2405	thorny	adj.	多刺的
+2406	horror	n.	惊骇；恐怖
+2407	horror film/movie	词组	恐怖电影
+2408	hospitable	adj.	好客的
+2409	hostile	adj.	敌对的，不友好的
+2410	hostility	n.	敌意，敌对
+2411	house	vt.	给…提供住所
+2412	hover	vi.	翱翔；徘徊
+2413	hovercraft	n.	水翼船
+2414	hub	n.	轮轴
+2414	 	n.	活动中心
+2415	huddle	vi.	缩成一团；挤成一团
+2415	 	n.	杂乱的一堆，拥挤
+2416	hue	n.	颜色，色彩
+2417	humanity	n.	人性；博爱，仁慈
+2418	humanitarian	n./adj.	人道主义者；人道主义的
+2419	nonhuman	adj.	非人类的
+2420	humanistic	adj.	人性的；人文主义的
+2421	humanist	n.	人道主义者，人文主义者
+2422	humble	adj.	卑贱的；谦逊的
+2423	humid	adj.	潮湿的
+2424	humidity	n.	湿气，湿度
+2425	humiliate	vt.	羞辱，使丢脸
+2426	humility	n.	谦卑
+2427	hummingbird	n.	蜂鸟
+2428	humorous	adj.	幽默的，滑稽的
+2429	hump	n.	驼背；峰，圆形隆起之物
+2430	hunger	n.	饥饿
+2431	hurl	vt.	用力投掷
+2432	hurricane	n.	飓风，暴风雨
+2433	husk	n.	（果类或谷物）外壳；皮
+2433	 	vt.	剥…的壳；削皮
+2434	hustle	n.	挤，推，拥挤喧嚷
+2435	hydrogen	n.	氢
+2436	hygiene	n.	卫生
+2437	hypersensitive	adj.	高灵敏度的；感觉过敏的
+2438	hypothesis	n.	假设，假说
+2439	hypothesize	vt.	假设，假定
+2440	iceberg	n.	冰山
+2441	ice sheet	词组	冰层
+2442	ice cream cone	词组	冰淇淋蛋卷
+2443	icicle	n.	冰柱，冰垂
+2444	icon	n.	圣像，偶像
+2444	 	n.	图标
+2445	iconographic	adj.	图解的
+2446	identical	adj.	同一的；完全相同的
+2447	identify	vt.	识别，认出；鉴定
+2448	identification	n.	辨认；鉴定
+2449	identifiable	adj.	可辨认的
+2450	identity	n.	身份
+2451	ideology	n.	意识形态
+2452	ideological	adj.	意识形态的
+2453	idiom	n.	方言，土语；习惯用语
+2454	idiomatic	adj.	惯用的，通顺的
+2455	idyllic	adj.	田园诗的
+2456	igneous	adj.	（地理）火的，火成的
+2457	ignite	v.	点燃，使燃着
+2458	ignorant	adj.	无知的；不了解的
+2459	ignorance	n.	无知，不了解
+2460	ignore	vt.	忽视；不顾，不理会
+2461	illegible	adj.	难以辨认的，（字迹）模糊的
+2462	illiterate	adj.	文盲的；缺乏教育的
+2463	illuminate	v.	照明，照亮
+2463	 	v.	说明，阐明
+2464	illumination	n.	照明；启发
+2465	illusion	n.	幻觉；错觉
+2466	illusive	adj.	迷惑人的；错觉的
+2467	illustrate	vt.	（用图或例子）说明，阐明
+2468	illustration	n.	例证；插图
+2469	image	n.	图像，肖像；形象
+2470	imaginative	adj.	富于想象力的
+2471	imaginary	adj.	想象中的，虚构的
+2472	imagery	n.	（艺术、文学）肖像，形象；形象化的比喻
+2473	imbibe	v.	吸；吸收
+2474	imitate	vt.	仿效，模仿
+2475	imitation	n.	模仿；仿制品
+2476	immediate	adj.	立即的；（在时空上、关系上）最接近的；目前的
+2477	immediately	adv.	立即，马上
+2478	immense	adj.	巨大的；无边的
+2479	immigrant	n.	（自外国移入）移民
+2480	immigration	n.	外来的移民, 移居入境
+2481	immobile	adj.	固定的，不动的
+2482	immobilize	vt.	使不动，使固定
+2483	demobilize	vt.	复员
+2484	immune	adj.	（对…）免疫的，不受影响的
+2485	immune system	词组	免疫系统
+2486	immunity	n.	免疫，免疫性
+2487	impact	n.	影响
+2487	 	n.	撞击，冲击
+2488	impair	vt.	损害，使弱
+2489	impart	vt.	传授；传递，传达
+2490	impartial	adj.	公正的，无偏见的
+2491	impede	vt.	妨碍，阻碍
+2492	impediment	n.	妨碍，阻碍（物）
+2493	impending	adj.	即将发生的，逼近的
+2494	imperative	adj.	必要的；强制的
+2494	 	n.	命令；需要，必要的事
+2495	impermeable	adj.	不可渗透的；不透水的
+2496	impersonal	adj.	不受个人感情支配的，客观的，无私的
+2497	impersonate	vt.	模仿，扮演
+2498	impersonation	n.	模仿，扮演
+2499	impetus	n.	推动力；激励物
+2500	implement	n.	工具，器具
+2500	 	vt.	实行，实施
+2501	implication	n.	暗示，意义
+2501	 	n.	牵连
+2502	implicit	adj.	不明确的，含蓄的
+2503	imply	vt.	暗示，意味
+2504	import	vt./n.	（贸易）进口
+2505	impose	vt.	把…强加于；施加影响
+2506	imposing	adj.	使人难忘的, 壮丽的
+2507	impressive	adj.	给人深刻印象的；威严的
+2508	imprint	n.	印痕，痕迹；深刻的印象
+2508	 	vt.	压印，牢记
+2509	imprisonment	n.	监禁
+2510	improbable	adj.	不可能的
+2511	improvise	vt.	即席创作，即兴表演
+2512	improvision	n.	即席创作
+2513	improviser	n.	即席演奏者
+2514	impulse	n.	冲动；刺激，驱使
+2515	in conjunction with	词组	结合
+2516	in accord with	词组	与…一致
+2517	in common	词组	共有，有共同之处
+2518	in scale	词组	相称，成比例
+2519	in terms of	词组	根据；就…而论
+2520	inaccessible	adj.	难达到的,不可及的;不能得到的
+2521	inactivate	vt.	使…不活跃
+2522	inadequate	adj.	不充分的，不适当的
+2523	inanimate	adj.	无生命的
+2524	inappropriate	adj.	不适当的，不相称的
+2525	appropriate	adj.	适当的
+2525	 	vt.	拨款；占用
+2526	inaugurate	v.	创新，开辟
+2526	 	v.	使就职
+2527	incapacitate	vt.	使失去能力；使不胜任
+2528	incense	n.	熏香；焚香的烟
+2528	 	vt.	激怒
+2529	incentive	n.	动机
+2530	incessant	adj.	不停的，连续的
+2531	incident	n.	事件
+2532	incidentally	adv.	附带地，偶然地
+2533	incidence	n.	发生，出现；发生频率
+2534	coincident	adj.	一致的，符合的；巧合的
+2535	coincidence	n.	一致；同时发生或同时存在的事
+2536	incisive	adj.	深刻的，尖锐的
+2537	incise	vt.	切割
+2538	inclination	n.	嗜好，倾向
+2539	inclined	adj.	倾向…的
+2539	 	adj.	倾斜的，有坡度的
+2540	inclusive	adj.	包含的，包括的
+2541	incompatible	adj.	合不来的,相互不协调的;不兼容的
+2542	incomprehensibl	adj.	不能理解的，费解的
+2543	incongruity	n.	不一致，不和谐
+2544	incongruous	adj.	不协调的，不一致的
+2545	incorpoarate	vt.	合并，并入；包含
+2546	incorporation	n.	结合，合并
+2547	incredible	adj.	难以置信的，惊人的
+2548	incredulity	n.	怀疑，不相信
+2549	incur	vt.	招致，引起
+2550	indefinite	adj.	模糊的；不明确的
+2551	indefinitely	adv.	不确定地；无穷尽地
+2552	indent	vt.	切割成锯齿状
+2553	indented	adj.	锯齿状的，高低不平的
+2554	indenture	vt.	以契约约束
+2555	indicate	vt.	指示，指出；象征，表明
+2556	indicative	adj.	指示的，预示的
+2557	indifferent	adj.	不感兴趣的，漠不关心的
+2558	indifference	n.	冷漠，不关心
+2559	indigestion	n.	消化不良
+2560	indiscriminately	adv.	随意地；不加区别地
+2561	indiscrimination	n.	歧视
+2562	indispensable	adj.	不可缺少的，必需的
+2563	individualism	n.	个人主义
+2564	induce	vt.	诱使，促使；导致
+2565	inducible	adj.	可诱导的
+2566	industrial	adj.	工业的
+2567	industrialization	n.	工业化
+2568	industrialized	vt.	工业化的
+2569	industrious	adj.	勤勉的
+2570	ineligible	adj.	无资格的；不适当的
+2571	inert	adj.	惰性的；不活泼的
+2572	inevitably	adv.	不可避免地，必然地
+2573	inextricably	adv.	无法摆脱地
+2574	infancy	n.	幼年
+2575	infection	n.	传染（病）
+2576	infectious	adj.	传染性的，易传染的
+2577	inferior	adj.	（等级、社会地位、质量等）差的；（较）低的
+2578	inferiority	n.	自卑感
+2579	infertile	adj.	不肥沃的
+2580	infest	vt.	骚扰，大批滋生
+2581	infiltrate	vt.	使透过，渗透
+2582	inflate	vt.	使膨胀，使充气
+2583	inflation	n.	通货膨胀
+2584	inflexible	adj.	坚定的
+2585	inflict	vt.	造成；(使)遭受(痛苦、损伤等)
+2586	afflict	vt.	（外来到）折磨
+2587	influential	adj.	有影响的；有权势的
+2588	influenza	n.	流行性感冒
+2589	influx	n.	流入，汇集
+2590	informal	adj.	不拘礼节的，随便的；非正式的
+2591	informed	adj.	受过教育的，见多识广的
+2592	be informed about	词组	熟悉
+2593	infuse	vt.	注入，灌输
+2594	infusion	n.	注入
+2595	ingenious	adj.	机灵的，有独创性的
+2596	ingeniously	adv.	天才地，独创地
+2597	ingredient	n.	配料，成份
+2598	inhabit	vt.	居住于，栖息于
+2599	habitat	n.	栖息地，居留地
+2600	inhabitant	n.	居民，住户
+2601	inherent	adj.	固有的，内在的
+2602	inherit	vt.	继承
+2603	inheritance	n.	遗产
+2604	inhibit	vt.	抑制；阻止
+2605	initiate	vt.	开始，发起
+2606	initial	adj.	最初的，初始的
+2606	 	n.	开头大写字母
+2607	initially	adv.	最初，开头
+2608	inject	vt.	注射；注入，灌溉
+2609	innate	adj.	先天的，天生的
+2610	innermost	adj.	最里面的；内心的，秘密的
+2611	innocent	adj.	无辜的，清白的；天真的
+2612	innovation	n.	改革，创新
+2613	innovative	adj.	创新的，革新的
+2614	innumerable	adj.	无数的，数不清的
+2615	inorganic chemical	词组	无机化合物
+2616	inquiry	n.	质问；调查
+2617	insanity	n.	精神错乱，疯狂
+2618	insert	vt.	插入
+2619	insight	n.	洞察力，见识
+2620	insist	vt.	坚持认为；坚决主张
+2621	insistence	n.	坚持
+2622	inspect	vt.	检查；审查
+2623	inspection	n.	检查，细看
+2624	inspector	n.	检查员，巡视员
+2625	inspire	vt.	鼓舞；给…以灵感
+2626	inspiring	adj.	使人振奋的，鼓舞的
+2627	inspiration	n.	灵感
+2628	install	vt.	安装，设置
+2629	installment	n.	分期付款
+2630	instantaneous	adj.	瞬间的，即刻的
+2631	instinct	n.	本能，直觉
+2632	instinctive	adj.	天生的，本能的
+2633	instinctively	adv.	本能地；凭直觉地
+2634	institute	n.	学院；学会，协会
+2634	 	vt.	开始；制定
+2635	institution	n.	机构；惯例
+2636	institutionalize	v.	使制度化
+2637	instructive	adj.	有益的；教育性的
+2638	instruct	vt.	教；命令
+2639	instruction	n.	命令，指示；教学
+2640	instrument	n.	仪器；工具；乐器
+2641	instrumental	adj.	有帮助的，可作为手段的
+2641	 	adj.	器具的
+2642	instrumentalist	n.	器乐家，器乐演奏者
+2643	insulation	n.	绝缘；隔离；孤立
+2644	insulin	n.	胰岛素
+2645	insult	vt.	侮辱，凌辱
+2646	insulting	adj.	侮辱性的，欺负人的
+2647	insurmountable	adj.	不能克服的，不能超越的
+2648	intact	adj.	尚未被人碰到的，完整的
+2649	integral	adj.	整体的；构成整体所需的
+2650	integrate	vt.	使成为整体，使一体化
+2651	integrated	adj.	整合的，一体化的
+2652	disintegrate	v.	（使）分解，（使）碎裂
+2653	integrity	n.	完整性；正直，诚实
+2654	intellect	n.	智力
+2655	intellectual	n.	知识分子   adj. 智力的
+2656	intelligent	adj.	聪明的，有才智的
+2657	intelligence	n.	智力；聪明
+2658	intelligible	adj.	明了的，可理解的
+2659	intense	adj.	强烈的，剧烈的
+2660	intensify	vt.	加强；扩大
+2661	intensive	adj.	加强的；集中的，密集的
+2662	intentionally	adv.	有意地，特意地
+2663	intention	n.	意图，目的=intent
+2664	interaction	n.	相互作用
+2665	interact	vi.	互相作用，互相影响
+2666	interactive	adj.	交互式的
+2667	interconnected	adj.	相互连接的
+2668	interconnecting	adj.	相互连接的
+2669	interdependenc	n.	互相依赖
+2670	interdependent	adj.	相互依赖的，互助的
+2671	interest	n.	兴趣；利息
+2672	interfere	vi.	妨碍；干涉
+2673	interference	n.	冲突；干涉
+2674	interior	n./adj.	内部（的）
+2675	interlocking	adj.	连锁的，关联的
+2676	intermediate	adj.	中间的，中级的
+2677	intermittent	adj.	间歇的，断断续续的
+2678	internal	adj.	内在的
+2679	external	adj.	外部的
+2680	interpersonal	adj.	人与人之间的；关于人与人之间关系的
+2681	interpretation	n.	解释
+2682	interrupt	vt.	打断，使中断
+2683	intersect	vi.	相交
+2684	intersection	n.	十字路口，交叉点
+2685	interstellar	adj.	星际的
+2686	interval	n.	间隔时间
+2687	intervention	n.	干涉，介入
+2688	intimate	adj.	亲密的
+2688	 	adj.	（知识）渊博的
+2689	intimacy	n.	亲密，熟悉
+2690	intoxication	n.	陶醉，醉酒
+2691	intrepid	adj.	勇敢的
+2692	intricate	adj.	复杂的，错综的
+2693	intricately	adv.	杂乱地
+2694	intrigue	vt.	激起…的兴趣
+2695	intriguing	adj.	吸引人的,引起兴趣(或好奇心)的
+2696	intrinsic	adj.	固有的，内在的
+2697	introspective	adj.	自省的，反省的
+2698	intrusion	n.	侵扰，干扰
+2699	intruder	n.	入侵者，闯入者
+2700	intruding	adj.	入侵性的
+2701	inundate	vt.	淹没
+2702	invade	vt.	侵略，侵犯
+2703	invasion	n.	入侵
+2704	invader	n.	侵略者
+2705	invariably	adv.	不变地，总是
+2706	inventory	n.	存货清单；库存品
+2707	invertebrate	n./adj.	无脊椎动物（的）
+2708	vertebrate	n./adj.	脊椎动物（的）
+2709	investigate	vt.	调查，研究
+2710	investigation	n.	调查
+2711	inviting	adj.	诱人的，引人心动的
+2712	involuntary	adj.	不知不觉地，无意识的
+2713	ion	n.	离子
+2714	irony	n.	反讽，讽刺
+2715	ironic	adj.	讽刺的
+2716	irregular	adj.	不规则的，不整齐的
+2717	irregularly	adv.	不规则地
+2718	irrelevant	adj.	离题的；无关的
+2719	irreparable	adj.	不能挽回的
+2720	irresistible	adj.	无法抗拒的,无法抵抗的;诱人的
+2721	irresponsible	adj.	不负责的
+2722	irreverent	adj.	不敬的
+2723	irreverence	n.	不敬；不敬的行为
+2724	irreversible	adj.	不可改变的；不可撤销的
+2725	irrevocable	adj.	不能取消的
+2726	irrigate	vt.	灌溉
+2727	irrigation	n.	灌溉
+2728	irritate	vt.	激怒；使过敏
+2729	irritable	adj.	易怒的，急躁的
+2730	irritating	adj.	刺激的；使人愤怒的，气人的
+2731	isolate	vt.	使隔离，使孤立
+2732	isolated	adj.	与世隔绝的，偏僻的；孤独的
+2733	isolation	n.	隔离；孤立
+2734	issue	n.	问题
+2734	 	n.	（报刊的）期
+2734	 	v.	发行
+2735	itinerary	n.	路线
+2736	itinerant	adj.	巡回的
+2737	jar	n.	罐，广口瓶
+2737	 	vt.	震动；刺激，震惊
+2738	ajar	adj.	（门窗等）微开的
+2739	jealousy	n.	妒忌，羡慕
+2740	jelly	n.	果冻，胶状物
+2741	jellyfish	n.	水母
+2742	jewel	n.	宝石
+2743	jewelry	n.	珠宝
+2744	jeweler	n.	宝石商，宝石匠
+2745	jibe with	词组	与…一致
+2746	jog	vi.	慢跑
+2747	jogging	n.	慢跑
+2748	jolt	n.	震动，颠簸
+2748	 	vt.	使颠簸，猛击
+2749	jolting	adj.	令人震惊的
+2750	journal	n.	期刊，杂志
+2750	 	n.	（航海）日记；分类帐
+2751	journalist	n.	新闻记者
+2752	journalistic	adj.	新闻事业的，新闻工作的
+2753	journalism	n.	新闻业, 报章杂志
+2754	jubilant	adj.	欢腾的，喜气洋洋的
+2755	judgement	n.	判断
+2755	 	n.	判决
+2756	judicious	adj.	明智的；有判断力的
+2757	juice	n.	（水果）汁，液
+2758	juicy	adj.	多汁液的
+2759	jumble	vt.	使混乱，混杂
+2759	 	n.	混乱；杂乱的一堆
+2760	junction	n.	连接；汇合处
+2761	juncture	n.	接合，接缝
+2762	jungle	n.	丛林
+2763	jurisdiction	n.	权限；管辖范围
+2764	jury	n.	陪审团
+2765	injury	n.	伤害，侮辱
+2766	judgement	n.	判决
+2767	verdict	n.	[律](陪审团的)裁决
+2768	sentence	n./v.	宣判
+2769	justify	vt.	证明…是正当的或有理的；为…辩护
+2770	justice	n.	正义，公平，公正
+2771	injustice	n.	不公平，不讲道义
+2772	justly	adv.	公正地，正当地
+2773	juvenile	n./adj.	青少年（的）
+2774	juxtaposition	n.	毗邻，并置，并列
+2775	keen	adj.	（感觉、观察、理解等）敏锐的，敏捷的
+2775	 	adj.	锋利的
+2776	ken	n.	视野，知识领域
+2777	kennel	n.	狗舍，狗窝
+2778	kernel	n.	仁，核心；(去壳的)麦粒，谷粒
+2779	kerosene	n.	煤油
+2780	gasoline	n.	汽油
+2781	kiln	n.	（砖、石灰等）窑，炉
+2782	kinetic	adj.	运动的；动力学的
+2783	kingdom	n.	王国
+2784	laborious	adj.	费力的，艰难的
+2785	laboriously	adv.	费力地，艰难地
+2786	laborer	n.	劳动者
+2787	labor movement	词组	劳工运动
+2788	labor union	词组	工会
+2789	labyrinth	n.	迷宫；错综复杂的事件
+2790	lace	n.	饰带，花边
+2790	 	n.	带子；鞋带
+2790	 	vt.	装饰，点缀
+2791	lag	vi.	落后
+2792	lament	vt.	为…悲痛，痛惜
+2793	landing	n.	着陆，降落
+2794	landmass	n.	大片陆地
+2795	landscape	n.	风景，山水；风景画
+2796	landslide	n.	山崩
+2797	largely	adv.	大量地，大半地
+2798	larvae	n.	幼虫
+2799	larynx	n.	[解] 喉
+2800	laser	n.	激光
+2801	lash	n.	鞭子
+2801	 	v.	抽打，鞭打
+2802	splash	v.	溅，泼
+2803	flash	n./vi.	闪光；闪现
+2804	lasting	adj.	持久的；永恒的，耐力的
+2805	long-lasting	adj.	持久的，永久的
+2806	everlasting	adj.	永恒的，持久的，无止境的
+2807	latent	adj.	潜伏的，隐藏的
+2808	lateral	adj.	侧面的，旁边的
+2809	equilateral trian	词组	等边三角形
+2810	quadrilateral	词组	四边形
+2811	bilateral	adj.	有两面的, 双边的
+2812	latitude	n.	纬度，范围
+2812	 	n.	行动或言论的自由（范围）
+2813	platitude	n.	陈词滥调
+2814	launch	vt.	发动
+2814	 	n./v.	发射，（使）升空
+2815	laundry	n.	洗衣店, 要洗的衣服
+2816	laurels	n.	桂冠，荣誉
+2817	lava	n.	熔岩，岩浆
+2818	volcano	n.	火山
+2819	lave	vt.	为沐浴, 洗
+2820	lavish	adj.	过分丰富的；浪费的
+2821	slavish	adj.	卑屈的；盲从的
+2822	lawn	n.	草地，草坪，草场
+2823	lawsuit	n.	诉讼
+2824	lay	vt.	产卵，下蛋
+2825	layer	n.	层，层次；阶层
+2826	layering	n.	分层堆积
+2827	layman	n.	俗人，犯人；外行
+2828	layout	n.	规划，设计
+2829	leading	adj.	最主要的
+2829	 	adj.	主演的
+2830	mislead	vt.	误导
+2831	leadership	n.	领导能力，领导阶层
+2832	league	n.	同盟，联盟；联合会
+2833	colleague	n.	同事，同僚
+2834	leak	vt.	漏；渗
+2834	 	vt.	泄露
+2835	leaky	adj.	漏的
+2836	bleak	adj.	荒凉的，凄凉的
+2837	leap	n./vi.	跳跃
+2838	learn by rote	词组	死记硬背学习
+2839	lease	n.	租约
+2839	 	vt.	出租，租借
+2840	ledge	n.	壁架, 架状突出物, 暗礁, 矿层
+2841	pledge	n.	誓言     vt. 保证
+2842	legacy	n.	遗产，遗物
+2843	heritage	n.	遗产；继承物
+2844	legendary	adj.	传奇的
+2845	legend	n.	传说；传奇文学
+2846	legible	adj.	(指印刷或字迹)清楚地，易读的
+2847	illegible	adj.	难辨认的，字迹模糊的
+2848	legislation	n.	立法
+2848	 	n.	法规
+2849	legislate	vt.	立法
+2850	legislature	n.	立法机关
+2851	legume	n.	豆类，豆荚
+2852	leisure	n.	空闲，闲暇
+2853	leisurely	adj.	从容的，悠闲的
+2854	lengthen	vt.	延长，使变长
+2855	lengthy	adj.	(演说、文章等)冗长的，啰嗦的
+2856	leopard	n.	豹，美洲豹
+2857	lethal	adj.	致命的
+2858	lethargic	adj.	昏睡的；懒洋洋的，萎靡不振的
+2859	lethargy	n.	昏睡，倦怠
+2860	lettuce	n.	莴苣，生菜
+2861	liable of	词组	倾向于
+2862	libel	n.	以文字损害名誉，诽谤
+2863	liberal	adj.	开放的,主张变革的,自由主义的
+2863	 	adj.	慷慨的，不拘泥的
+2864	liberate	vt.	释放，使自由
+2865	liberty	n.	自由
+2866	liberally	adv.	随意地，不受限制地
+2867	deliberate	adj.	深思熟虑的；故意的
+2868	life span	词组	寿命
+2869	lift	v.	举起，升高
+2870	facelift	n.	改建，表面修改
+2871	light bulb	词组	灯泡
+2872	bulb	n.	电灯泡；球茎
+2873	likewise	adv.	同样地，也
+2874	limb	n.	肢，翼；树枝
+2875	limestone	n.	石灰石
+2876	lineage	n.	血统，世系
+2877	linen	n.	亚麻布，亚麻制品
+2878	linger	vi.	逗留；徘徊
+2879	linguistic	adj.	语言上的，语言学上的
+2880	linguistics	n.	语言学
+2881	liquid	n.	液体，流体
+2881	 	adj.	液体的
+2882	literally	adv.	照字面意义地，逐字地
+2883	literary	adj.	文学（上）的，从事写作的
+2884	literate	adj.	有文化的，有阅读和写作能力的
+2885	literacy	n.	有读写能力，识字
+2886	illiterate	adj.	不识字的，没受教育的
+2887	semiliterate	n.	半文盲，有初等文化者
+2888	obliterate	vt.	涂去，删除
+2889	iterate	vt.	反复说，重申
+2890	litter	vt.	乱丢
+2890	 	vi.	乱丢垃圾
+2890	 	n.	垃圾
+2891	livelihood	n.	生计，谋生
+2892	lively	adj.	活泼的，活跃的；栩栩如生的
+2893	liver	n.	肝脏
+2894	livestock	n.	家畜，牲畜
+2895	living quarters	词组	住房，住处
+2896	load	n.	重担；重任
+2896	 	vt.	装载，使负担
+2897	unload	vt.	摆脱…的负担，卸
+2898	overload	vt.	使超载，超过负荷
+2899	shipload	n.	船货, 一船上的载货
+2900	trainload	n.	列车载重
+2901	workload	n.	工作量
+2902	loathsome	adj.	令人讨厌的
+2903	lobby	n.	大厅，休息厅
+2903	 	v.	游说议员
+2904	lobster	n.	龙虾
+2905	locate	vt.	找出，定位；设置
+2906	location	n.	位置，场所
+2907	locality	n.	位置，地方
+2908	locally	adv.	在地方上，在当地
+2909	locomote	v.	移动，行动
+2910	locomotion	n.	运动，移动
+2911	locomotive	n.	火车头
+2912	lodge	n.	（山林）小屋
+2912	 	vi.	寄存；临时住宿
+2913	lodging	n.	寄宿，住房（常指出租的房间）
+2914	log	n.	圆木；航海日志；vt. 记录
+2915	log cabin	词组	小木屋
+2916	logical	adj.	合乎逻辑的，合理的
+2917	logic	n.	逻辑，逻辑学
+2918	long-range	词组	远程的
+2919	longevity	n.	长寿
+2920	longitude	n.	经度，经线
+2921	loom	n.	织布机
+2921	 	vi.	隐约闪现，逼近
+2922	bloom	v.	（使）开花，（使）繁盛  n. 花
+2923	loop	vt.	把…圈成环；缠绕
+2923	 	n.	圈，环
+2924	sloop	n.	单桅帆船
+2925	loose	adj.	宽松的；不牢固的
+2926	loosen	vt.	解开，放松
+2927	lore	n.	口头传说；学问，知识
+2928	lucrative	adj.	赚钱的，有利可图的
+2929	lull	vt.	使平静；使安静
+2930	lumber	n.	木材，木料
+2931	lumbering	n.	采伐林木
+2932	timber	n.	木材，木料
+2933	slumber	n.	睡眠
+2934	plumber	n.	水管工人
+2935	luminosity	n.	亮度，发光度
+2936	luminous	adj.	发光的；明亮的
+2937	lunar	adj.	月的
+2938	lure	vt.	引诱，诱惑
+2938	 	n.	饵；诱惑
+2939	luster	n.	光彩，光泽；声望
+2940	lustrous	adj.	有光泽的；光辉的
+2941	luxurious	adj.	奢侈的，豪华的
+2942	luxury	n.	奢侈，豪华
+2943	lyric	n.	抒情诗；歌词
+2944	lyricist	n.	抒情诗人
+2945	lyrically	adv.	抒情地
+2946	magic	n.	魔法，魔力；魔术
+2947	magical	adj.	魔术的，不可思议的
+2948	magician	n.	魔术师，变戏法的人
+2949	magnesium	n.	镁
+2950	magnetic	adj.	磁的，有磁性的
+2950	 	adj.	有吸引力的
+2951	magnetic	n.	磁铁
+2952	magnetism	n.	磁，磁力
+2953	magnetize	vt.	使磁化；吸引
+2954	demagnetize	vt.	消磁，使退磁
+2955	ferromagnetic	adj.	铁磁的, 铁磁体
+2956	geomagnetic	adj.	地磁的
+2957	electromagnetic	adj.	电磁的
+2958	magnificent	adj.	华丽的；高尚的；丰富的
+2959	magnificence	n.	华丽，富丽堂皇
+2960	magnify	vt.	放大，扩大
+2961	magnitude	n.	大小，光度，重要
+2962	maintenance	n.	维修，保养
+2962	 	n.	维持，继续
+2963	maize	n.	玉米
+2964	corn	n.	玉米，谷类
+2965	popcorn	n.	爆米花
+2966	cornet	n.	短号
+2967	majestic	adj.	壮观的，庄严的
+2968	majesty	n.	威严，最高权威
+2969	majority	n.	多数
+2970	makeup	n.	组成，结构
+2970	 	n.	补考
+2970	 	n.	化妆品
+2971	malfunction	n.	故障，失灵
+2972	mall	n.	大规模购物中心
+2973	mallet	n.	槌棒
+2974	malleable	adj.	可锻的，可塑的，可延展的
+2975	malleability	n.	可锻性，可塑性，延展性
+2976	malnutrition	n.	营养不良
+2977	mammal	n.	哺乳动物
+2978	mammoth	n.	猛犸象
+2978	 	adj.	巨大的
+2979	mandatory	adj.	命令的，强制的
+2980	mandate	n.	命令，要求
+2981	maneuver	vt.	(敏捷地)操纵；(用策略)调动
+2981	 	n.	策略，谋略
+2982	mania	n.	狂热
+2983	manifestation	n.	表现，显示
+2984	manipulate	vt.	操作；操纵，利用
+2985	mannerism	n.	特殊习惯，怪癖
+2986	mansion	n.	大厦；公寓
+2987	mantle	n.	地幔；覆盖物
+2988	manual	n.	手册
+2988	 	adj.	人工的，手动的
+2989	manually	adv.	用手
+2990	manure	n.	肥料
+2991	map	vt.	绘制…的地图
+2992	marble	n.	大理石
+2993	march	vi./n.	前进，行进
+2994	margin	n.	边缘；余地
+2995	marine	adj.	海的，航海的，海产的
+2996	aquamarine	n.	绿玉；碧绿色
+2997	submarine	n.	潜水艇，潜艇
+2998	maritime	adj.	海上的，海事的
+2999	markedly	adv.	显著地，明显地
+3000	marrow cavity	n.	骨髓腔
+3001	marsh	n.	湿地，沼泽
+3002	marshy	adj.	沼泽的
+3003	marvel	n.	奇异的事物，罕见的例子
+3004	marvelous	adj.	不可思议的；了不起的
+3005	mask	n.	面具
+3005	 	v.	掩盖，掩饰
+3006	mason	n.	泥瓦匠
+3007	stonemason	n.	石工，石匠
+3008	masonry	n.	石工术；石匠职业
+3009	massive	adj.	大而重的，庞大的；可观的
+3010	masterpiece	n.	杰作，名著
+3011	matching	adj.	(尤指颜色或外表)相配的,一致的
+3012	matchless	adj.	无敌的；无比的
+3013	mate	v.	结伴，成配偶
+3013	 	n.	配偶
+3014	mathematics	n.	数学
+3015	maverick	adj.	特立独行的；不遵守传统的
+3015	 	n.	持异议者，自行其是者
+3016	meager	adj.	缺乏的，不足的
+3017	meaningful	adj.	意味深长的
+3018	measures	n.	措施，方法
+3019	mechanical	adj.	机械的；机械性的，呆板的
+3020	mechanics	n.	机械学，力学
+3021	mechanized	adj.	机械化的
+3022	mechanism	n.	机械；机理，运作机制
+3023	media	n.	媒体
+3024	mediate	v.	斡旋，调停
+3025	intermediate	adj.	中间的；中级的
+3026	mediator	n.	调停者
+3027	medieval	adj.	中世纪的
+3028	medium	n.	媒体，媒介；方法
+3029	melodious	adj.	旋律优美的，悦耳的
+3030	melody	n.	悦耳的音调
+3031	melodic	adj.	有旋律的, 调子美妙的
+3032	melodrama	n.	音乐剧；情节剧
+3033	membrane	n.	膜，薄膜
+3034	memo	n.	备忘录
+3035	memory	n.	记忆，记忆力；回忆
+3036	memorize	vt.	纪念
+3037	memorable	adj.	难忘的
+3038	commemorate	v.	纪念
+3039	memorandum	n.	备忘录, 便笺
+3040	memorial	n.	纪念物
+3041	menace	n.	危险物
+3041	 	vt.	威吓；胁迫
+3042	mend	vt.	修补；改进
+3043	amendment	n.	改善，改正
+3044	recommend	vt.	推荐；介绍
+3045	mention	vt.	提及；说起
+3046	menu	n.	菜单；选择单
+3047	mercantile	adj.	商业的，贸易的
+3048	merchant	n.	商人
+3049	merchandise	n.	商品
+3050	merge	v.	（使）合并，（使）融合
+3051	merger	n.	合并
+3052	emerge	vi.	显现，浮现
+3053	emergence	n.	浮现，出现
+3054	meridian	n.	子午线
+3055	merit	n.	优点，价值
+3056	mesmerize	vt.	施催眠术；使入迷，迷住
+3057	messy	adj.	肮脏的；凌乱的
+3058	metabolism	n.	新陈代谢
+3059	metabolic	adj.	新陈代谢的
+3060	metaphor	n.	隐喻，暗喻
+3061	meteor	n.	流星
+3062	meteorite	n.	陨星，陨石
+3063	meteorology	n.	气象学
+3064	meteorologist	n.	气象学者
+3065	methodology	n.	方法论，方法学
+3066	methodically	adv.	有条理地；井然地
+3067	meticulous	adj.	一丝不苟的，过细的
+3068	metropolitan	adj.	主要都市的，大城市的
+3069	microbe	n.	微生物
+3070	microcosm	n.	微观世界
+3071	microorganism	n.	微生物
+3072	microscope	n.	显微镜
+3073	microscopic	adj.	用显微镜可见的；极小的
+3074	telescope	n.	望远镜
+3075	microwave	n.	微波（炉）
+3076	mighty	adj.	强大的，巨大的
+3077	migrant	n.	候鸟；移民
+3078	emigrant	n.	移居外国者，移民
+3079	immigrant	n.	（从外国移入的）移民，侨民
+3080	migrate	vi.	移动，迁徙
+3081	migration	n.	定期迁移；迁居
+3082	migratory	adj.	迁移的；流浪的
+3083	milestone	n.	里程碑；划时代的事件
+3084	milieu	n.	环境；出身背景
+3085	militant	adj.	好战的，好暴力的
+3086	millennia	n.	一千年，千禧年
+3087	millionaire	n.	百万富翁
+3088	mime	vt.	模拟，模仿
+3089	mimetic	adj.	模仿的，（生物）拟态的
+3090	mimicry	n.	（生物）拟态；模仿
+3091	mimic	n./vt.	模仿，摹拟
+3092	mingle	v.	（使）混合
+3093	mingling	adj.	混合的
+3094	miniature	adj.	微型的，缩小的
+3094	 	n.	缩小的模型，缩图，缩影
+3095	minimize	v.	最小化，减到最小
+3096	minimal	adj.	最小的，最少的
+3097	minimalist	n.	最低限要求者
+3098	minimum	adj.	最小的，最低的
+3098	 	n.	最小值，最小化
+3099	minority	n.	少数；少数民族
+3100	minuscule	adj.	极小的
+3101	minute	adj.	微小的
+3102	miraculous	adj.	奇迹的，不可思议的
+3103	miracle	n.	奇迹，奇事
+3104	mirage	n.	海市蜃楼，幻景
+3105	miserable	adj.	痛苦的，悲惨的，可怜的
+3106	mislead	vt.	使误入歧途，误导
+3107	misleading	adj.	使人误解的；骗人的
+3108	mistrust	vt.	不信任，不相信，怀疑
+3109	mistrustful of	词组	不相信，怀疑
+3110	mitigate	vt.	使减轻，使缓和
+3111	moat	n.	护城河，壕沟
+3112	mobile	adj.	可移动的
+3112	 	adj.	易变的
+3113	mobility	n.	流动性；灵活性
+3114	immobile	adj.	稳定的，不动的，静止的
+3115	mock	v.	（模仿性的）嘲笑
+3116	mockingbird	n.	（动物）仿声鸟
+3117	moderate	adj.	温和的；适度的，有节制的
+3117	 	vt.	使缓和，使稳定
+3118	modest	adj.	谦虚的；适度的
+3119	modify	vt.	修改，变更
+3120	moist	adj.	潮湿的，多雨的
+3121	moisten	vt.	弄湿，使湿润
+3122	moisture	n.	潮湿，湿气；湿度
+3123	mold	vt.	塑造
+3123	 	n.	模子；铸型
+3123	 	n.	霉菌
+3124	molecule	n.	分子
+3125	molecular	adj.	分子的
+3126	molten	adj.	熔融的，熔化的
+3127	monarch	n.	君主，帝王
+3128	monetary	adj.	货币的，金钱的
+3129	monitor	vt.	监控；监测
+3130	monochromati	adj.	单色的，一色的
+3131	monopolize	vt.	独占，垄断
+3132	monopoly	n.	独占，垄断
+3133	monotonous	adj.	单调乏味的，无变化的
+3134	monster	n.	怪物，巨兽
+3135	monument	n.	纪念碑；纪念物
+3136	mounmental	adj.	杰出的，不朽的
+3137	morale	n.	士气
+3138	morphololgy	n.	形态学，形态论
+3139	mortal	n.	凡人，人类
+3139	 	adj.	必死的；致命的
+3140	most distinctive	词组	最杰出的，典型的
+3141	motif	n.	（作品）主题，主旨
+3142	motion	n.	运动
+3143	motionless	adj.	不动的，静止的
+3144	locomotion	n.	运动，移动
+3145	motivate	vt.	激发，刺激
+3146	motivation	n.	动机，刺激
+3147	motive	n.	动机
+3148	locomotive	n.	火车头
+3149	automotive	adj.	汽车的，自动推进的
+3150	mourning	n.	悲恸，服丧
+3151	mournful	adj.	悲痛的，悲哀的
+3152	mouth	n.	入口
+3153	mud mortar	词组	灰泥浆
+3154	mortar	n.	灰泥；臼, 研钵
+3155	mulberry	n.	桑树
+3156	multicellular	adj.	多细胞的
+3157	multi-faceted	adj.	多方面的；多才多艺的
+3158	multiple	adj.	多样的，多重的
+3158	 	n.	倍数
+3159	multiply	v.	繁殖，增加
+3159	 	v.	乘（by）
+3160	multistory	n.	多层建筑
+3161	multitude	n.	大量，多数
+3162	mundane	adj.	世俗的，平凡的
+3162	 	adj.	平常的，普通的
+3163	municipal	adj.	市的，市政的
+3164	mural	n.	壁画，壁饰
+3165	muscular	adj.	强壮的，肌肉发达的
+3166	mushroom	n.	蘑菇
+3166	 	v.	迅速生长
+3167	mutual	adj.	相互的；共有的
+3168	myriad	n.	许多，无数
+3168	 	adj.	无数的
+3169	mysterious	adj.	神秘的
+3170	myth	n.	神话，神话故事
+3171	mythical	adj.	神话的，虚构的
+3172	mythology	n.	（总称）神话
+3173	naked	adj.	裸体的，无遮盖的
+3174	narcotic	adj.	麻醉的，催眠的；n. 麻醉剂
+3175	narrator	n.	讲述者
+3176	native to	词组	土生土长的
+3177	natural gas	词组	天然气
+3178	naturalist	n.	自然主义者，博物学着
+3179	naturalistic	adj.	自然（主义）的
+3180	naval	adj.	海军的；军舰的
+3181	navigate	vi.	航行，航海；航空
+3182	navigation	n.	航海
+3183	neat	adj.	整洁的；整齐的
+3184	underneath	prep.	在…的下面
+3185	beneath	adv./prep.	在…之下
+3186	needy	adj.	贫穷的，生活艰辛的
+3187	negative	adj.	否定的；负的
+3187	 	adj.	消极的
+3188	negate	vt.	否定，打消
+3189	neglect	n./vt.	疏忽；忘记
+3190	negligent	adj.	疏忽的，粗心大意的
+3191	negligible	adj.	可忽略的，无关紧要的
+3192	negotiation	n.	商议，谈判
+3193	neoclassical	adj.	新古典主义的
+3194	neon	n.	[化]氖；霓虹灯
+3195	nerve cord	词组	脊髓
+3196	spinal cord	词组	脊髓
+3197	neuron	n.	神经元，神经细胞
+3198	nervous	adj.	神经的；神经紧张的，易激动的
+3199	neutral	adj.	中性的；中立的
+3200	neutralize	vt.	抵消，中和
+3201	neutron	n.	中子
+3202	niche	n.	壁龛
+3202	 	n.	适当的位置；称心的职务
+3203	nickel	n.	镍；镍币
+3204	dime	n.	一角硬币
+3205	nicotine	n.	尼古丁
+3206	nocturnal	adj.	夜的, 夜曲的
+3207	noisy	adj.	嘈杂的
+3208	nomadic	adj.	游牧的，流浪的
+3209	nominate	vt.	提名；任命
+3210	nominee	n.	被提名的人, 被任命者
+3211	nonconformist	adj./n.	不遵照传统生活的（人）
+3212	nonetheless	adv.	虽然如此，但是
+3213	nonprofessional	adj./n.	非专业的(人员)；无专长的(人员)
+3214	nonsense	n.	胡说，废话
+3215	nontraditional	adj	不遵照传统生活的
+3216	norm	n.	标准，规范
+3217	normal	adj.	正常的，标准的
+3218	normally	adv.	通常地
+3219	abnormal	adj.	反常的，变态的
+3220	nostalgia	n.	思家病，怀旧
+3221	not…so much 	词组	与其…还不如…
+3222	not as yet	词组	迄今为止，还没有
+3223	notable	adj.	著名的；显要的
+3223	 	n.	名人，要人
+3224	notably	adv.	显著地；特别地
+3225	notate	vt.	以符号表示，把…写成记号
+3226	notation	n.	符号
+3227	notch	n.	刻痕
+3228	note	n.	音符
+3229	notorious	adj.	臭名昭著的，声名狼藉的
+3230	notoriously	adv.	声名狼藉地
+3231	nourish	vt.	养育；滋养
+3232	nourishing	adj.	有营养的；滋养的
+3233	nourishment	n.	营养品
+3234	novel	adj.	新奇的，新颖的
+3235	novelty	n.	新颖，新奇
+3236	novice	n.	生手，新手
+3237	nowadays	adv.	现今，时下
+3238	now and then	词组	不时
+3239	noxious	adj.	有害的，有毒的
+3240	nuclear	adj.	核子的；核的，原子能的
+3241	nuclei	n.	核子；核心
+3242	nucleus	n.	合子，核心
+3243	null	adj.	无效的；空的
+3244	numerous	adj.	众多的，很多的
+3245	nutrient	n.	营养物
+3246	nutritional	adj.	营养的, 滋养的
+3247	nutritious	adj.	有营养成分的, 营养的
+3248	oath	n.	誓言，宣誓
+3249	object to	词组	反对
+3250	objection	n.	反对
+3251	objective	n.	目标
+3251	 	adj.	客观的
+3252	obligated	adj.	有义务的，有责任的
+3253	obligation	n.	义务，职责
+3254	obligatory	adj.	强制性的，义务的
+3255	oblige	vt.	迫使，责成
+3256	obliterate	vt.	涂掉，擦掉
+3257	obscure	vt.	隐藏，使…模糊
+3257	 	adj.	朦胧的，模糊的；晦涩的
+3258	obsession	n.	入迷；固执的念头
+3259	obsessed	adj.	心神不宁的,鬼迷心窍的,沉迷的
+3260	obsolete	adj.	废弃的；过时的
+3261	obstacle	n.	障碍
+3262	obstruct	vt.	阻塞(道路、通道等)；妨碍,阻挠
+3263	obstruction	n.	阻塞，妨碍；障碍物
+3264	unobstructed	adj.	畅通无阻的
+3265	obtain	vt.	得到
+3266	obtainable	adj.	可得到的
+3267	occasional	adj.	偶然的；临时的
+3268	occasionally	adv.	偶尔
+3269	occupation	n.	职业
+3270	occupy	vt.	居住
+3270	 	vt.	占用，占据
+3271	occupant	n.	占有者，居住者
+3272	occur	vi.	发生，出现
+3272	 	vi.	想到
+3273	occurrence	n.	事件；发生
+3274	octopus	n.	章鱼
+3275	odd	adj.	奇异的，古怪的
+3276	oddly	adv.	奇特地，古怪地
+3277	odds	n.	可能的机会, 成败的可能性, 几率
+3278	odor	n.	气味
+3279	deodorizer	n.	除臭剂
+3280	odorless	adj.	无嗅的，没有气味的
+3281	of scale	词组	大规模的
+3282	offensive	adj.	讨厌的，无礼的；攻击性的
+3283	inoffensive	adj.	无害的,不触犯人的,让人不讨厌的
+3284	offshore	adj.	离岸的, 海面上的
+3285	offspring	n.	子孙，后代
+3286	olfactory	adj.	嗅觉的
+3287	omit	vt.	省略，省去，忽略
+3288	ongoing	adj.	正在进行的
+3289	onset	n.	开始
+3289	 	n.	（病）发作
+3290	onslaught	n.	冲击；猛攻
+3291	ooze	n.	软泥
+3291	 	v.	渗出，泄漏
+3292	opaque	adj.	不透明的；晦涩难懂的
+3293	opera	n.	歌剧
+3294	opponent	n.	对手，反对者
+3294	 	adj.	敌对的，反对的
+3295	opportunity	n.	机会，时机
+3296	opposed	adj.	反对的
+3297	opposing	adj	相反的，对立的
+3298	opposition	n.	反对，敌对
+3299	opposite	n.	相反的事物
+3299	 	adj.	相反的，对立的
+3300	optical	adj.	视觉的；光学的
+3301	optometrist	n.	验光师
+3302	optimal	adj.	最佳的，最理想的
+3303	optimum	adj.	最适宜的
+3304	optimist	n.	乐观者
+3305	optimistic	adj.	乐观的
+3306	optional	adj.	可自由选择的
+3307	option	n.	选项，选择权
+3308	oral	adj.	口头的
+3309	oratorio	n.	宗教剧
+3310	orbit	n.	轨道
+3310	 	vt.	绕…轨道而行
+3311	orbital	adj.	轨道的
+3312	orchard	n.	果园
+3313	orchestra	n.	管弦乐队
+3314	orchid	n.	兰花
+3315	ordeal	n.	严峻考验，痛苦经历
+3316	ordinance	n.	法令，条例
+3317	ore	n.	矿石
+3318	roe	n.	鱼卵
+3319	organic	adj.	（化学）有机的
+3320	organically	adv.	器官上地, 有机地,有组织地
+3321	organism	n.	生物，有机物
+3322	microorganism	n.	微生物
+3323	orientation	n.	定向；介绍性指导
+3324	orient	vt.	使适应；确定方向
+3325	oriental	adj.	亚洲的，东方的
+3326	original	adj.	最初的，原始的
+3326	 	adj.	有创意的
+3327	originality	n.	创意，新奇
+3328	originate	vt.	发生；发起，创办
+3329	ornament	n.	装饰；装饰物
+3330	ornamentation	n.	装饰；装饰品
+3331	ornamental	adj.	装饰的
+3332	ounce	n.	盎司
+3333	renounce	v.	断绝关系
+3334	pronounced	adj.	显著的，明确的
+3335	denounce	vt.	公然抨击，谴责
+3336	bounce	v.	（使）反跳，弹起
+3337	announce	vt.	宣布，通告
+3338	oust	vt.	驱逐；赶走
+3339	outbreak	n.	发作；爆发
+3340	outcome	n.	成果，后果
+3341	outcry	n.	大声疾呼；强烈抗议
+3342	outdated	adj.	过时的
+3343	outdoors	adv.	在户外，在野外
+3344	outermost	adj.	最外面的，离中心最远的
+3345	outfit	n.	服装
+3345	 	vt.	配备，装备
+3346	outgoing	adj.	好交际的，外向的
+3347	outgrow	vt.	生长速度超过…，长得比…快
+3348	outgrowth	n.	长出；结果；副产物
+3349	outlast	vt.	比…长久，比…活得长
+3350	outlet	n.	（河流、烟等）出口
+3351	outlook	n.	观点，见解
+3351	 	n.	前景
+3352	outlying	adj.	边远的，偏僻的
+3353	outmoded	adj.	不再流行的，过时的
+3354	output	n.	输出，产品；生产量
+3355	outrage	n.	暴行
+3355	 	vt.	激怒，引起…义愤
+3356	outright	adv.	彻底地，完全地
+3357	outset	n.	开始，开端
+3358	outspoken	adj.	坦率直言的
+3359	outweigh	vt.	比…重；比…更重要
+3360	oval	adj.	卵形的，椭圆的
+3361	overall	adj.	全部的，全面的
+3362	overburden	v.	装载过多；负担过多
+3363	overcast	adj.	阴天的，阴暗的
+3364	overcharge	v.	索价过高
+3365	overdue	adj.	迟到的；逾期的
+3366	overhaul	v.	彻底检查，大修
+3367	haul	vt.	拉，拖
+3368	overlap	vt.	部分重叠，与…交搭，迭盖
+3369	overlapping	adj./n.	交迭（的）
+3370	overload	vt.	使超载，使超过负荷
+3371	overlook	vt.	忽略，没注意到
+3371	 	vt.	俯瞰，远眺
+3372	oversee	vt.	监督，管理
+3373	oversight	n.	勘漏, 失察, 疏忽
+3374	overt	adj.	明显的；公然的
+3375	overtime	n.	超时，加班    adv.  加班地
+3376	overtire	vt.	使过度疲劳
+3377	overtax	vt.	课税过重
+3378	overtaxed	adj.	课税过重的，负担过重的
+3379	overturn	n./vt.	推翻；翻倒；倾覆
+3380	overwhelm	vt.	战胜；压倒
+3380	 	vt.	泛滥；使沉浸
+3381	overwhelmingly	adv.	压倒性地；不可抵抗地
+3382	owing to	词组	因…之缘故
+3383	oxen	n.	（pl）公牛
+3384	oxygen	n.	氧气
+3385	oyster	n.	[动]牡蛎, 蚝
+3386	pack	vt.	装；将…挤入，塞满
+3386	 	n.	一群
+3387	pack down	词组	填塞，夯实
+3388	pack animal	词组	能运输的动物
+3389	packed	adj.	压紧的，压实的
+3390	package	n.	包裹，包
+3391	packaging	n.	包装
+3392	packer	n.	包装工人，打包机
+3393	backpack	n.	背包
+3394	unpack	vt.	打开包裹（或行李），卸货
+3395	paddler	n.	划独木舟者
+3396	painstaking	adj.	辛苦的，辛勤的
+3397	painting	n.	绘画，油画
+3398	palatable	adj.	美味的
+3399	unpalatable	adj.	味道差的，不好吃的
+3400	pale	adj.	苍白的；暗淡的
+3401	palette	n.	调色板，颜料
+3402	paleontologist	n.	古生物学者
+3403	pamphlet	n.	小册子
+3404	pane	n.	窗格玻璃
+3405	panel	n.	镶板
+3405	 	n.	专门小组
+3405	 	vt.	镶嵌（板）
+3406	panic	n.	恐慌
+3407	Hispanic	adj.	西班牙的
+3408	pants	n.	裤子；短裤
+3409	rampant	adj.	猖獗的，蔓生的
+3410	parachute	n.	降落伞
+3411	parade	n.	游行
+3412	parallel	vt.	与…平行；匹敌
+3412	 	n.	类似，相似
+3412	 	adj.	平行的
+3413	unparalleled	adj.	无比的，空前的
+3414	paralysis	n.	瘫痪，中风
+3415	paralyze	vt.	使瘫痪，使麻痹
+3416	parameter	n.	参数，参量
+3417	paramount	adj.	最重要的；最高权力的
+3418	paraphrase	vt.	将…释义，改写
+3418	 	n.	释义，意义
+3419	parasite	n.	寄生虫，食客
+3420	parasitic	adj.	寄生的
+3421	parliamentary	adj.	议会（制）的
+3422	partial	adj.	部分的
+3423	impartially	adv.	公平地，无私地
+3424	participant	n.	参与者，参赛者
+3425	particle	n.	颗粒，微粒
+3426	passion	n.	激情，热情
+3427	passionate	adj.	充满热情的，热烈的
+3428	passive	adj.	被动的；消极的
+3429	pastel	adj.	柔和的
+3430	pasture	n.	牧场，草地
+3431	patch	n.	片，块
+3432	dispatch	vt.	分派，派遣
+3433	patent	n.	专利
+3433	 	vt.	取得…的专利权，申请专利
+3434	path	n.	轨道，道路
+3435	pathway	n.	路，径
+3436	footpath	n.	人行道，小路
+3437	pathogen	n.	病菌，病原体
+3438	patriarch	n.	家长，族长
+3439	patriarchal	adj.	家长的，族长的
+3440	patriot	n.	爱国者
+3441	patriotic	adj.	爱国的
+3442	patrol	v.	巡逻，巡视
+3443	patroller	n.	巡警
+3444	patron	n.	赞助人，资助人
+3444	 	n.	顾客
+3445	patronage	n.	赞助；惠顾
+3446	patronizing	adj.	俨然以恩人态度的, 要人领情的
+3447	paucity	n.	小量，缺乏
+3448	pauper	n.	贫民，乞丐
+3449	pave	vt.	铺设，为…铺路
+3450	pave the way for	词组	为…铺平道路
+3451	peak	n.	山顶；最高点，顶端
+3452	pebble	n.	小鹅卵石
+3453	peck	v.	啄，啄起
+3454	peculiar	adj.	特有的，专有的
+3454	 	adj.	奇怪的，异常的
+3455	peculiarity	n.	特性，怪癖
+3456	pedagogy	n.	教育学，教学法
+3457	pedagogic	adj.	教育学的
+3458	pedagogical	adj.	教育学的，教学法的
+3459	peer	v.	凝视，仔细看
+3459	 	n.	同辈，同等的人
+3460	peerless	adj.	出类拔萃的, 无可匹敌的
+3461	penal	adj.	刑罚的，刑法上的
+3462	penalty	n.	处罚，罚款
+3463	penchant	n.	爱好，嗜好；（强烈的）倾向
+3464	pendant	n.	垂饰；下垂物
+3465	penetrate	vt.	穿透；渗透
+3466	penetrating	adj.	（声音）响亮的，尖锐的
+3466	 	adj.	（气味）刺激的
+3466	 	adj.	（思想）敏锐的，有洞察力的
+3467	peninsula	n.	半岛
+3468	pensive	adj.	沉思的
+3469	perceive	vt.	感知；察觉，发觉
+3470	perception	n.	理解；感知，感觉
+3471	perceptive	adj.	感知的；有洞察力的
+3472	conception	n.	观念，概念
+3473	misconception	n.	误解
+3474	perch	n.	栖木  v. （使）栖息
+3475	percolate	v.	过滤，渗透   n. 滤液
+3476	percussion	n.	打击乐器；震荡，影响
+3477	perennial	adj.	四季不断的，终年的；（植物）多年生的
+3478	perennially	adv.	永久地，终年地
+3479	perfect	adj.	完美的，理想的
+3479	 	vt.	使完美；使熟练
+3480	perfection	n.	尽善尽美，完美
+3481	perform	vt.	履行，执行
+3481	 	vt.	表演，演出
+3482	performance	n.	履行，执行；表演，演奏
+3483	performer	n.	表演者
+3484	perfume	n.	香味；香水
+3485	perimeter	n.	边缘，周边地带
+3486	periodic	adj.	周期的, 定期的
+3487	period	n.	时期；时代
+3488	periodical	n.	期刊，杂志
+3488	 	adj.	周期的，定期的
+3489	peripheral	adj.	周边的，外围的
+3490	periphery	n.	外围
+3491	perishable	adj.	（尤指食物）易腐的，易坏的
+3492	permanent	adj.	长久的，永久的
+3493	permeate	vt.	弥漫；渗透，透过
+3494	permeable	adj.	有浸透性的，能透过的
+3495	permission	n.	许可，允许
+3496	permissive	adj.	许可的，宽容的
+3497	perpendicular	adj.	垂直的，直立的
+3498	perpetuate	vt.	使…延续，使永存
+3499	perplex	vt.	迷惑，困惑；难住
+3500	perplexing	adj.	使人困惑的；令人费解的
+3501	persevere	vi.	坚持不懈，不屈不挠
+3502	perseverance	n.	坚定不移
+3503	persist	vi.	坚持；持续
+3504	persistence	n.	坚持不懈，持续
+3505	persistent	adj.	坚持不懈的
+3506	personality	n.	个性，性格
+3507	personnel	n.	人员，职员
+3508	perspective	n.	(判断事物的)角度，方法，观点
+3508	 	n.	透视；远景
+3509	perspiration	n.	汗水；出汗
+3510	perspire	vi.	出汗
+3511	persuade	v.	说服，劝说，（使）相信
+3512	persuasive	adj.	有说服力的，善说服的
+3513	pertinent	adj.	相关的，切题的；中肯的
+3514	pest	n.	害虫；令人讨厌的人或物
+3515	pesticide	n.	杀虫剂
+3516	pestilence	n.	瘟疫
+3517	pestilential	adj.	引起瘟疫的
+3518	pet	n.	宠物
+3519	petal	n.	花瓣
+3520	petition	n./v.	请愿
+3521	repetition	n.	重复；循环
+3522	competition	n.	竞争，竞赛
+3523	petroleum	n.	石油
+3524	phase	n.	阶段，态
+3525	phenomena	n.	（pl）现象
+3526	phenomenally	adv.	明白地，显著地
+3527	philology	n.	语言学，文献学
+3528	philosophy	n.	哲学；原理，人生观
+3529	phonetics	n.	语音学
+3530	physiological	adj.	生理学的；生理上的
+3531	physiology	n.	生理学
+3532	picturesque	adj.	如画的，美丽的
+3533	pierce	vt.	穿透，戳穿
+3534	pigment	n.	色素，颜料
+3535	pillar	n.	柱，柱子
+3536	caterpillar	n.	毛虫
+3537	capillary	n.	毛细管
+3538	pillow	n.	枕头
+3539	willow	n.	柳树
+3540	pinch	vt.	掐，夹痛
+3541	pine	n.	松树
+3541	 	vi.	憔悴，消瘦
+3542	porcupine	n.	[动]豪猪, 箭猪
+3543	pineapple	n.	凤梨, 菠萝
+3544	spine	n.	脊骨；书脊
+3545	spined	adj.	有背骨的, 有脊柱的
+3546	spinet	n.	小型立式钢琴
+3547	pinpoint	vt.	准确地确定；用针标出…的精确位置
+3548	pioneer	n.	开拓者
+3548	 	v.	开辟，倡导
+3549	pioneering	adj.	开创性的
+3550	pique	vt.	激起，引起（好奇等）
+3550	 	vt.	激怒
+3551	pit	n.	坑，地坑；煤矿
+3551	 	vt.	使对抗，使相斗
+3552	pitch	n.	音高
+3553	pitcher	n.	大水罐，水壶
+3554	pivot	n.	枢轴；中心点，重点
+3555	pivotal	adj.	枢轴的，关键的
+3556	a pivotal figure	词组	关键人物
+3557	plagiarism	n.	剽窃，抄袭
+3558	plague	n.	瘟疫，灾祸
+3558	 	vt.	折磨，使苦恼
+3559	plain	n.	平原，草原
+3559	 	adj.	简单的，朴素的
+3560	plainly	adv.	清楚地，明显地
+3561	plainspoken	adj.	直言不讳的
+3562	floodplain	n.	泛滥平原, 涝原, 漫滩
+3563	planet	n.	行星
+3564	plank	n.	厚木板
+3565	chunk	n.	大块
+3566	plantation	n.	种植园
+3567	plasma	n.	血浆
+3568	plaster	n.	灰泥，石膏
+3568	 	vt.	抹泥，涂
+3569	plate	n.	盘子；版图；大片平面
+3570	platelike	adj.	层状的
+3571	tinplate	n.	镀锡铁皮, 马口铁
+3572	plateau	n.	高原，高地
+3573	platform	n.	月台，平台，讲坛
+3574	platitude	n.	陈词滥调
+3575	platitudinous	adj.	陈词滥调的，陈腐的
+3576	playwright	n.	剧作家
+3577	pleasing	adj.	令人高兴的, 愉快的, 合意的
+3578	pleasure	n.	快乐
+3579	pledge	n.	保证，誓言
+3579	 	vt.	发誓；保证
+3580	pliable	adj.	易弯的，柔软的
+3580	 	adj.	易受影响的；柔顺的
+3581	pliant	adj.	顺从的；可弯曲的
+3582	plight	n.	（恶劣的）情势，困境
+3583	plow	n.	犁
+3583	 	vt.	耕作
+3584	plumage	n.	鸟类羽毛
+3585	plumb	adj.	垂直的
+3586	plumber	n.	水管工人
+3587	plumbing	n.	（供水）管道系统
+3588	plump	adj.	胖嘟嘟的，丰满的
+3589	plunge	vi.	跳进；投入，陷入
+3590	pocketbook	n.	钱袋，皮夹
+3591	polarize	vt.	使极化，使两极分化
+3592	polish	vt.	擦亮
+3592	 	n.	光泽；上光剂
+3593	ploished	adj.	擦亮的
+3594	politics	n.	政治；政见；政治学
+3595	poll	n.	选举之投票；民意测验
+3596	pollinate	vt.	对…授粉
+3597	pollination	n.	授粉
+3598	pollen	n.	花粉
+3599	pollinator	n.	传粉媒介，传粉昆虫
+3600	pollute	vt.	污染；玷污
+3601	pollution	n.	污染；玷污
+3602	pollutant	n.	污染物质
+3603	polygon	n.	多边形
+3604	polygonal	adj.	多角形的，多边形的
+3605	popular	adj.	流行的，受欢迎的
+3606	popular tune	词组	流行歌曲
+3607	popularity	n.	流行，受大众欢迎
+3608	populous	adj.	人口稠密的，人口多的
+3609	porcelain	n.	瓷器, 瓷
+3610	pore	n.	小孔，气孔
+3611	pole	n.	（南北）极；磁极，电极
+3612	tadpole	n.	[动]蝌蚪
+3613	porous	adj.	可渗透的，多孔的
+3614	portable	adj.	编携的，手提的；轻便的
+3615	portend	vt.	预兆，预示
+3616	portion	n.	一部分；部分
+3617	portrait	n.	肖像，画像；描写
+3618	portraitist	n.	肖像画家
+3619	portraiture	n.	肖像画法
+3620	portray	vt.	描述；绘制
+3621	portrayal	n.	饰演；描画
+3622	pose	vt.	形成，引起
+3622	 	n.	姿势，姿态
+3623	posture	n.	姿势，体态
+3624	positive	adj.	（电）阳极的
+3624	 	adj.	肯定的；积极的
+3625	negative	adj.	否定的；消极的；负的
+3626	possess	vt.	拥有，占有
+3627	possession	n.	拥有，占有；财产
+3628	post	vt.	张贴，揭示
+3628	 	n.	柱；邮件
+3629	poster	n.	海报，招贴
+3630	postmaster	n.	邮局局长
+3631	postage	n.	邮资
+3632	postal	adj.	邮政的，邮局的
+3633	postal service	词组	邮政服务
+3634	postcard	n.	明信片
+3635	postdate	vt.	填迟…的日期
+3636	antedate	vt.	填早...的日期
+3637	postgraduate	n.	研究生
+3638	postwar	adj.	战后的
+3639	postoperative	adj.	手术后的
+3640	posthumous	adj.	死后的，身后的
+3641	postpone	vt.	推迟，使延期
+3642	postulate	vt.	要求；假定
+3643	pot	n.	罐，壶
+3644	coffeepot	n.	咖啡壶
+3645	teapot	n.	茶壶
+3646	pottery	n.	陶器，陶器场
+3647	potter	n.	陶工，制陶工人
+3648	potted	adj.	盆栽的；平或罐装的
+3649	potent	adj.	强有力的，有效的
+3650	potential	adj.	可能的；潜在的
+3651	potentiality	n.	潜能，潜力
+3652	pound	n.	磅，英镑
+3652	 	vt.	强烈打击
+3653	poverty	n.	贫困
+3654	propery	n.	财产，所有权
+3655	practicable	adj.	行得通的，可以实行的
+3656	practical	adj.	实际的，实践的；实用的
+3657	practically	adv.	实际上；几乎，简直
+3658	practicality	n.	实用性
+3659	inpractical	adj.	不切实际的
+3660	impracticality	n.	不切实际, 办不到
+3661	prairie	n.	大草原
+3662	preach	v.	布道；鼓吹
+3663	precarious	adj.	不稳定的；危险的
+3664	precaution	n.	预防措施，警惕
+3665	precede	vt.	在…之前，早于；优先于
+3666	precedent	n.	先例
+3667	unprecedented	adj.	空前的
+3668	preceding	adj.	在前的
+3669	precious	adj.	宝贵的，珍贵的
+3670	precipitate	vt.	促成；加速
+3670	 	vi.	猛地落下
+3670	 	n.	沉淀物，降雨
+3671	precipitation	n.	仓促，降雨量
+3672	precipitous	adj.	陡峭的
+3673	precision	n.	精确，精密度
+3674	precursor	n.	先驱，先行者；先兆
+3675	predatory	adj.	掠夺的；食肉的
+3676	predator	n.	食肉动物
+3677	depredation	n.	掠夺，破坏
+3678	predecessor	n.	前辈，前任
+3679	predict	vt.	预言，预告
+3680	prediction	n.	预言，预报
+3681	predictive	adj.	预言性的，成为先兆的
+3682	predictable	adj.	可预见的
+3683	predictability	n.	可预言
+3684	predominate	vt.	统治，成为主流
+3685	predominant	adj.	支配的，主要的
+3686	predominantly	adv.	主要地
+3687	preeminent	adj.	卓越的，出类拔萃的
+3688	eminent	adj.	显赫的，杰出的
+3689	prefabricated	adj.	预制的
+3690	preferable	adj.	更可取的，更好的
+3691	preference	n.	偏爱；优先；优先权
+3692	pregnant	adj.	怀孕的
+3693	prehistoric	adj.	史前的
+3694	preliminary	adj.	预备的，初步的
+3695	premature	adj.	早熟的，不成熟的；过早的
+3696	premium	n.	保险金；奖金
+3696	 	adj.	高级的，高价的
+3697	preoccupation	n.	主要考虑因素；全神贯注，抢先占据
+3698	preponderance	n.	（数量或力量上的）优势
+3699	prerequisite	n.	先决条件
+3699	 	adj.	首要必备的
+3700	prescribe	vt.	指示，规定
+3700	 	vt.	开药方
+3701	prescribed	adj.	规定的
+3702	prescription	n.	药方，处方
+3703	presence	n.	出席，到场
+3704	preserve	vt.	保存
+3705	preservative	n.	防腐剂
+3706	preservation	n.	保存，贮藏；保护
+3707	presidency	n.	总统职位；总统任期
+3708	presidential election	词组	总统选举
+3709	preside over	词组	主持
+3710	pressure	n.	压力；压迫
+3711	prestige	n.	威望，声望
+3712	prestigious	adj.	有名望的，有威信的
+3713	presumably	adv.	推测起来, 大概
+3714	pretension	n.	要求；自命，自称；自负
+3715	prevailing	adj.	流行的，盛行的
+3716	prevail	vi.	盛行，居主导地位
+3717	prevalent	adj.	普遍的；流行的
+3718	prey	n.	被掠食者，牺牲者，食物
+3718	 	vi.	捕食，掠夺
+3719	osprey	n.	鱼鹰
+3720	primal	adj.	原始的；最初的
+3720	 	adj.	最重要的
+3721	primate	n.	灵长目动物
+3721	 	adj.	首要的，第一的
+3722	prime	adj.	主要的
+3722	 	n.	鼎盛时期
+3723	primary	adj.	第一位的，主要的
+3724	prime number	词组	素数
+3725	heyday	n.	全盛期
+3726	primitive	adj.	上古的，原始的
+3727	primordial	adj.	原始的，最初的
+3728	priority	n.	优先，优先权
+3729	pristine	adj.	原始的，未被破坏的
+3730	privilege	vt.	给与…特权，特免   n. 特权
+3731	probe	vi.	调查，查究
+3732	proceed	vi.	进行，继续下去
+3733	proceeds	n.	（pl）收益
+3734	proceeding	n.	行动；进行
+3735	process	n.	过程；   vt. 加工
+3736	proclaim	vt.	声明，宣告
+3737	proclivity	n.	倾向，癖性
+3738	prod	vt.	戳，刺
+3738	 	vt.	刺激，激励
+3739	prodigious	adj.	巨大的，惊人的；挥霍的
+3740	prodigy	n.	非凡之人，天才
+3741	produce	v.	生产     n. 农副产品
+3742	profession	n.	职业，专业
+3743	professional	adj.	专业的，职业的
+3744	professionalism	n.	职业水准或特性; 职业化
+3745	proficient	adj.	熟练的，精通的
+3746	proficiency	n.	熟练，精通
+3747	profile	n.	剖面，侧面；轮廓
+3748	profound	adj.	深刻的，深奥的
+3749	profoundly	adv.	深深地，衷心地
+3750	progress	n./vi.	前进，发展
+3751	progression	n.	行进；次序
+3752	progressive	adj.	前进的；累进的
+3753	prohibit	vt.	禁止
+3754	prohibitive	adj.	禁止的，抑制的
+3755	prohibitively	adv.	令人望而却步地；(价格)极高地
+3756	project	n.	设计，规划；项目
+3757	projecting	adj.	突出的，伸出的
+3758	projector	n.	放映机
+3759	projection	n.	发射
+3760	projectionist	n.	电影放映员，幻灯放映员
+3761	proliferate	vi.	激增；繁殖
+3762	proliferation	n.	繁殖，大量增殖
+3763	prolific	adj.	多产的，多结果的
+3764	prolong	vt.	拖长，延长
+3765	prominent	adj.	杰出的，突出的
+3766	prominence	n.	显著，突出
+3767	promising	adj.	有前途的，有希望的
+3768	unpromising	adj.	无前途的，没有希望的
+3769	compromise	n./v.	妥协，折衷
+3770	promote	vt.	晋级，使升级；促进
+3771	promoter	n.	促进者
+3772	prompt	vt.	鼓动，促进
+3772	 	adj.	迅速的；按时地
+3773	prone	adj.	易于…的；倾向于…的
+3774	pronounced	adj.	显著的，明确地
+3775	proof	n.	证据
+3776	proofread	vt.	校正，校对
+3777	fireproof	adj.	耐火的，防火的
+3778	waterproof	adj.	防水的
+3779	soundproof	adj.	隔音的
+3780	rustproof	adj.	不锈的
+3781	propagate	vt.	繁殖
+3781	 	vt.	散布，传播
+3782	propel	vt.	推进，促进
+3783	propellant	n.	推进物
+3784	propensity	n.	倾向，癖好
+3785	proper	adj.	恰当的，得体的
+3786	property	n.	财产，所有物；性质，特性；（小）道具[pl]
+3787	proponent	n.	支持者，拥护者
+3788	opponent	n.	对手，敌手，反对者
+3789	proportion	n.	比例，比率
+3790	disproportionate	adj.	不成比例的
+3791	propose	vt.	提出，提议
+3792	proposal	n.	提案；建议
+3793	proprietor	n.	所有者，业主
+3794	proprietorship	n.	所有权
+3795	propulsion	n.	推进；推进力
+3796	prose	n.	散文
+3797	prosecute	vt.	对…起诉；告发
+3798	prospect	n.	前景，期望
+3798	 	vt.	勘探，采矿
+3799	prospecting	n.	探矿
+3800	prospector	n.	勘探者，采矿者
+3801	prosper	vi.	繁荣，成功
+3802	prosperity	n.	繁荣，兴旺
+3803	prosperous	adj.	成功的，繁荣的
+3804	protagonist	n.	领导者
+3804	 	n.	(戏剧, 故事, 小说中的)主角
+3805	protectionist	n.	贸易保护主义者
+3806	protein	n.	蛋白质
+3807	protest	n./v.	抗议
+3808	prototype	n.	原型
+3809	protruding	adj.	突出的
+3810	provincialism	n.	地方主义，心胸狭窄
+3811	provision	n.	供应，供应品
+3811	 	n.	规定，条款
+3812	provoke	vt.	激怒，惹起
+3813	provocative	adj.	挑拨的；煽动的
+3814	provocation	n.	激怒，挑拨，刺激
+3815	prudent	adj.	审慎的，深谋远虑的
+3816	pry open	词组	撬开
+3817	psychology	n.	心理学；心理
+3818	parapsychology	n.	超心理学
+3819	publicize	vt.	（公开）宣传，宣扬
+3820	publicity	n.	公开，宣传
+3821	puddle	n.	小水洼
+3822	pueblo	n.	印第安人村庄
+3823	pulp	n.	果肉
+3824	pulse	n.	脉搏，脉冲
+3825	impulse	n.	推动，刺激；冲动
+3826	pump	n.	泵
+3826	 	vt.	（用泵）抽，抽吸
+3827	pumpkin	n.	南瓜
+3828	punch	vt.	重击
+3828	 	vt.	打（孔）
+3829	puncture	vt.	刺穿，戳破
+3830	acupuncture	n.	针刺；针灸
+3831	pungent	adj.	（气味、味道）刺激性的，辛辣的；尖锐的
+3832	pupil	n.	瞳孔
+3833	purple	n.	紫色
+3834	purify	vt.	提炼，精炼
+3835	purified	adj.	纯净的
+3836	purification	n.	纯化，净化
+3837	puzzle	n.	难题，谜
+3837	 	v.	（使）困惑，为难
+3838	puzzling	adj.	使迷惑的，使莫名其妙的
+3839	pyramid	n.	金字塔
+3840	quail	n.	鹌鹑
+3840	 	vi.	畏惧，颤抖
+3841	quaint	adj.	奇怪的，离奇有趣的
+3842	acquaint	vt.	使熟知，通知
+3843	acquaintance	n.	相识，熟人
+3844	acquainted	adj.	有知识的，知晓的
+3845	qualified	adj.	合格的
+3846	qualification	n.	资格，条件
+3847	quantitative	adj.	定量的；数量的
+3848	quantum theory	n.	（物理）量子论
+3849	quarry	n.	采石场，露天矿场
+3850	quarter	n.	四分之一
+3851	quarterly	adv.	每季地
+3852	headquarters	n.	司令部，总部
+3853	quartz	n.	石英
+3854	quench	vt.	淬火
+3854	 	vt.	熄灭
+3854	 	vt.	解渴
+3855	quest	n.	寻找，探索
+3856	questionable	adj.	可疑的
+3857	questionnaire	n.	调查表, 问卷
+3858	unquestioning	adj.	不加疑问的,不犹豫的
+3859	unquestionably	adv.	无疑地，无可非议地
+3860	request	v./n.	请求，要求
+3861	bequest	n.	遗产，遗赠
+3862	sequester	vt.	使退隐，使隔绝
+3863	equestrian	adj.	骑马的,  骑士阶层的
+3864	quiescent	adj.	静止的，寂静的
+3865	quilt	n.	棉被
+3865	 	vt.	制成棉被
+3866	quilter	n.	缝被子的人
+3867	quail	n.	鹌鹑
+3868	quota	n.	配额；定量，定额
+3869	quotation	n.	引用语
+3870	radar	n.	雷达
+3871	radiant	adj.	发光的；荣光焕发的
+3872	radiate	v.	放射；辐射
+3873	irradiate	vt.	照射
+3874	radiation	n.	辐射，发光，放热
+3875	radical	adj.	根本的；激进的
+3876	radically	adv.	根本上
+3877	sporadically	adv.	偶发地, 零星地
+3878	raft	n.	筏，救生艇
+3879	graft	vt.	嫁接，接枝
+3880	craft	n.	工艺，手艺
+3881	aircraft	n.	航行器
+3882	spacecraft	n.	太空船
+3883	hovercraft	n.	水翼船
+3884	rage	n.	风尚，风靡一时的事物
+3884	 	n.	大怒，情绪激动
+3885	coverage	n.	覆盖
+3886	news coverage	词组	新闻报道
+3887	outrage	vt.	凌辱，引起…义愤
+3888	enrage	vt.	激怒
+3889	mirage	n.	海市蜃楼；幻想
+3890	sewerage	n.	排水设备，污水
+3891	forage	n.	草料
+3892	ragged	adj.	褴褛的，破烂的
+3893	ragtime	n.	拉格泰姆音乐
+3894	raid	n.	袭击
+3895	braid	vt.	编织
+3896	rainfall	n.	降雨；降雨量
+3897	rally	v.	召集，集合
+3898	rampant	adj.	蔓生的，猖獗的
+3899	ranch	n.	农场，牧场
+3900	ranching	adj.	放牧的
+3901	rancher	n.	大农场经营者；牧场工人
+3902	range	n.	行列；范围
+3903	a range of	词组	一系列的东西
+3904	range from…to	词组	从…到…范围不等
+3905	rank	vt.	排列，归类
+3905	 	n.	等级
+3906	rare	adj.	稀有的
+3907	rarefy	vt.	使稀少，使稀薄
+3908	rarely	adv.	很少地，罕有地
+3909	ratify	vt.	批准
+3910	ration	n.	定量，配给量
+3910	 	vt.	定量配给
+3911	rationing	n.	（食物等的）配给
+3912	rational	adj.	理性的，合理的
+3913	rattle	n.	拨浪鼓；格格声
+3914	rattlesnake	n.	响尾蛇
+3915	raucous	adj.	沙哑的；喧嚣的
+3916	raven	n.	大乌鸦
+3916	 	v./n.	掠夺
+3917	ravine	n.	沟壑，峡谷
+3918	ray	n.	光线
+3919	rayon	n.	人造丝, 人造纤维
+3920	crayon	n.	蜡笔、彩笔及其绘画
+3921	fray	vt.	使磨损
+3922	foray	n.	袭击
+3923	tray	n.	碟，盘子
+3924	array	n.	编队；大批
+3925	betray	vt.	出卖，背叛
+3926	spray	vt.	喷射，喷溅
+3927	raze	vt.	夷为平地
+3928	graze	v.	放牧，吃草
+3929	craze	n.	狂热
+3930	readily	adv.	容易地；欣然地，立刻地
+3931	readjust	vt.	重新调整
+3932	realization	n.	实现；意识
+3933	realm	n.	王国，领域
+3934	reap	vt.	收割，收获
+3935	rear	vt.	培养，饲养
+3935	 	n.	后面
+3936	rebel	n.	叛徒
+3936	 	v.	谋反
+3937	rebellion	n.	谋反，叛乱
+3938	rebellious	adj.	造反的，反叛的
+3939	rebuke	vt.	斥责，谴责
+3940	recall	vt.	忆起，记忆
+3941	receptacle	n.	容器；贮藏所，仓库
+3942	reception	n.	接待；招待会
+3942	 	n.	接收
+3943	receptionist	n.	招待员
+3944	receptive	adj.	善于接受的，能接纳的
+3945	receptor	n.	接受器，感受器
+3946	recession	n.	萧条时期，（经济）衰退
+3947	recipe	n.	食谱，处方
+3948	recipient	n.	接受者，接收方
+3949	recital	n.	独奏会
+3950	reckless	n.	轻率的，鲁莽的
+3951	reckon	vt.	计算；估计，猜想
+3952	reclaim	vt.	开垦；要求归还，收回
+3953	recognize	vt.	识别，辨认
+3953	 	vt.	公认，赏识
+3954	recognition	n.	赞誉，承认
+3955	recoil	vi.	弹回，反冲
+3956	recollection	n.	回忆，记忆
+3957	recommend	vt.	推荐
+3957	 	vt.	劝告
+3958	recommendation	n.	推荐，介绍（信）
+3959	reconstruct	vt.	重建，改进
+3960	reconstruction	n.	复兴，改造，再建
+3961	recount	vt.	叙述，描写
+3962	recreation	n.	消遣，娱乐
+3963	recreational	adj.	娱乐的
+3964	recruit	vt.	征兵，征募；补充
+3965	rectangle	n.	长方形
+3966	rectangular	adj.	矩形的，长方形的
+3967	rectify	vt.	矫正
+3968	recur	vi.	重现，再来；复发
+3969	recurring	adj.	往复的，再次发生的
+3970	recycle	vt.	使再循环，再利用
+3971	redirect	v.	（信件）重寄；使改变方向
+3972	reed	n.	芦苇
+3973	refine	vt.	精炼，精制
+3974	refined	adj.	优雅的；精制的
+3975	refinement	n.	（言语、举止等的）文雅，精巧
+3976	reflection	n.	反映
+3977	reform	n./v.	改革，革新
+3978	reformer	n.	改革家，改革运动者
+3979	reformism	n.	改革主义
+3980	refraction	n.	折光，折射
+3981	refreshing	adj.	提神的,凉爽的;使人耳目一新的
+3982	refreshment	n.	茶点；提神之事物
+3983	refrigerate	vt.	使冷却，冷藏
+3984	refrigerator	n.	冰箱，冷藏库
+3985	refrigeration	n.	冷藏，冷却
+3986	refrigerant	n.	制冷剂
+3987	refurbish	vt.	刷新，再磨光
+3988	refute	vt.	反驳
+3989	regardless	adj.	不管，不顾，不注意
+3990	regardless of	词组	不管，不论
+3991	regenerate	vt.	使再生，新生；更新
+3992	regeneration	n.	（灵魂）重生，新生
+3993	regime	n.	政权，政体；政治制度
+3994	regimentation	n.	系统化，组织化；团队精神
+3995	register	vt.	登记
+3996	regulate	vt.	管制，控制
+3996	 	vt.	调节
+3997	regulatory	adj.	按规矩来的，规章的，调节的
+3998	regulation	n.	规则，规章
+3999	rehabilitate	vt.	使(身体)康复；使复职；使复元
+4000	rehabilitation	n.	恢复，复员
+4001	rehearse	vt.	预演，排练
+4002	reign	n./vi.	统治，支配
+4003	reigning	adj.	统治的，起支配作用的
+4004	sovereignty	n.	统治权，主权
+4005	reimburse	vt.	偿还
+4006	reinforce	vt.	加强
+4007	reinterpretation	n.	重新解释，纠正性说明
+4008	reiterate	vt.	重申，反复地说
+4009	reject	vt.	拒绝，抵制
+4010	rejection	n.	拒绝
+4011	rejuvenate	v.	(使)返老还童；(使)恢复活力
+4012	rekindle	vt.	再点火；使再振作
+4013	relax	v.	（使）松弛，放松
+4014	relaxed	adj.	不拘束的；悠闲的
+4015	relaxation	n.	松弛，缓和
+4016	relay	vt.	分程传递；传播
+4017	release	v./n.	释放
+4018	relevant	adj.	有关的，切题的
+4019	relevance	n.	相关
+4020	nonrelevant	adj.	非关联的，非相关的
+4021	irrelevant	adj.	不相关的，不切题的
+4022	reliable	adj.	可靠的，可信赖的
+4023	reliant	adj.	依靠的，信赖自己的
+4024	reliance	n.	依靠；依靠的人或物
+4025	reliability	n.	可靠性
+4026	relic	n.	遗迹，纪念物
+4027	relieve	vt.	减轻
+4028	relieved	adj.	放心的；免除的
+4029	religion	n.	宗教
+4030	religious	adj.	信奉宗教的，虔诚的
+4031	reluctant	adj.	不情愿的，勉强的
+4032	remainder	n.	残余，剩余物
+4033	remaining	n.	剩余，残余
+4034	remark	n.	评论，注释
+4034	 	v.	评论；谈及
+4035	remarkable	adj.	显著的，值得注意的
+4036	remarkably	adv.	显著地，引人注目地
+4037	remedy	n.	药物
+4037	 	vt.	治疗；补救
+4038	remind	vt.	提醒，使记得
+4039	reminder	n.	提醒者
+4040	remnant	n.	残余，遗迹
+4041	romote	adj.	遥远的，偏僻的
+4042	renaissance	n.	复活；文艺复兴
+4043	render	vt.	给予，提供
+4044	rendering	n.	表现，描写
+4045	surrender	v.	交出，放弃；投降
+4046	rendition	n.	表演，演唱
+4047	renew	vt.	使更新，使恢复；重新开始
+4048	renewal	n.	更新；复兴
+4049	renewable	adj.	可更新的，可恢复的
+4050	renounce	vt.	声明放弃；宣布断绝关系
+4051	renunciation	n.	放弃；宣布终止
+4052	renovate	vt.	革新；修理，修复
+4053	renovation	n.	修复，整修
+4053	 	n.	革新；修理，修复
+4054	rent	n.	租金，租费
+4054	 	v.	租，出租
+4054	 	adj.	分裂的，有矛盾的
+4055	rentable	adj.	可出租的
+4056	rental	n.	租金额；租赁，出租
+4057	reorient	v.	重新确定方向；再教育
+4058	repel	vt.	击退，驱逐
+4059	repertoire	n.	（剧团等）常备剧目，保留剧目
+4060	repertory	n.	全部剧目；储备，库存；仓库
+4061	repetition	n.	重复
+4062	replace	vt.	代替，取代
+4063	replenish	vt.	补充，把…再备足
+4064	replica	n.	复制品
+4065	replicate	vi.	复制
+4066	represent	vt.	代表；描绘，表现
+4067	representation	n.	表示，表现
+4068	representative	n.	代表
+4068	 	adj.	典型的，有代表的
+4069	repress	vt.	抑制，镇压
+4070	reproductive	adj.	生殖的
+4071	reproduce	v.	繁殖，再生；复制
+4072	reproduction	n.	复制品；繁殖
+4073	reptile	n.	爬行动物
+4074	repulse	vt.	击退
+4074	 	vt.	拒绝，排斥；憎恶
+4075	repute	n.	名声
+4076	reputed	adj.	名誉好的，被称为…的，有…名气的
+4077	disrepute	n.	坏名声，不光彩
+4078	rescue	vt.	援救，救援
+4079	resemble	vt.	像，类似
+4080	resemblance	n.	相似，酷肖
+4081	resent	vt.	愤怒，怨恨
+4082	resentful	adj.	忿恨的，怨恨的
+4083	reserve	vt.	储备；保留，预定
+4084	be reserved to	词组	留作…只用
+4085	preserve	vt.	保护，保存
+4086	reservoir	n.	水库, 蓄水池
+4087	reside	vi.	居住
+4088	resident	n.	居民
+4089	residential	adj.	住宅的，与居住有关的
+4090	residence	n.	居住，住处
+4091	residue	n.	剩余，残余，渣滓
+4092	residual	adj.	剩余的，残留的
+4093	resist	vt.	抵抗
+4093	 	vt.	不受…影响，抗，耐
+4094	resistant	adj.	抵抗的，有抵抗力的
+4095	resistance	n.	反抗，抵抗；抵抗力，阻力
+4096	irresistible	adj.	不可抵抗的, 不能压制的
+4097	resolute	adj.	坚决的，毅然的
+4098	resolve	vt.	解决
+4099	resolution	n.	坚定;决定,解决;分辨率,解析度
+4100	resonance	n.	回声，反响
+4101	resort	n.	旅游胜地
+4101	 	n./v.	凭借，求助于
+4102	resource	n.	资源，财力；办法，智谋
+4103	respect	n./v.	尊敬，敬重
+4103	 	n.	方面
+4104	aspect	n.	（问题等）方面；样子，外表
+4105	disrespect	n.	失礼，无礼
+4106	respective	adj.	分别的，各自的
+4107	respectively	adv.	分别地，各个地
+4108	respiration	n.	呼吸
+4109	respiratory	adj.	呼吸的
+4110	respond	vi.	回答，反应
+4111	correspond	vi.	符合，协调；通信
+4112	correspondence	n.	通信，信件
+4112	 	n.	相应，对应
+4113	corresponding	adj.	相应的
+4114	responsible	adj.	有责任的
+4114	 	adj.	负责的；可依赖的
+4115	responsibility	n.	责任，职责
+4116	irresponsible	adj.	不负责任的，不可靠的
+4117	responsive	adj.	响应的，做出相应的
+4118	restore	vt.	使恢复；整修，修复
+4119	restoration	n.	恢复；翻新
+4120	restraint	n.	抑制，克制
+4121	restrain	vt.	克制，抑制
+4122	unrestrained	adj.	无限制的
+4123	restrict	vt.	限制，约束
+4124	restriction	n.	限制，约束
+4125	restrictive	adj.	限制性的
+4126	unrestricted	adj.	无限制的，自由的
+4127	retail	adj.	零售的
+4128	retailer	n.	零售商
+4129	tailor	n.	裁缝师
+4130	retain	vt.	保持，保留
+4131	retentive	vt.	保留的，有记忆的
+4132	retire	vi.	退休，引退
+4133	retirement	n.	退休
+4134	retool	vt.	将机械重新整备，重组
+4135	retract	vt.	缩回，撤回
+4135	 	vt.	收回，取消
+4136	retreat	n.	消退，退却
+4136	 	n.	隐退处
+4136	 	vi.	撤退，退却
+4137	retrieve	v.	重新找回，取回；找回猎物
+4138	retriever	n.	能把猎物找回来的猎狗的一种
+4139	retrospect	n.	反顾，回顾
+4140	retrospective	adj.	回顾的，怀旧的
+4141	reveal	vt.	展现；揭露
+4142	revere	vt.	尊崇，尊敬
+4143	revered	adj.	可敬的，尊敬的
+4144	reverently	adv.	虔诚地
+4145	irreverent	adj.	不尊敬的
+4146	irreverence	n.	不尊敬
+4147	reverse	vt.	颠倒，翻转
+4147	 	n.	背面
+4147	 	adj.	相反的，倒转的
+4148	reversible	adj.	可逆的，可翻转的
+4149	irreversible	adj.	不能撤回的，不能取消的
+4150	revise	vt.	修改，修订
+4151	revision	n.	修订，校订
+4152	revitalization	n.	新生，复兴
+4153	revive	vt.	使复活；使振奋
+4154	revival	n.	复兴，复活
+4155	revolt	n./v.	反抗，起义，反叛
+4156	revolutionize	vt.	大事改革；在…方面发动革命
+4157	revolution	n.	革命
+4158	revolutionary	adj.	革命的
+4159	rhetoric	n.	修辞；修辞学
+4160	rhythm	n.	节奏，韵律
+4161	rhythmic	adj.	有节奏的，有韵律的
+4162	rhythmical	adj.	有韵律的，有节奏的
+4163	ridge	n.	脊，山脊
+4164	ridiculous	adj.	荒唐的，可笑的
+4165	ridicule	v.	嘲笑
+4166	rifle	n.	来复枪，步枪
+4167	rift	n.	裂缝；断裂，长峡谷
+4168	drift	n.	冲洗，漂流物   v.  （使）漂流
+4169	driftwood	n.	流木，浮木
+4170	snowdrift	n.	随风飘飞的雪
+4171	rigid	adj.	坚硬的，不易弯曲的
+4171	 	adj.	严格的
+4172	frigid	adj.	寒冷的；冷淡的
+4173	rigidity	n.	僵化，死板
+4173	 	n.	刚性，硬度
+4174	rigorous	adj.	严格的
+4175	rigor	n.	严酷；严格，严厉
+4176	rinse	v.	用清水冲洗；漱
+4177	riot	n.	暴动，骚乱
+4178	rip	vt.	撕，撕裂
+4179	drip	n.	水滴；  v. （使）滴下
+4180	dripstone	n.	滴水石；滤石
+4181	ripe	adj.	熟的；成熟的
+4182	ripen	v.	（使）成熟
+4183	risky	adj.	危险的，冒险的
+4184	frisky	adj.	活泼的，欢闹的
+4185	briskness	n.	敏捷，活泼
+4186	rite	n.	仪式
+4187	ritual	n.	典礼,宗教仪式；例行公事,常规
+4187	 	adj.	典礼的，宗教仪式的
+4188	rival	vt.	比得上，与…相匹敌
+4188	 	adj.	竞争的
+4188	 	n.	竞争者；匹敌者
+4189	rivalry	n.	竞争；敌对状态
+4190	roam	vi.	漫游，漫步
+4191	roar	n.	吼，轰鸣
+4192	roast	vt.	烤，烘
+4193	robust	adj.	强壮的，健壮的
+4194	rod	n.	杆；枝
+4195	role	n.	角色，任务
+4196	roll	v.	滚动
+4196	 	n.	（一）卷，卷形物
+4197	roost	n.	栖息处，鸟巢
+4197	 	v.	栖息
+4198	rooster	n.	公鸡
+4199	rotate	v.	轮流
+4199	 	v.	（使）旋转
+4200	rotation	n.	旋转
+4201	rote	n.	死记硬背，生搬硬套
+4202	rough	adj.	粗糙的；不平的
+4203	roughly	adv.	概略地；大致地
+4204	routine	n.	常规，惯例
+4204	 	adj.	常规的，日常的
+4205	routinely	adv.	例行公事地
+4206	rubbery	adj.	橡胶似的，有弹性的
+4207	rubble	n.	（一堆）碎石，瓦砾
+4208	pebble	n.	小圆石，小鹅卵石
+4209	rudimentary	adj.	基本的；初步的，发展未完全的
+4210	rugged	adj.	高低不平的；崎岖的
+4211	ruin	v.	破坏，毁灭
+4212	ruins	n.	废墟，遗迹
+4213	rumble	v.	发出低沉的隆隆声
+4213	 	n.	隆隆声，辘辘行驶声
+4214	rupture	n./v.	断裂，断绝
+4215	rural	adj.	农村的，乡下的，田园的
+4216	urban	adj.	都市的
+4217	rust	n.	锈，生锈
+4217	 	n.	（植物）患锈病
+4218	rustic	adj.	乡村的，乡下风格的
+4219	rustproof	adj.	不锈的
+4220	sac	n.	（生物）囊，液囊
+4221	sack	n.	袋，麻袋
+4222	knapsack	n.	(用的帆布或皮制的)背包
+4223	sacred	adj.	宗教的；祭祀的
+4223	 	adj.	神圣的，不可冒犯的
+4224	saddle	n.	鞍子，马鞍
+4225	saga	n.	英雄传奇
+4226	sake	n.	缘故；原因
+4227	salient	adj.	显著的，突出的
+4228	saline	adj.	含盐的，咸的
+4229	saliva	n.	口水，唾液
+4230	salinity	n.	盐分，盐度
+4231	saltiness	n.	盐度
+4232	desalination	n.	脱盐作用
+4233	sample	n.	范例，样品
+4234	sanctimonious	adj.	假装神圣的，伪装虔诚的
+4235	sanction	n.	制裁
+4235	 	n.	批准，认可
+4236	sanctuary	n.	避难所；动物保护区
+4236	 	n.	圣所，圣殿
+4237	infirmary	n.	医院, 医务室<美>养老院, 救济院
+4238	sandy	adj.	沙的，多沙的
+4239	sanitation	n.	（公共、环境）卫生，卫生设施
+4240	sanitary	adj.	（有关）卫生的
+4241	sap	n.	树液，汁液
+4241	 	v.	使衰竭
+4242	sapphire	n.	蓝宝石
+4243	sarcastic	adj.	讽刺的，挖苦的
+4244	satire	n.	讽刺；讽刺文学
+4245	satiric	adj.	讽刺的，挖苦的
+4246	satirist	n.	讽刺作家
+4247	satisfactory	adj.	令人满意的，符合要求的
+4248	unsatisfactory	adj.	令人不满意的
+4249	saturate	vt.	浸透，使湿透
+4250	saturated	adj.	渗透的, 饱和的
+4251	saucer	n.	茶碟，垫盘
+4252	save	vt.	拯救；保留
+4252	 	prep.	除…之外
+4253	savings	n.	储蓄，存款
+4254	lifesaver	n.	救生者, 水难救生员
+4255	scale	vt.	攀登
+4255	 	n.	等级，刻度；规模
+4255	 	n.	鱼鳞，鳞片
+4256	scaled	adj.	有鳞状斑点的，有鳞的
+4257	upscale	adj.	高消费阶层的
+4258	scan	vt.	扫描；细看，审视
+4259	scapegoat	n.	替罪羊，代人受过的人
+4260	scarce	adj.	缺乏的，稀有的，罕见的
+4261	scarcely	adv.	几乎不，简直没有
+4262	scare	vt.	惊吓，使受惊
+4263	scarlet	adj.	猩红的，鲜红的
+4264	scatter	vt.	使分散，扩散
+4265	scavenger	n.	清道夫，食腐动物
+4266	scene	n.	地点，现场；景色
+4267	scenery	n.	风景，景色
+4268	scenic	adj.	风景如画的
+4269	scent	n.	气味；香味
+4270	ascent	n.	上升，攀登
+4271	descent	n.	降下，降落；世系，血统
+4272	quiescent	adj.	静止的
+4273	incandescent	adj.	遇热发光的, 白炽的
+4274	fluorescent	adj.	荧光的, 莹光的
+4275	adolescent	n.	青少年
+4276	schedule	n.	时间表；计划表
+4276	 	vt.	预定，安排
+4277	reschedule	v.	重新计划, 重订...的时间表
+4278	scheme	n.	方案
+4278	 	n.	阴谋
+4279	scholar	n.	学者
+4280	scholarship	n.	奖学金
+4281	scholarly	adj.	学者气质的，学术的
+4282	scissors	n.	剪刀
+4283	scope	n.	范围，界限
+4284	microscope	n.	显微镜
+4285	telescope	n.	望远镜
+4286	score	n.	分数，得分；刻痕，划痕
+4286	 	n.	乐谱
+4286	 	v.	记分
+4287	scotch	v.	镇压，粉碎
+4288	Scotch	adj.	苏格兰的
+4289	scour	vt.	冲刷，擦掉
+4290	scout	n.	侦察；侦察员
+4290	 	vt.	侦察
+4291	scramble	vt.	搅乱，使混杂
+4291	 	v.	攀爬
+4292	amble	vi.	缓行，漫步
+4293	scrap	n.	废料，残余物
+4293	 	vt.	废弃，扔弃
+4294	scrape	n.	刮，擦；擦痕
+4294	 	vi.	刮掉，擦掉；vt. 刮，擦，擦伤
+4295	scraping	n.	刮削下的碎屑
+4296	scratch	vt.	搔，抓，擦
+4296	 	n.	划痕
+4297	screen	n.	屏幕
+4297	 	vt.	甄别，审察；掩盖
+4298	screw	n.	螺旋，螺钉
+4298	 	v.	旋紧，拧紧
+4299	screwdriver	n.	螺丝刀
+4300	scruple	n.	踌躇；顾忌
+4301	scrupulously	adv.	小心翼翼地
+4302	unscrupulously	adv.	肆无忌惮地，无道德的
+4303	scuba	n.	水中呼吸器
+4304	sculpture	n.	雕塑；雕刻品
+4305	sculpt	vt.	雕刻，造型
+4306	sculptor	n.	雕刻家
+4307	sculptural	adj.	雕刻的，雕刻般的
+4308	sea cucumber	词组	海参
+4309	cucumber	n.	黄瓜
+4310	seam	n.	接缝，缝合线
+4311	seamen	n.	海员
+4312	seabed	n.	海底，海床
+4313	seamount	n.	海底山
+4314	seaport	n.	海港，港口
+4315	seashore	n.	海岸，海滨
+4316	seaweed	n.	海草，海藻
+4317	seasoning	n.	调味品，调料
+4318	seasonal	adj.	季节的，季节性的
+4319	unseasonably	adv.	不合时令地，不合时宜地
+4320	seclusion	n.	独处，隐居
+4321	seclude	vt.	使隔离，使孤立
+4322	secondary	adj.	中级的
+4322	 	adj.	次要的，伴随的
+4323	secrete	vt.	分泌；隐匿，使隐秘
+4324	secretin	n.	分泌素
+4325	oversecretion	n.	分泌过多
+4326	secret	n.	秘密
+4327	sect	n.	宗派，教派
+4328	sector	n.	扇形面；地区
+4329	section	n.	部分，节
+4330	sectional	adj.	部分的，部门的
+4331	subsection	n.	分部，分段
+4332	intersected	adj.	分割的
+4333	intersection	n.	十字路口, 交叉点
+4334	secular	adj.	世俗的，尘世的
+4335	secure	vt.	使安全，保卫
+4335	 	vt.	获得
+4335	 	adj.	安全的；确定无疑的
+4336	securely	adv.	安心地, 安全地
+4337	security	n.	安全
+4338	sedentary	adj.	（人或动物）土生的，不迁徙的
+4338	 	adj.	（工作）坐着做的（不需运动）
+4339	sediment	n.	沉积物，沉淀物
+4340	sedimentary	adj.	沉积的，沉淀性的
+4341	seduce	vt.	勾引，诱惑
+4342	seedling	n.	秧苗, 树苗
+4343	seemingly	adv.	表面上，似乎
+4344	segment	n.	部分；片断
+4345	segregate	vt.	分离，隔离
+4346	seismic	adj.	地震的；由地震引起的
+4347	seismology	n.	地震学
+4348	seismograph	n.	地震仪
+4349	selection	n.	选择, 挑选；选集, 精选品
+4350	self-sufficient	adj.	自给自足的
+4351	semimolten	adj.	半熔化的
+4352	semester	n.	学期
+4353	senator	n.	参议员
+4354	sensational	adj.	极好的，绝妙的；引起轰动的
+4355	sensation	n.	感觉，知觉
+4356	sensible	adj.	明智的，合理的
+4356	 	adj.	可感觉到的，明显的
+4357	sensibility	n.	敏感性，感性
+4358	sensitive	adj.	灵敏的
+4358	 	adj.	敏感的，易受影响的
+4359	sensitivity	n.	敏感
+4360	hypersensitive	adj.	非常敏感的
+4361	photosensitive	adj.	[物] 感光性的
+4362	sensory	adj.	感觉的，感官的
+4363	sentimental	adj.	感伤性的, 感情脆弱的
+4364	sentimentalize	v.	伤感
+4365	sentimentalism	n.	感情主意，感情用事
+4366	sequence	n.	序列；顺序
+4367	consequence	n.	结果
+4368	serene	adj.	平静的，安详的
+4369	serious	adj.	严肃的，认真的
+4369	 	adj.	严重的
+4370	seriously	adv.	认真地；庄重地
+4371	serrated	adj.	锯齿状的
+4372	setting	n.	背景，环境；装置
+4373	set aside for	词组	专门留出时间做…
+4374	sewerage	n.	排水系统
+4375	sewer	n.	下水道；裁缝师
+4376	shade	n.	阴，阴凉处；阴影
+4376	 	n.	遮光物，帘
+4377	lampshade	n.	灯罩
+4378	shaft	n.	杆状物，轴
+4379	shallow	adj.	浅的
+4380	sharpen	vt.	消尖；使敏锐，使敏捷
+4381	sharply	adv.	突然地，猛烈地
+4382	shatter	v.	使粉碎，破碎
+4383	shear	v.	剪，修剪，剪切
+4383	 	n.	shears  剪刀
+4384	sheath	n.	鞘，外壳
+4385	shed	vt.	脱落，蜕
+4385	 	vt.	流出；发散
+4385	 	n.	棚，小屋
+4386	sheer	adj.	陡峭的
+4386	 	adj.	纯粹的，绝对的
+4387	shell	n.	壳
+4387	 	vt.	去壳，脱落
+4388	eggshell	n.	蛋壳
+4389	shellfish	n.	贝，有壳的水生动物
+4390	shelter	n.	掩蔽处；庇护所
+4390	 	vt.	掩蔽
+4391	sheltered	adj.	遮蔽的
+4392	shepherd	n.	牧羊人；牧羊犬
+4393	shield	v.	庇护，保护
+4393	 	n.	盾；保护物
+4394	shift	v.	移动，改变位置或方向
+4394	 	n.	轮班
+4394	 	n.	转移；改变
+4395	shifting	adj.	变动的；运动的
+4396	shine	vi.	照耀，发光
+4397	shining	adj.	发亮的，华丽的
+4398	shiny	adj.	有光泽的，发光的
+4399	sunshine	n.	阳光
+4400	shingle	n.	鹅卵石；木瓦板；小招牌
+4401	shipment	n.	装运；装载的货物
+4402	shipwright	n.	造船工人
+4403	wright	n.	建造者，制造者
+4404	playwright	n.	剧作家
+4405	shock	n.	震动，震惊
+4405	 	vt.	震惊，激怒
+4406	shocking	adj.	骇人听闻的
+4407	shocked	adj.	震惊的，震撼的
+4408	shortcut	n.	捷径
+4409	short-range	adj.	近程的
+4410	shot	n.	照相，照片
+4410	 	n.	开枪，射击
+4411	shrink	vi.	收缩，缩小
+4412	shrinkage	n.	收缩
+4413	shrivel	v.	（使）枯萎
+4414	shrub	n.	灌木；灌木丛
+4415	shuffle	vt.	洗牌
+4416	shuffle the deck	词组	洗牌
+4417	shutter	n.	(pl)百叶窗
+4418	shuttle	n.	梭子；往返汽车
+4418	 	v.	穿梭往返
+4419	shy	adj.	害羞的；胆小的
+4420	shyness	n.	羞怯，胆怯
+4421	flashy	adj.	浮华的
+4422	marshy	adj.	沼泽般的，湿软的
+4423	sick	adj.	不舒服的，有病的；恶心的
+4424	homesick	adj.	思家的，思乡病的
+4425	airsickness	n.	晕机
+4426	sickness	n.	疾病；呕吐
+4427	sidestep	v.	横跨一步躲闪；回避(困难)
+4428	sideways	adv.	向一旁，向侧面地
+4429	significant	adj.	有意义的；重要的，重大的
+4430	significance	n.	意义，含义；重要性
+4431	insignificant	adj.	无关紧要的, 可忽略的, 无意义的
+4432	signify	vt.	表示，意味
+4433	silica	n.	硅石，硅土
+4434	silicate	n.	[化]硅酸盐
+4435	silly	adj.	愚蠢的；糊涂的；傻的
+4436	silt	n.	淤泥
+4437	silversmith	n.	银器匠
+4438	blacksmith	n.	铁匠
+4439	simplicity	n.	简单；朴素
+4440	simulate	vt.	模拟，模仿
+4441	simultaneous	adj.	同时的, 同时发生的
+4442	sinuous	adj.	蜿蜒的，迂回的
+4443	skeleton	n.	骨架；纲要
+4444	skeptical	adj.	怀疑的；多疑的
+4445	skepticism	n.	怀疑
+4446	sketch	n.	草图；素描
+4446	 	vt.	打草稿；素描
+4447	skimp	v.	节省，节俭；吝啬
+4448	skip	v.	跳
+4448	 	v.	逃过；遗漏
+4449	skip class	词组	旷课
+4450	skull	n.	头骨
+4451	skyrocket	vi.	猛涨，突增
+4452	skyscraper	n.	摩天大楼
+4453	slab	n.	（四边形的厚物质）板，片
+4454	slander	n./v.	诽谤
+4455	slash	vt.	大量消减
+4456	slender	adj.	苗条的；纤细的
+4457	slice	n.	薄片；部分，份
+4457	 	vt.	切成薄片，切下
+4458	slide	v.	（使）滑动，（使）滑行
+4458	 	n.	幻灯片；滑，滑动
+4459	landslide	n.	[地]山崩
+4460	slight	adj.	轻微的；微小的，微不足道的
+4461	slightly	adv.	些微地
+4462	slime	n.	黏土；黏液
+4463	slimy	adj.	黏糊糊的；（分泌）黏液的
+4464	slip	n.	片，纸片
+4464	 	n.	滑倒；事故
+4464	 	v.	滑动；滑倒
+4465	slip one's mind	词组	忘记
+4466	slipper	n.	拖鞋
+4467	slippery	adj.	（物体表面）滑的，光滑的
+4468	slope	n.	斜坡，斜面
+4469	sloping	adj.	倾斜的，有坡度的
+4470	sloth	n.	树懒；怠惰，懒惰
+4471	slothful	adj.	迟钝的，懒惰的
+4472	slow breeding	词组	养育起来很慢的
+4473	sluggish	adj.	行动迟缓的；不活泼的
+4474	slum	n.	贫民窟
+4475	slumber	n.	睡眠
+4476	smart	adj.	巧妙的，聪明的
+4477	smelting	n.	冶炼
+4478	smog	n.	烟雾
+4479	smoothly	adv.	平稳地；顺利地
+4480	smother	vt.	使窒息
+4480	 	vt.	熄灭；覆盖
+4481	smuggle	vt.	走私
+4482	snap	v.	突然折断
+4482	 	v.	突然抓住或握住
+4483	snippet	adj.	小片，片段；摘录
+4484	snowflake	n.	雪花
+4485	flake	n.	薄片   vt. 使成薄片
+4486	snug	adj.	温暖舒适的
+4487	sociable	adj.	好交际的，友善的
+4488	social distinction	词组	具有明显的社会身分或地位
+4489	solar	adj.	太阳的
+4490	solar cell	词组	太阳能电池
+4491	solder	vt.	焊接，焊在一起
+4492	soldier	n.	军人，士兵
+4493	sole	adj.	单独的，惟一的
+4493	 	n.	鞋底
+4494	solely	adv.	独自地，单独地
+4495	solemn	adj.	严肃的；庄严的，隆重的
+4496	solicit	vt.	恳求，乞求
+4497	solicitor	n.	律师，法律顾问
+4498	solidarity	n.	团结，团结一致
+4499	solidify	vt.	使凝结，使团结，使巩固
+4500	solitary	adj.	孤独的；独居的
+4501	solitude	n.	孤独；独处
+4502	solo	n.	独奏曲
+4502	 	adj.	单独的
+4503	soloist	n.	独奏者，独唱者
+4504	soluble	adj.	可溶的，可溶解的
+4505	solution	n.	解答，解决
+4505	 	n.	溶液
+4506	resolution	n.	分辨率
+4507	somewhat	adv.	稍微，有点
+4508	soothe	vt.	使（某人情绪）平静，安慰；使（痛苦，疼痛）缓和或减轻
+4509	sophisticated	adj.	(事物)复杂的；(人)久经事故的
+4510	unsophisticated	adj.	不懂世故的, 单纯的
+4511	sophistication	n.	老练；精致复杂
+4512	sort	n./v.	种类，分类
+4513	soundproof	vt.	使隔音
+4513	 	adj.	隔音的
+4514	sour	adj.	酸的
+4515	souvenir	n.	纪念品
+4516	sovereignty	n.	主权，统治权
+4517	sovereign	n.	君主；统治
+4517	 	adj.	独立自主的
+4518	sow	vt.	播种
+4519	soybean	n.	大豆
+4520	bean	n.	豆子
+4521	soy	n.	大豆
+4522	spaceship	n.	宇宙飞船
+4523	spacecraft	n.	宇宙飞船
+4524	space shuttle	n.	航天飞机
+4525	spacious	adj.	广大的，宽敞的
+4526	span	n.	跨度；一段时间
+4526	 	vt.	跨越
+4527	spangle	v.	（使）闪烁
+4528	spanking	adj.	强烈的，疾行的
+4529	wingspan	n.	[空]翼展
+4530	spare	adj.	多余的，备用的
+4530	 	vt.	节约，节省
+4530	 	n.	剩余，备用品
+4531	sparingly	adv.	节俭地，保守地
+4532	sparrow	n.	麻雀
+4533	spark	n.	火花，火星
+4533	 	vt.	发动，激起
+4534	sparse	adj.	稀少的；稀疏的
+4535	sparsely	adv.	稀疏地，稀少地
+4536	spawn	v.	产卵，大量生育
+4536	 	v.	造成，酿成
+4537	specialized	adj.	专业的，专门的
+4538	species	n.	类群，种类
+4539	subspecies	n.	[生]亚种
+4540	specify	vt.	明确说明；具体指定
+4541	specified	adj.	特定的
+4542	specific	adj.	具体的，特指的
+4543	specification	n.	规格，详细说明书
+4544	specimen	n.	标本，样品
+4545	speck	n.	斑点
+4546	flyspeck	n.	蝇粪留下的污点, 污点
+4547	spectacle	n.	奇观；展示，景象
+4548	spectacular	adj.	引人入胜的，壮观的
+4549	spectacularly	adv.	引人入胜地
+4550	spectator	n.	参观者，观众
+4551	spectrum	n.	谱，光谱
+4552	spectra	n.	光谱
+4553	speculate	v.	推测；沉思
+4554	speedy	adj.	快的，迅速的
+4555	sphere	n.	球体
+4556	spherical	adj.	球的，球状的
+4557	hemisphere	n.	半球
+4558	chromosphere	n.	色球
+4559	magnetosphere	n.	磁气圈
+4560	lithosphere	n.	[地]岩石圈
+4561	photosphere	n.	光球
+4562	hydrosphere	n.	水圈, 水气, 水界
+4563	ionosphere	n.	电离层
+4564	spill	vi.	溢出
+4564	 	n.	溢出，溅出
+4565	pill	n.	药丸
+4566	spine	n.	脊骨；书脊；刺
+4567	spinal	adj.	脊骨的，脊髓的
+4568	spinal cord	词组	脊髓
+4569	spined	adj.	有脊骨的，有脊柱的
+4570	spiny	adj.	多刺的，刺状的
+4571	spinet	n.	小型立式钢琴
+4572	spinach	n.	菠菜
+4573	spinning	adj.	旋转的
+4574	spiral	adj.	螺旋形的，盘旋的
+4574	 	v.	盘旋
+4575	spiritual	adj.	精神上的
+4576	splash	v.	溅，泼
+4577	splendor	n.	壮丽，辉煌
+4578	split	v.	劈开，（使）裂开；分开
+4579	spoil	v.	损坏；腐烂
+4579	 	v.	宠爱，溺爱
+4580	spoilage	n.	（食物等）变质，损坏
+4581	unspoiled	adj.	未损坏的
+4582	despoiler	n.	掠夺者
+4583	sponge	n.	海绵
+4584	spontaneous	adj.	自发的，自然产生的
+4585	spontaneously	adv.	自然地, 本能地
+4586	spontaneity	n.	自然，自发
+4587	spoon	n.	匙，勺子
+4588	spot	n.	地点，场所
+4588	 	v.	发觉，发现
+4589	spotless	adj.	没有污点的
+4590	spotlight	v.	强调，突出     n. 重点
+4591	highlight	vt.	使显著，突出
+4591	 	n.	最显著（重要）部分
+4592	sprawl	vi.	散乱地延伸
+4592	 	vi.	四肢摊开着坐、卧或倒下
+4592	 	n.	扩展，蔓延
+4593	spray	n.	喷雾，飞沫
+4593	 	vt.	向…喷射，喷
+4594	spring	n.	泉；弹簧
+4594	 	v.	跳跃
+4595	spring up	词组	出现，产生
+4596	springtime	n.	春天，春季
+4597	springwater	n.	天然泉水
+4598	offspring	n.	(单复数同形)子孙, 后代
+4599	mainspring	n.	(钟表的)主发条
+4600	sprout	vi.	长出，萌芽
+4601	spur	n.	踢马刺
+4601	 	vt.	刺激，鞭策
+4602	squarely	adv.	坚实的，坚固地
+4603	squash	n.	南瓜
+4603	 	v.	压碎，挤压；镇压
+4604	squeeze	vt.	榨；挤进，塞进
+4605	squirrel	n.	松鼠
+4606	squirt	vi.	喷出，溅进
+4607	stable	adj.	稳定的，相对固定的
+4608	stability	n.	稳定性
+4609	stabilize	vt.	使稳定，使坚固
+4610	stack	vt.	堆积
+4610	 	n.	堆
+4611	staff	n.	全体人员或职员
+4612	stagecoach	n.	公共马车
+4613	coach	n.	教练
+4613	 	n.	四轮大马车
+4614	stagger	vi.	蹒跚，摇晃
+4615	staggering	adj.	巨大的，惊人的
+4616	stagnant	adj.	停滞的, 迟钝的
+4617	stain	n.	污点，瑕疵
+4618	stained	adj.	污染的，玷污的
+4619	sustain	vt.	支撑；维持，持续
+4620	staircase	n.	楼梯
+4621	stalk	vt.	隐伏跟踪（猎物）
+4621	 	n.	茎，柄，梗
+4622	stamina	n.	体力，耐力
+4623	stand	vt.	站立；忍受，容忍
+4624	stand in the way of	词组	挡住…的道路
+4625	withstand	vt.	抵挡，经受住
+4626	standpoint	n.	立场，观点
+4627	newsstand	n.	报摊，杂志摊
+4628	standard	n./adj.	标准（的）
+4629	standardize	vt.	使符合标准，使标准化
+4630	standardized	adj.	标准化的
+4631	standing	adj.	固定的，常设的
+4631	 	n.	身分，名望
+4632	long-standing	adj.	长期存在的
+4633	outstanding	adj.	杰出的，显著的
+4634	stanza	n.	（诗）节，段
+4635	staple	n.	主要产品，日常必需品
+4635	 	adj.	主要的，常用的
+4635	 	vt.	把…订起来
+4636	starch	n.	淀粉；淀粉食物
+4637	stardom	n.	明星的身份或地位
+4638	starfish	n.	海星
+4639	stark	adj.	光秃秃的；荒凉的
+4640	starve	v.	挨饿
+4641	starvation	n.	饥饿，饿死
+4642	stash	vt.	藏或贮存于一秘密处所
+4642	 	n.	隐藏处
+4643	stately	adj.	庄严的，堂皇的
+4644	stationary	adj.	固定的；静止的
+4645	stationery	n.	文具
+4646	statistics	n.	统计学
+4647	statue	n.	雕像
+4648	stature	n.	身高，身材；声望，地位
+4649	status	n.	状况；身份，地位
+4650	steadfast	adj.	坚定的，坚信的
+4651	steady	adj.	稳的，牢固的
+4651	 	adj.	持续的
+4652	steak	n.	(供煎, 烤等的)肉, 牛排
+4653	steep	adj.	险峻的，陡峭的
+4653	 	v.	浸，泡；沉浸
+4654	steer	v.	驾驶，掌舵
+4655	stellar	adj.	星的，星球的
+4656	interstellar	adj.	星际的
+4657	stem	n.	（植物的）茎
+4657	 	v.	来源于，基于 stem from
+4658	sterile	adj.	贫瘠的；不育的
+4658	 	adj.	消过毒的
+4659	stern	adj.	苛刻的，严格的；严厉的
+4660	stick	n.	棍，棒；手杖
+4660	 	v.	粘住，粘贴
+4660	 	v.	stick to 坚持
+4661	sticky	adj.	粘的，粘性的
+4662	matchstick	n.	火柴杆
+4663	yardstick	n.	<美> 码尺, 准绳
+4664	stickpin	n.	领带夹
+4665	stiff	adj.	硬的，僵直的
+4665	 	adj.	（态度、举止）拘谨的
+4666	stiffen	vt.	使硬，使僵硬
+4667	stifle	vt.	使窒息；扼杀，抑制
+4668	stimulate	vt.	刺激，激励，激发
+4669	stimulation	n.	激励，鼓舞，刺激
+4670	stimulus	n.	刺激；刺激物
+4671	stimuli	n.	stimulus复数
+4672	stimulant	n.	刺激物，兴奋剂
+4673	sting	v.	刺；刺痛
+4674	stipend	n.	薪贴；奖学金；养老金
+4675	stipulate	vt.	约定，规定
+4676	stipulation	n.	规定，条款
+4677	stitch	v.	缝
+4678	stock car racing	词组	专业汽车比赛
+4679	stocky	adj.	(人或动物)矮而结实的，粗壮的
+4680	stonemason	n.	石工，石匠
+4681	stout	adj.	结实的，勇敢坚定的
+4682	strain	n.	过度的疲劳，紧张
+4682	 	n.	血统；物种
+4682	 	vt.	过滤
+4683	constrain	vt.	抑制，拘束
+4684	constraint	n.	约束，强制
+4685	restraint	n.	抑制，克制
+4686	unrestrained	adj.	无限制的
+4687	strand	n.	绳、线之一股
+4688	strap	n.	带，皮带
+4689	strata	n.	地层（复数）
+4690	stratum	n.	地层（单数）；阶层
+4691	strengthen	vt.	加强，巩固
+4692	strenuous	adj.	费力的；艰辛的
+4693	strenuously	adv.	奋发地，费力地
+4694	stretch	v.	伸展，伸长
+4695	stride	n.	大步，一跨步
+4696	strike	n./v.	罢工，打击
+4697	striking	adj.	醒目的，惊人的
+4698	strikingly	adv.	醒目地, 引人侧目地
+4699	string	n.	（乐器的）弦；细绳，带子
+4700	strings	n.	弦乐器
+4701	stringent	adj.	严厉的
+4701	 	adj.	缺钱的，银根紧的，周转困难的
+4702	strip	vt.	剥夺；剥掉
+4702	 	n.	条，带
+4703	stripe	n.	斑纹，条纹
+4704	strive	vi.	努力，奋斗；力求
+4705	stroke	n.	（绘画等）一笔；一击
+4706	stubborn	adj.	顽固的，固执的
+4707	stubbornness	n.	倔强，顽强
+4708	studio	n.	录音室；艺术家工作室
+4709	stumble	vi.	绊倒
+4710	stunning	adj.	令人惊叹的，极好的
+4711	stun	vt.	使晕倒，打晕；使震惊
+4712	stunt	n.	惊人表演，绝技；特技
+4712	 	vt.	阻碍…发育，妨碍…生长
+4713	sturdy	adj.	(人)强健的，结实的；(物)稳固的
+4714	stylized	adj.	风格化的，程式化的
+4715	subduct	v.	减去，除去
+4716	subject to	词组	服从
+4717	subjected	adj.	服从的，隶属的
+4718	submarine	n.	潜水艇，潜艇
+4718	 	adj.	水下的，海底的
+4719	submerge	v.	（使）沉没，淹没
+4720	submerged	adj.	在水中的，淹没的
+4721	submit	v.	服从
+4721	 	v.	提交，递交
+4722	subsequent	adj.	随后的，后来的
+4723	subsequently	adv.	随后
+4724	subside	v.	平息，减退
+4725	subsidiary	n.	支流；子公司
+4726	subsidize	v.	补助，资助
+4727	subsidy	n.	补助金，津贴
+4728	subsist	vi.	生存，存在，供养
+4729	subsistence	n.	生存；生计；存活
+4730	substantial	adj.	相当的，可观的
+4730	 	adj.	坚固的
+4731	substantially	adv.	相当多地，大大地
+4732	substantiate	vt.	证实，加强
+4733	unsubstantiated	adj.	未被证实的
+4734	substantive	adj.	真实的，有实质的
+4735	substitute	vt.	代替
+4735	 	n.	代替者，代替品
+4736	subterranean	adj.	地下的，地表下的
+4737	subtle	adj.	微妙的，细微的
+4738	subtract	v.	减去   ~ from
+4739	subtraction	n.	减少
+4739	 	n.	减法
+4740	subtractive	adj.	减法的；负的
+4741	suburb	n.	郊区
+4742	suburbanization	n.	近郊化，郊区建造
+4743	suburbanite	n.	郊区居民
+4744	subversive	adj.	颠覆性的，破坏性的
+4745	successive	adj.	连续的，相继的
+4746	succinct	adj.	简明的，简洁的
+4747	succumb	vi.	屈服，屈从
+4748	sue	v.	向…请求，请愿
+4748	 	v.	提出诉讼，控告
+4749	pursue	vt.	追赶，追踪；从事
+4750	tissue	n.	薄的纱织品；薄纸，棉纸；组织
+4751	sufficient	adj.	足够的，充足的
+4752	insufficient	adj.	不足的，不够的
+4753	suit	vt.	适合，适应
+4754	suited	adj.	适合的，匹配的
+4755	suitable	adj.	适当的，相配的
+4756	suite	n.	一批，一套，组
+4757	lawsuit	n.	诉讼(尤指非刑事案件)
+4758	suitcase	n.	手提箱, 衣箱
+4759	summit	n.	山顶，顶点
+4760	sumptuous	adj.	奢侈的，华丽的
+4761	sunlight	n.	日光，阳光
+4762	sunlit	adj.	被日光照射了的, 阳光照射的
+4763	sunshine	n.	阳光
+4764	sunflower	n.	向日葵
+4765	sunrise	n.	日出
+4766	sunset	n.	日落
+4767	sunburn	n.	晒斑, 晒黑
+4768	sundial	n.	(通过太阳知道时间的)日规, 日晷
+4769	sunglasses	n.	太阳镜；墨镜
+4770	superb	adj.	极好的，超级的
+4771	superficial	adj.	肤浅的，表面（上）的
+4772	superficially	adv.	浅薄地
+4773	superintendent	n.	主管，负责人
+4774	superior	adj.	级别或地位更高的；质量或价值更好的
+4775	superior to	词组	高于，优于
+4776	supernatural	adj.	超自然的，神奇的
+4777	supervise	vt.	监督，指导
+4778	supervision	n.	监督，管理
+4779	supervisor	n.	主管，管理人
+4780	supplant	vt.	排挤；取代
+4781	supple	adj.	柔软的，灵活的；柔顺的
+4782	supplement	vt.	增补，补充
+4782	 	n.	增补，补充
+4783	supplementary	adj.	补充的
+4784	supplementation	n.	增补，补充
+4785	suppose	vt.	推想，假设
+4786	supposedly	adv.	按说，应该i
+4787	supposition	n.	假定
+4788	suppress	vt.	镇压，抑制
+4789	supreme	adj.	(权力、级别或地位)至高的；最重要的
+4790	supremely	adv.	无上地，崇高地
+4791	supremacy	n.	至高无上的权力
+4792	surcharge	n.	增付的费用，附加费
+4793	surface	n./adj.	表面（的）
+4793	 	vi.	浮现出来，暴露
+4794	surge	n.	汹涌，澎湃，喷发
+4795	surging	n.	汹涌
+4796	surgeon	n.	外科医生
+4797	surgery	n.	外科；手术室
+4798	surmount	vt.	克服；登上；越过
+4799	insurmountable	adj.	不能克服的, 不能超越的
+4800	surpass	vt.	超越，胜过
+4801	surpassingly	adv.	卓越地，超群地
+4802	surplus	n.	过剩，剩余（物资）
+4802	 	adj.	过剩的
+4803	survey	n./v.	调查
+4804	survive	vi.	(人)幸免于难,活下来；(物)耐久
+4805	survival	n.	生存，幸存
+4806	survivor	n.	生还者，残存物
+4807	survivability	n.	存活率，生命力
+4808	susceptible	adj.	易受影响的；敏感的，过敏的
+4809	susceptible to	词组	易受…影响
+4810	suspect	adj.	令人怀疑的，不可信的
+4810	 	vt.	怀疑，猜想
+4811	suspend	vt.	吊，悬挂
+4811	 	vt.	延缓
+4812	suspender	n.	吊裤带
+4813	suspense	n.	悬念，情节
+4814	suspicious	adj.	可疑的；好猜疑的
+4815	suspicion	n.	怀疑
+4816	sustain	vt.	维持；支撑
+4817	sustained	adj.	持续不变的
+4818	sustenance	n.	食物，生计
+4819	swallow	v.	吞下，咽下
+4819	 	n.	燕子
+4820	swamp	n.	沼泽，湿地
+4821	swampy	adj.	沼泽的，湿地的
+4822	swarm	n.	蜂群，一大群
+4822	 	v.	挤满，密集
+4823	sway	vi.	摇摆，摇动
+4823	 	vt.	使转变，说服
+4824	sweep	v.	席卷，扫过
+4824	 	v.	清扫，打扫
+4824	 	n.	伸展，延伸
+4825	sweeping	adj.	彻底的，广泛的
+4826	swell	vi.	（使）肿胀、膨胀
+4827	swelling	n.	肿胀
+4828	swift	adj.	迅速的，敏捷的
+4829	swiftness	n.	迅速，敏捷
+4830	syllable	n.	（语音）音节
+4831	symbiosis	n.	共生（关系），共栖
+4832	symbiotic	adj.	共栖的，共生的
+4833	symbol	n.	符号，记号；象征
+4834	symbolism	n.	象征主义；符号论
+4835	symbology	n.	象征学
+4836	symbolize	v.	象征
+4837	symmetrical	adj.	对称的
+4838	symmetry	n.	对称（性），匀称
+4839	asymmetrical	adj.	不均匀的, 不对称的
+4840	sympathy	n.	同情，同情心
+4841	sympathize	v.	同情，体谅
+4842	sympathetic	adj.	有同情心的
+4842	 	adj.	赞成的，合意的
+4843	symphony	n.	交响乐，交响曲
+4844	symptom	n.	症状；征兆
+4845	synchronize	vt.	同步，同时发生
+4846	synonym	n.	同义字
+4847	synonymous	adj.	同义的
+4848	synthesize	vt.	综合；合成
+4849	synthesizer	n.	[电子]合成器
+4850	synthesis	n.	综合, 合成
+4851	photosynthesis	n.	光合作用
+4852	synthetic	adj.	合成的，人造的
+4852	 	n.	合成物质
+4853	syrup	n.	糖浆，果汁
+4854	system	n.	系统，体系
+4855	systematic	adj.	系统的，体系的
+4856	systematize	v.	使系统化；将…分类
+4857	ecosystem	n.	生态系统
+4858	tableland	n.	高原
+4859	tactics	n.	战术；策略
+4860	tactile	adj.	触觉的；可触觉的
+4861	tag	vt.	给…加标签；添加，附加
+4861	 	n.	标签，货签
+4862	taint	n.	污点，瑕疵
+4862	 	vt.	污染；玷污
+4863	take into account	词组	考虑到
+4864	talent	n.	才能；天才
+4865	talented	adj.	有天才的，有才能的
+4866	tally	v.	符合，吻合
+4866	 	n.	记录；记账
+4867	tame	vt.	驯养，驯服
+4867	 	adj.	（动物）驯服的，柔顺的
+4868	untamed	adj.	未驯服的
+4869	tap	vt.	开发，利用
+4870	untapped	adj.	未使用的
+4871	tapering	adj.	尖端细的
+4872	tapeworm	n.	[动]绦虫
+4873	tapestry	n.	织锦, 挂毯
+4874	tardy	adj.	迟到的；缓慢的
+4875	tardiness	n.	迟到；缓慢
+4876	tariff	n.	关税
+4877	customs	n.	进口税；海关
+4878	tarnish	n.	晦暗，污点
+4878	 	vt.	使失去光泽；玷污
+4879	taste	v.	品尝，辨味
+4879	 	n.	味道，味觉
+4879	 	n.	品味，兴趣
+4880	tasty	adj.	美味的，可口的
+4881	tasteless	adj.	没味道的
+4882	distasteful	adj.	（令人）不愉快的，讨厌的
+4883	tavern	n.	小酒店；客栈
+4884	tectonics	n.	[地]构造地质学
+4885	tedium	n.	单调乏味
+4886	tedious	adj.	单调乏味的，沉闷的
+4887	teem with	词组	充满
+4888	telegraph	n.	电报机；电报
+4889	telescope	n.	望远镜
+4890	temper	n.	脾气，性情
+4890	 	vt.	缓和，调节
+4891	temperate	adj.	（气候等）温和的
+4891	 	adj.	(欲望、饮食等)适度的,有节制的
+4892	temperance	n.	节制，自制；戒酒；禁酒
+4893	temperature	n.	温度
+4894	temple	n.	寺庙，教堂
+4895	temporary	adj.	短暂的，暂时的
+4896	temporarily	adv.	临时
+4897	contemporary	adj.	当代的，同时代的
+4898	tempt	vt.	诱使
+4899	tempting	adj.	诱惑人的
+4900	tenant	n.	承租人，房客
+4901	tendency	n.	趋势，倾向
+4902	tender	adj.	嫩的，柔软的
+4903	tenderness	n.	亲切，温柔
+4904	contender	n.	竞争者，斗争者
+4905	tenement	n.	出租给房客的住房；(穷人)公寓
+4906	tense	adj.	紧张的，拉紧的
+4907	tension	n.	紧张（状态），压力
+4908	intense	adj.	强烈的，剧烈的
+4909	utensil	n.	器具
+4910	tensile	adj.	可拉长的, 可伸长的
+4911	pretense	n.	矫饰，做作
+4912	pretension	n.	主张，要求
+4913	tentacle	n.	触角，触须，触手
+4914	terminal	n.	总站，终点站
+4914	 	n.	（电脑）终端，接线端
+4915	terminate	v.	停止，结束
+4916	termination	n.	终止，结束
+4917	exterminate	v.	根除，灭绝
+4918	terminology	n.	用辞，术语
+4919	terminus	n.	（火车、汽车）终点站
+4920	termite	n.	白蚁
+4921	terrace	n.	梯田，台地；阳台
+4921	 	vt.	使成梯田
+4922	terrain	n.	地势，地形
+4923	terrestrial	adj.	地球（上）的；陆地的
+4924	terrify	vt.	使恐怖，使惊吓
+4925	terrifying	adj.	恐怖的
+4926	terribly	adv.	可怕地，十分
+4927	terrific	adj.	极好的
+4928	testify to	词组	证实
+4929	textile	n.	纺织品
+4930	texture	n.	质地；（材料等）结构
+4931	textured	adj.	手摸时有感觉的, 有织纹的
+4932	thaw	n.	解冻
+4932	 	v.	解冻，融化
+4933	theft	n.	偷窃
+4934	theme	n.	(谈话, 写作等的)题目, 主题
+4935	theoretical	adj.	理论上的
+4936	thereby	adv.	因此，从而
+4937	therefore	adv.	因此，所以
+4938	thermal	adj.	热的, 热量的
+4939	thesis	n.	论题，论文
+4940	hypothesis	n.	假设
+4941	photosynthesis	n.	光合作用
+4942	synthesis	n.	综合, 合成
+4943	thigh	n.	大腿
+4944	thorny	adj.	有刺的；多刺的
+4945	thorn	n.	[植]刺, 棘
+4946	thorough	adj.	完全的，彻底的
+4947	thoughtful	adj.	体贴的，考虑周到的
+4947	 	adj.	有思想性的
+4948	thread	n.	线
+4949	threadlike	adj.	线状的
+4950	threaten	vt.	威胁；预示…的凶兆，可能来临
+4951	threateningly	adv.	胁迫地
+4952	three-dimensional	adj.	三维的, 立体的
+4953	threshold	n.	开始，开端
+4954	thrifty	adj.	节省的，节俭的
+4955	thrive	vi.	繁荣，兴旺；茁壮成长
+4956	thrive on	词组	在…中旺盛生长
+4957	thrust	n.	推力，冲
+4957	 	vt.	插入，用力刺
+4958	thunderstorm	n.	暴风雨
+4959	tide	n.	潮汐；潮流
+4960	tilt	n.	倾斜
+4961	stilt	n.	高跷，支柱
+4962	timber	n.	木材，木料
+4963	time-consuming	adj.	费时间的
+4964	timid	adj.	胆怯的，羞怯的
+4965	timidity	n.	胆怯
+4966	tint	vt.	给…着色；染
+4966	 	n.	色彩
+4967	tip	n.	顶，尖端
+4967	 	n.	小费
+4968	fingertip	n.	指尖
+4969	tissue	n.	[生]组织
+4969	 	n.	绵纸，薄纸
+4970	to and fro	词组	来来回回i
+4971	toe	n.	趾，脚趾，足尖
+4972	toed	adj.	有趾的
+4973	tolerate	vt.	忍受；容许
+4974	tolerant	adj.	容忍的；宽容的
+4975	tolerance	n.	忍受，宽容
+4976	topography	n.	地形；地形学
+4977	topographical	adj.	地形学的
+4978	topsoil	n.	表层土
+4979	tornado	n.	旋风，龙卷风
+4980	hurricane	n.	飓风
+4981	cyclone	n.	旋风，龙卷风
+4982	torpor	n.	迟钝，不活泼
+4983	torque	n.	扭矩
+4984	torrent	n.	连发，迸发
+4984	 	n.	骤雨；急流，洪流
+4985	torrential	adj.	奔流的，如急流的
+4986	torrential rain	词组	豪雨，大雨
+4987	tortuous	adj.	曲折的, 转弯抹角的
+4988	touching	adj.	动人的，令人感伤的
+4989	touched	adj.	被感动的
+4990	touchdown	n.	着地，降落
+4991	tough	adj.	坚硬的；坚强的
+4991	 	adj.	艰苦的
+4991	 	adj.	坚韧的；严格的,严格执行纪律的
+4992	tournament	n.	比赛，锦标赛
+4993	tow	v.	拖引，牵引
+4993	 	n.	拖，拽
+4994	tower	n.	塔，城堡
+4995	towering	adj.	高耸的；杰出的
+4996	toxic	adj.	有毒的，中毒的
+4997	intoxication	n.	陶醉
+4998	trace	n.	痕迹
+4998	 	vt.	跟踪；追溯
+4999	track	n.	轨道，路经   v. 追踪
+5000	trail	n.	踪迹，小路   v. 追踪
+5001	tract	n.	广阔的地面，大片（土地）
+5001	 	n.	管道
+5002	traction	n.	牵引
+5003	tractor	n.	拖拉机
+5004	tragedy	n.	[戏剧]悲惨；悲惨之事
+5005	trait	n.	特征，特性
+5006	portrait	n.	肖像，人像
+5007	portraiture	n.	肖像画法
+5008	portraitist	n.	肖像画家
+5009	trample	vt.	踩踏；蹂躏
+5010	tranquil	adj.	宁静的，安静的
+5011	tranquility	n.	宁静，安静
+5012	transaction	n.	交易
+5013	transcend	vt.	超出，超越
+5014	transcript	n.	抄本
+5015	transfer	v.	转移；转学
+5016	transform	vt.	（使）变形，改观
+5017	transformation	n.	转变；变形
+5018	transition	n.	转变，过渡
+5019	translucent	adj.	半透明的；透明的
+5020	transmit	v.	传送，传播
+5021	transmitter	n.	传送者，发送器
+5022	neurotransmitter	n.	[生化]神经传递素
+5023	transmute	vt.	使变化，使改变
+5024	transparent	adj.	透明的
+5025	transplant	v.	移植
+5026	trap	v.	捕捉，困住；陷害
+5026	 	n.	圈套，陷阱
+5027	trapper	n.	设阱捕兽者
+5028	strap	v.	用带缚住, 用带捆扎
+5029	trash	n.	垃圾，废物
+5030	treacherous	adj.	不可靠的，有暗藏的危险的
+5030	 	adj.	背叛的，背信弃义的
+5031	tread	vi.	踏，践踏；行走
+5032	treadmill	n.	踏车
+5033	treason	n.	叛逆，叛国
+5034	treasure trove	词组	无主埋藏物，无主珍宝
+5035	trove	n.	被发现的东西，收藏的东西
+5036	treatment	n.	待遇，对待
+5036	 	n.	处理，治疗
+5037	tremendous	adj.	巨大的，惊人的
+5038	trench	n.	沟，壕沟
+5039	entrenched	adj.	（权利、传统）确立的，牢固的
+5040	trend	n.	倾向，趋势
+5041	trespass	vt.	侵犯，闯入私人领地
+5042	trespasser	n.	侵犯（他人土地）者
+5043	trial	n.	实验
+5043	 	n.	审讯
+5044	tribal	adj.	部落的，宗族的
+5045	tribe	n.	部落，部族
+5046	tributary	adj.	辅助的，支流的
+5046	 	n.	支流
+5047	tribute	n.	贡品，礼物
+5047	 	n.	颂词，殷勤
+5048	trickle	vi.	滴；细流
+5049	trigger	vt.	引发，引起，触发
+5050	trilogy	n.	三部剧，三部曲
+5051	trim	vt.	修剪，整饰
+5052	triumph	n.	胜利
+5052	 	vi.	获得胜利，成功
+5053	trivial	adj.	微不足道的，琐碎的
+5054	tropical	adj.	热带的
+5055	troublesome	adj.	讨厌的，麻烦的
+5056	troubling	adj.	令人不安的，令人忧虑的
+5057	troupe	n.	剧团
+5058	trumpet	n.	喇叭
+5059	trumpeter	n.	喇叭手，号兵
+5060	trustworthy	adj.	可信赖的
+5061	tub	n.	桶，浴盆
+5062	tube	n.	管子；电子管，显像管
+5063	tuition	n.	学费
+5064	tumble	v.	翻滚   n. 平脚杯
+5065	tundra	n.	苔原，冻土地带
+5066	tunnel	n.	隧道
+5067	turbulent	adj.	吵闹的；狂暴的
+5068	turbulence	n.	喧嚣，骚乱
+5069	turnpike	n.	公路，收费高速公路
+5070	turquoise	n.	绿宝石
+5071	tutor	vt.	辅导；当…的家庭教师
+5071	 	n.	家庭教师
+5072	tutorial	n.	个别指导
+5073	twig	n.	细枝，嫩枝
+5074	twine	v.	搓，织，编饰；(使)缠绕
+5075	twist	n./v.	扭曲，拧
+5076	tycoon	n.	大企业家，大亨
+5077	typify	vt.	代表，为…之典型
+5078	typical	adj.	典型的；有代表性的
+5079	prototypical	adj.	原型的
+5080	tyrannical	adj.	暴虐的，残暴的
+5081	ultimate	adj.	最终的，最后的
+5082	ultimatum	n.	最后通牒
+5083	ultrasonic	adj.	超音速的，超声（波）的
+5084	ultrasonics	n.	超音波学
+5085	ultraviolet	adj.	紫外线的
+5086	unadorned	adj.	未装饰的,朴实的
+5087	unanimity	n.	全体一致，一致同意
+5088	unanimous	adj.	全体意见一致的
+5089	unbiased	adj.	没有偏见的
+5090	unbridgeable	adj.	不能架桥的, 不能逾越的
+5091	unbridled	adj.	放纵的，无约束的
+5092	unbroken	adj.	完整的；持续的
+5093	uncharted	adj.	地图上没标明的
+5094	unconscious	adj.	不省人事的；无意识的
+5095	unconventional	adj.	非传统的，与先前不同的
+5096	uncover	v.	发现，揭示
+5097	underdeveloped	adj.	不发达的
+5098	underestimate	v.	低估
+5099	undergo	v.	经历，遭受
+5100	undergraduate	n.	(尚未取得学位的)大学生
+5101	graduate	n.	(大学)毕业生, 研究生
+5102	postgraduate	n.	研究生
+5103	underground	adj.	地下的，地面下的
+5104	underlying	adj.	基础的；在下面的
+5105	underlie	vt.	位于...之下, 成为...的基础
+5106	undermine	v.	渐渐破坏，暗地里破坏
+5107	underscore	v.	划线于…下，强调
+5108	undertake	v.	从事，承担
+5109	undertaking	n.	任务；事业
+5110	underwater	adj.	在水下的，在水中的
+5111	undo	v.	解开，松开
+5111	 	v.	逆转或清除；取消
+5112	undoubtedly	adv.	毋庸置疑地，确凿地
+5113	unearth	vt.	发觉，挖出；揭露
+5114	unemployed	adj.	失业的
+5115	unevenly	adv.	不平坦地；不均衡地
+5116	unexplored	adj.	未开发的，未探索的
+5117	unfair	adj.	不公平的
+5118	unfertilized	adj.	未施肥的，未受精的
+5119	unfortunately	adv.	不幸地
+5120	uniform	n.	制服
+5120	 	adj.	统一的；始终如一的
+5121	uniformity	n.	同样，一式
+5122	unify	vt.	统一，使成一体
+5123	unimaginable	adj.	不可想象的
+5124	uninhabited	adj.	无人居住的
+5125	unique	adj.	独一无二的；独特的
+5126	uniqueness	n.	独特，独一无二
+5127	unity	n.	结合，一致
+5128	community	n.	团体，社会；(生物)群落
+5129	opportunity	n.	机会，时机
+5130	immunity	n.	免疫性
+5131	universal	adj.	宇宙的
+5131	 	adj.	普遍的；共同的
+5132	universe	n.	宇宙
+5133	unmatched	adj.	无可匹敌的
+5134	unpack	v.	打开包裹（或行李）
+5135	unpalatable	adj.	味道差的, 不好吃的
+5136	unprecedented	adj.	前所未有的，空前的
+5137	unpredictable	adj.	不可预知的
+5138	unpromising	adj.	无前途的, 没有希望的
+5139	unravel	v.	弄清楚（秘密）
+5139	 	v.	拆开；解开；松开
+5140	unrestrained	adj.	无限制的
+5141	unrestricted	adj.	无限制的, 自由的
+5142	unscrupulous	adj.	肆无忌惮的, 无道德原则的
+5143	unselfish	adj.	不自私的, 慷慨的
+5144	unsophisticated	adj.	不懂事故的，单纯的
+5145	unstable	adj.	不稳定的
+5146	unsubstantiated	adj.	未经证实的
+5147	untouched	adj.	未触及的
+5148	unwieldy	adj.	笨拙的；(因太大、太重、形状奇特等)不易被移动的，笨重的
+5149	upgrade	v.	使升级，提升
+5150	upheaval	n.	剧变
+5151	uphold	v.	维护，支持
+5152	upland	n.	丘陵地带，高地
+5153	uproot	v.	连根拔起，拔除
+5153	 	v.	根除,灭绝；赶出家园,被迫移开
+5154	upset	adj.	心烦意乱的
+5154	 	v.	颠覆，推翻；扰乱
+5155	upside-down	adj.	颠倒的
+5156	urban	adj.	城市的
+5157	urbane	adj.	温文尔雅的
+5158	urbanism	n.	都市生活, 都市化
+5159	urbanite	n.	都市人
+5160	urbanize	vt.	使都市化，使文雅
+5161	urbanization	n.	都市化，文雅化
+5162	suburbanite	n.	郊区居民
+5163	urge	v.	催促；力劝，恳求
+5163	 	n.	冲动
+5164	urgent	adj.	紧急的，迫切的
+5165	urgency	n.	紧急情况
+5166	usher in	词组	引发，产生
+5167	utilitarian	adj.	功利的；实利的
+5168	utility	n.	公用事业公司；公用事业设备
+5168	 	n.	运用，效用
+5169	utilize	v.	利用
+5170	utilization	n.	利用
+5171	utopian	adj.	乌托邦式的，空想的
+5172	utter	v.	做声；发表
+5172	 	adj.	全然的，完全的
+5173	utterance	n.	说话，说话的方式
+5174	utterly	adv.	完全地，绝对地
+5175	shutter	n.	百叶窗；快门
+5176	butter	n.	黄油，牛油
+5177	butterfly	n.	[动]蝴蝶
+5178	vacant	adj.	空的，未被占用的
+5179	vacancy	n.	空白，空缺
+5180	vacation	n.	度假，休假
+5181	vacate	vt.	腾出，空出
+5182	vaccine	n.	疫苗
+5183	vaccinate	v.	进行预防接种
+5184	vacuum	n.	真空
+5185	vague	adj.	模糊的；含糊的
+5186	valid	adj.	有效的；有根据的，正确的
+5187	validity	n.	有效性，合法性
+5188	validate	vt.	使生效，确认，证实
+5189	valve	n.	活门，阀
+5190	vanish	vi.	消失；灭绝
+5191	vapor	n.	水汽，水蒸气
+5192	vaporize	v.	（使）蒸发
+5193	vaporization	n.	蒸发
+5194	evaporate	v.	（使）蒸发，消失
+5195	evaporation	n.	蒸发（作用）
+5196	variable	n.	[数]变数, 变量
+5196	 	adj.	可变的, 易变的
+5197	variation	n.	变异；变种
+5198	variability	n.	可变性
+5199	variety	n.	变化，多样性
+5200	variance	n.	分歧；差异
+5201	varied	adj.	杂色的，各式各样的
+5202	various	adj.	各种的
+5203	varnish	vt.	涂上清漆，修饰
+5203	 	n.	清漆
+5204	vast	adj.	巨大的，大量的；范围广的
+5205	vastness	n.	巨大
+5206	vault	n.	拱顶；地下室
+5207	vaulted	adj.	拱状的
+5208	vegetation	n.	植物，草木，植被
+5209	vegetable	n.	蔬菜
+5210	vegetarian	n.	素食者
+5211	vehicle	n.	交通工具, 车辆
+5211	 	n.	媒介物, 传达手段
+5212	veil	vt.	隐藏，遮蔽       n. 面纱
+5213	vein	n.	静脉
+5214	veining	n.	脉络分布；矿脉
+5215	velocity	n.	速度；速率
+5216	venerable	adj.	值得尊敬的，庄严的
+5217	veneration	n.	尊敬, 崇拜
+5218	venom	n.	(蛇的)毒液
+5218	 	n.	恶意, 怨恨
+5219	venomous	adj.	有毒的
+5220	vent	n.	通风孔；出烟孔
+5221	ventilate	vt.	使通风
+5222	ventilation	n.	通风
+5223	venture	n.	冒险（事业），投机活动
+5224	adventure	n.	冒险，冒险的经历
+5225	venturesome	adj.	好冒险的；（行为）冒险的
+5226	venue	n.	地点；会场
+5227	avenue	n.	林荫道, 大街
+5228	verbal	adj.	口头的
+5229	nonverbal	adj.	不用语言的
+5230	verify	vt.	证明，证实
+5231	versatile	adj.	多才多艺的
+5231	 	adj.	通用的；可塑的，可变形的
+5232	verse	n.	诗，韵文
+5233	universe	n.	宇宙，世界
+5234	converse	v.	谈话，交谈
+5235	diverse	adj.	不同的，变化多的
+5236	adverse	adj.	不利的；敌对的；相反地
+5237	reverse	adj.	反面的；颠倒的；倒开的
+5238	version	n.	译本，译文
+5238	 	n.	一种描述
+5239	conversion	n.	变换，转化
+5240	vertebrate	n./adj.	脊椎动物（的）
+5241	invertebrate	n.	无脊椎动物
+5242	vertical	adj.	垂直的，竖直的
+5243	vessel	n.	船
+5243	 	n.	脉管
+5243	 	n.	容器
+5244	vestige	n.	痕迹，遗迹，残余
+5245	veteran	n.	老兵；老手
+5246	veto	n.	否决；否决权
+5246	 	vt.	否决；禁止
+5247	viable	adj.	可行的，切实可行的
+5247	 	adj.	能活下去的
+5248	viability	n.	生存能力，发育能力
+5249	vibrant	adj.	活泼的；生气勃勃的
+5250	vibrate	v.	颤动，震动
+5251	vibration	n.	振动，颤动
+5252	vicinity	n.	附近，接近
+5253	victor	n.	胜利者；获胜者
+5254	victory	n.	胜利，战胜
+5255	victorious	adj.	获胜的，胜利的
+5256	vie	v.	竞争
+5257	vigilance	n.	警戒，警惕
+5258	vigor	n.	精力，活力
+5259	vigorous	adj.	健壮的，精力旺盛的；有力的
+5260	vine	n.	葡萄藤，蔓
+5261	ravine	n.	沟壑，峡谷
+5262	violence	n.	暴力，强暴
+5263	nonviolence	n.	非暴力
+5264	violent	adj.	暴力引起的，暴烈的
+5264	 	adj.	激烈的，强烈的
+5265	viral	adj.	病毒的
+5266	virus	n.	[微]病毒
+5267	virtue	n.	美德
+5268	virtually	adv.	事实上，实质上
+5269	victuosity	n.	艺术鉴别力
+5270	viscosity	n.	粘度，粘性
+5271	viscous	adj.	粘滞的，粘性的
+5272	vision	n.	视觉
+5273	visibility	n.	可见度
+5274	revision	n.	修订，修改
+5275	supervision	n.	监督，管理
+5276	provision	n.	供应；（一批）供应品；规定
+5277	envision	vt.	想象，预想
+5278	division	n.	分开，分割
+5279	subdivision	n.	细分，一部
+5280	vista	n.	景色
+5281	vital	adj.	极重要的，致命的
+5282	vitalism	n.	活机论, 生机说
+5283	vitalist	n.	活力论者
+5284	vitality	n.	活力，生命力
+5285	revitalization	n.	新生,复兴
+5286	vivid	adj.	(光线、色彩)鲜艳的，强烈的
+5286	 	adj.	生动的，逼真的
+5287	vocation	n.	职业
+5288	vocational	adj.	职业的
+5289	avocation	n.	(个人)副业，业余爱好
+5290	void	n.	空白，空虚
+5290	 	adj.	无效的
+5291	devoid	adj.	全无的，缺乏的
+5292	volatile	adj.	挥发性的
+5292	 	adj.	可变的，不稳定的
+5293	volcanic	adj.	火山的
+5294	volcano	n.	火山
+5295	voltage	n.	电压
+5296	volume	n.	体积，容积；量
+5297	voluntary	adj.	自愿的；志愿的
+5298	involuntary	adj.	自然而然的，无意的
+5299	volunteer	n.	自愿者
+5299	 	v.	自愿
+5300	voracious	adj.	狼吞虎咽的，贪婪的
+5301	vote	vt.	投票
+5301	 	n.	投票，选票
+5302	voter	n.	投票者，选举人
+5303	devote	vt.	投入于，献身
+5304	vowel	n.	元音
+5305	voyage	n.	旅行，航程
+5306	vulnerable	adj.	易受攻击的；易受伤害的
+5307	wade	v.	涉水，费力行走
+5308	wagon	n.	四轮马车
+5309	waist	n.	腰，腰部
+5310	wrist	n.	手腕，腕关节
+5311	wristwatch	n.	手表
+5312	waive	v.	放弃；免除
+5313	walkout	n.	罢工
+5314	walnut	n.	胡桃，核桃树
+5315	wane	v.	减少，衰落
+5316	ward off	词组	防止，挡住
+5317	ware	n.	陶器，器皿
+5318	earthenware	n.	土器，陶器
+5319	tableware	n.	餐具
+5320	hardware	n.	五金器具，硬件
+5321	glassware	n.	玻璃器具
+5322	warehouse	n.	仓库，货栈
+5323	warranty	n.	担保，保证；保修
+5324	warrantable	adj.	可证明为正确的，可证实的
+5325	warrior	n.	战士，勇士
+5326	wary	adj.	小心翼翼的，机警小心的
+5327	waste disposal	词组	废物处理
+5328	watercourse	n.	水道，河道
+5329	waterproof	adj.	防水的
+5330	wavy	adj.	波状的，起浪的；波动的
+5331	wax	n.	蜂蜡；蜡状物
+5331	 	v.	上蜡于
+5332	waxy	adj.	苍白的；光滑的
+5333	weapon	n.	武器
+5334	wear away	词组	磨去
+5335	wear out	词组	用坏，磨损
+5336	weary	adj.	疲倦的；厌倦的
+5337	weariness	n.	疲倦
+5338	weather	v.	风化
+5339	weathering	n.	侵蚀，风化
+5340	weave	vi.	迂回行进
+5340	 	vt.	编织，组合
+5341	weaverbird	n.	[鸟]织巢鸟之一种
+5342	weaver	n.	织布者，织工
+5343	wed	v.	娶，嫁，结婚
+5344	wedding	n.	婚礼
+5345	wedge-shaped	adj.	楔形的
+5346	weed	n.	杂草
+5347	locoweed	n.	[植] 疯草(牲畜食后引起疯草病)
+5348	seaweed	n.	海草，海藻
+5349	weep	vi.	哭泣
+5350	weird	adj.	怪诞的，奇异的
+5351	weld	v.	焊接
+5352	welfare	n.	福利
+5353	well-being	n.	安宁，福利
+5354	well organize	词组	有组织的
+5355	whim	n.	随意，冲动
+5356	whisk off	词组	突然带走
+5357	whittle	v.	削；削减
+5358	wholesale	adj.	批发的
+5358	 	adj.	大规模的
+5359	wholesaler	n.	批发商
+5360	wholesome	adj.	有益健康的
+5361	wildlife	n.	野生动植物
+5362	willow	n.	柳树
+5363	wind up	词组	结束，终止
+5364	wipe out	词组	毁灭，破坏
+5365	wit	n.	智力，才智
+5366	withdraw	v.	撤退
+5366	 	v.	收回，撤销
+5367	withdrawal	n.	收回；撤退，退回
+5368	wither	v.	（使）枯萎，凋谢
+5369	withstand	vt.	承受，抵住
+5370	witness	vt.	目击；为…作证
+5370	 	n.	证人
+5371	eyewitness	n.	目击者, 见证人
+5372	woods	n.	森林
+5373	cottonwood	n.	[植]三叶杨,棉白杨
+5374	softwood	n.	软木材
+5375	wool	n.	羊毛
+5376	woolen	adj.	羊毛制的；毛织品的
+5377	woolly	adj.	多毛的
+5378	worldwide	adj.	全世界的
+5379	wrap	vt.	裹，包，捆
+5380	wreck	n.	失事；失事的残骸
+5380	 	vt.	失事
+5381	shipwreck	n.	船只失事, 海难
+5382	wrestling	n.	摔跤，格斗
+5383	wring	vt.	绞，拧，扭
+5384	wrinkle	n.	皱纹，褶皱
+5385	yarn	n.	纱，纱线
+5386	yawn	n.	呵欠
+5387	yelp	vi.	狗吠
+5388	yield	v.	生产；产生
+5388	 	v.	屈服；放弃；投降
+5388	 	n.	产量；收益
+5389	yield to	词组	屈服于…
+5390	yolk	n.	蛋黄
+5391	zeal	n.	热心，热情，热忱
+5392	zealous	adj.	热心的；狂热的
+5393	zenith	n.	顶点，顶峰
+5394	zigzag	adj.	曲折的
+5394	 	adj.	锯齿状的，Z字形的
+5395	zone	n.	区域；地带
+5396	ozone	n.	[化]臭氧
